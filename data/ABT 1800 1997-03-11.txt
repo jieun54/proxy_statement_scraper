@@ -1,0 +1,1258 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JvQBLPAVCwLO3kVwnrtxfLVRaxvzrRhEyJCnUNi/ZfCfrKlAFVf5Syh9Xif8EPCC
+ Dv1d/sPsjWlyYQZg0JNr9g==
+
+0000912057-97-008405.txt : 19970312
+0000912057-97-008405.hdr.sgml : 19970312
+ACCESSION NUMBER:		0000912057-97-008405
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970425
+FILED AS OF DATE:		19970311
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABBOTT LABORATORIES
+		CENTRAL INDEX KEY:			0000001800
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				360698440
+		STATE OF INCORPORATION:			IL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02189
+		FILM NUMBER:		97554199
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 ABBOTT PARK ROAD
+		STREET 2:		D-322 AP6D
+		CITY:			ABBOTT PARK
+		STATE:			IL
+		ZIP:			60064-3500
+		BUSINESS PHONE:		(708)-937-6100
+
+
+DEF 14A
+1
+DEF 14A
+
+
+                            SCHEDULE 14A INFORMATION
+ 
+                  Proxy Statement Pursuant to Section 14(a) of
+            the Securities Exchange Act of 1934 (Amendment No.    )
+ 
+    Filed by the Registrant /X/
+    Filed by a Party other than the Registrant / /
+ 
+    Check the appropriate box:
+    / /  Preliminary Proxy Statement
+    / /  Confidential, for Use of the Commission Only (as permitted by Rule
+         14a-6(e)(2))
+    /X/  Definitive Proxy Statement
+    / /  Definitive Additional Materials
+    / /  Soliciting Material Pursuant to Section240.14a-11(c) or
+         Section240.14a-12
+ 
+                                        ABBOTT LABORATORIES
+- --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+ 
+- --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+ 
+Payment of Filing Fee (Check the appropriate box):
+ 
+/ /  No fee required.
+/ /  Fee   computed  on   table  below   per  Exchange   Act  Rules  14a-6(i)(1)
+     and 0-11.
+     (1) Title of each class of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (2) Aggregate number of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+         filing fee is calculated and state how it was determined):
+         -----------------------------------------------------------------------
+     (4) Proposed maximum aggregate value of transaction:
+         -----------------------------------------------------------------------
+     (5) Total fee paid:
+         -----------------------------------------------------------------------
+/ /  Fee paid previously with preliminary materials.
+/ /  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the  filing for which the  offsetting fee was  paid
+     previously.  Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+     (1) Amount Previously Paid:
+         -----------------------------------------------------------------------
+     (2) Form, Schedule or Registration Statement No.:
+         -----------------------------------------------------------------------
+     (3) Filing Party:
+         -----------------------------------------------------------------------
+     (4) Date Filed:
+         -----------------------------------------------------------------------
+
+ABBOTT LABORATORIES
+          NOTICE OF
+     ANNUAL MEETING
+    OF SHAREHOLDERS
+                AND
+    PROXY STATEMENT
+               1997
+
+[ABBOTT LABORATORIES LOGO]
+ABBOTT LABORATORIES
+100 ABBOTT PARK ROAD
+ABBOTT PARK, ILLINOIS 60064-3500 U.S.A.
+ 
+COVER:
+ 
+WHEN RECURRING HEADACHES CAUSED KAREN WILLICK TO MISS OUT ON MANY OF HER
+FAVORITE ACTIVITIES, HER NEUROLOGIST USED AN MRI SCAN OF HER BRAIN TO ENSURE AN
+ACCURATE DIAGNOSIS. TO PROVIDE A CLEAR IMAGE OF KAREN'S BRAIN, HER DOCTOR USED
+MAGNEVIST,-TM- AN MRI CONTRAST IMAGING AGENT DISTRIBUTED BY ABBOTT THROUGH A
+CO-PROMOTION AGREEMENT WITH BERLEX LABORATORIES, INC. THE IMAGING PROCEDURE
+ALLOWED THE DOCTOR TO ELIMINATE MANY POSSIBLE CAUSES OF KAREN'S HEADACHES AND
+PRESCRIBE AN EFFECTIVE TREATMENT REGIMEN. TODAY, KAREN IS FREE FROM HEADACHES
+AND ABLE TO ENJOY TIME WITH HER HUSBAND, PURSUE HER CAREER AND MAINTAIN A
+REGULAR AEROBIC EXERCISE SCHEDULE.
+
+- --------------------------------------------------------------------------------
+ 
+YOUR VOTE
+IS IMPORTANT
+ 
+PLEASE SIGN AND PROMPTLY RETURN YOUR
+PROXY IN THE ENCLOSED ENVELOPE.
+ 
+NOTICE OF ANNUAL MEETING
+OF SHAREHOLDERS
+ 
+The Annual Meeting of the Shareholders of Abbott Laboratories will be held at
+the corporation's headquarters, 100 Abbott Park Road, at the intersection of
+Route 137 and Waukegan Road, Lake County, Illinois, on Friday, April 25, 1997 at
+9:00 a.m. for the following purposes:
+ 
+(1) To elect twelve directors to hold office until the
+next Annual Meeting or until their successors are elected (Item No. 1 on proxy
+card);
+ 
+(2) To ratify the appointment of Arthur Andersen LLP
+as auditors of the corporation for 1997 (Item No. 2 on proxy card); and
+ 
+(3) To transact such other business as may properly
+come before the meeting.
+ 
+The board of directors recommends that you vote FOR Items 1 and 2 on the proxy
+card.
+ 
+The close of business February 26, 1997 has been fixed as the record date for
+determining the shareholders entitled to receive notice of, and to vote at, the
+Annual Meeting.
+ 
+Admission to the meeting will be by admission card only. If you plan to attend,
+please complete and return the reservation form on the back cover, and an
+admission card will be sent to you.
+ 
+By order of the board of directors.
+ 
+JOSE M. DE LASA
+SECRETARY
+March 11, 1997
+ 
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+ 
+ABBOTT LABORATORIES
+PROXY STATEMENT
+ 
+SOLICITATION OF PROXIES
+ 
+The accompanying proxy is solicited on behalf of the board of directors for use
+at the Annual Meeting of Shareholders. The meeting will be held on April 25,
+1997 at the corporation's headquarters, 100 Abbott Park Road, at the
+intersection of Route 137 and Waukegan Road, Lake County, Illinois. This proxy
+statement and the accompanying proxy card are being mailed to shareholders on or
+about March 11, 1997. The corporation will bear the cost of making solicitations
+from its shareholders and will reimburse banks and brokerage firms for
+out-of-pocket expenses incurred in connection with this solicitation. Proxies
+may also be solicited by mail or in person by directors, officers, or employees
+of the corporation and its subsidiaries. The corporation has also retained
+Georgeson & Company Inc. to aid in the solicitation of proxies, at an estimated
+cost of $14,000 plus reimbursement for reasonable out-of-pocket expenses.
+ 
+- --------------------------------------------------
+ 
+VOTING SECURITIES AND RECORD DATE
+ 
+Shareholders of record at the close of business on February 26, 1997 will be
+entitled to notice of, and to vote at, the Annual Meeting. As of January 31,
+1997, the corporation had 774,437,884 outstanding common shares, which are the
+only outstanding voting securities.
+ 
+- --------------------------------------------------
+ 
+VOTING OF PROXIES
+ 
+A shareholder may vote in person, by a duly executed proxy, or through an
+authorized representative. The bylaws provide that a shareholder may authorize
+no more than three persons as proxies to attend and vote at the meeting. Proxies
+may be revoked at any time prior to the meeting. This may be done by written
+notice delivered to the secretary of the corporation, or by signing and
+delivering a proxy with a later date.
+ 
+All shareholders have cumulative voting rights in the election of directors and
+one vote per share on all other matters. Cumulative voting allows a shareholder
+to multiply the number of shares owned by the number of directors to be elected
+and to cast the total for one nominee or distribute the votes among the nominees
+as the shareholder desires. Nominees who receive the greatest number of votes
+will be elected.
+ 
+Unless authority is withheld in accordance with instructions on the proxy, the
+persons named in the proxy will vote the shares covered by proxies they receive
+to elect the 12 nominees hereinafter named. These
+ 
+- --------------------------------------------------------------------------------
+1
+
+shares may be voted cumulatively so that one or more of the nominees may receive
+fewer votes than the other nominees (or no votes at all). Should a nominee
+become unavailable to serve, the shares will be voted for a substitute
+designated by the board of directors, or for fewer than 12 nominees if, in the
+judgment of the proxy holders, such action is necessary or desirable.
+ 
+Where a shareholder has specified a choice for or against approval of the
+ratification of Arthur Andersen LLP as auditors, the shares represented by the
+proxy will be voted as specified. Where no choice has been specified, the proxy
+will be voted FOR ratification of Arthur Andersen LLP as auditors.
+ 
+A majority of the outstanding shares, entitled to vote on a matter, represented
+in person or by proxy, shall constitute a quorum for consideration of such
+matter at the meeting. The affirmative vote of a majority of the shares
+represented at the meeting and entitled to vote on a matter shall be the act of
+the shareholders with respect to that matter. Abstentions and withheld votes
+have the effect of votes against a matter.
+ 
+A proxy may indicate that all or a portion of the shares represented by such
+proxy are not being voted with respect to a particular matter. This could occur,
+for example, when a broker or bank is not permitted to vote stock held in street
+name on certain matters in the absence of instructions from the beneficial owner
+of the stock. These "non-voted shares" will be considered shares not present
+and, therefore, not entitled to vote on such matter, although these shares may
+be considered present and entitled to vote for other purposes. Non-voted shares
+will not affect the determination of the outcome of the vote on any matter to be
+decided at the meeting.
+ 
+It is the corporation's policy that all proxies, ballots and voting tabulations
+that reveal how a particular shareholder has voted be kept confidential and not
+be disclosed except: (i) where disclosure may be required by law or regulation,
+(ii) where disclosure may be necessary in order for the corporation to assert or
+defend claims, (iii) where a shareholder writes comments on his or her proxy
+card, (iv) where a shareholder expressly requests disclosure, (v) to allow the
+inspectors of election to certify the results of a vote, or (vi) in limited
+circumstances, such as a contested election or proxy solicitation not approved
+and recommended by the board of directors.
+ 
+The inspectors of election and the tabulators of all proxies, ballots and voting
+tabulations that identify shareholders are independent and are not employees of
+the corporation.
+ 
+The board of directors is not aware of any other issue which may properly be
+brought before the meeting. If other matters are properly brought before the
+meeting, the accompanying proxy will be voted in accordance with the judgment of
+the proxy holders.
+ 
+- --------------------------------------------------
+ 
+INFORMATION CONCERNING SECURITY OWNERSHIP
+ 
+On January 31, 1997, the Abbott Laboratories Stock Retirement Trust, c/o Abbott
+Laboratories, 100 Abbott Park Road, Abbott Park, Illinois 60064-3500, held
+60,423,224 common shares (approximately 7.8 percent of the outstanding common
+shares) of the corporation. These shares were held for the individual accounts
+of approximately 37,342 employees and other plan participants who participate in
+the Abbott Laboratories Stock Retirement Plan. The Stock Retirement Trust is
+administered by both a trustee and three co-trustees. The trustee of the Trust
+is Putnam Fiduciary Trust Company. The co-trustees are G. P. Coughlan, T. C.
+Freyman, and E. M. Walvoord, officers of the corporation. The voting power with
+respect to the shares owned by the Trust is held by and shared among the
+co-trustees. The co-trustees must solicit and follow voting instructions from
+the participants, if the co-trustees determine that a matter to be voted on at a
+shareholder meeting could materially affect the interests of participants. The
+individual participants have investment power over these shares, as provided by
+the terms of the Trust. The Trust Agreement is of unlimited duration. The
+co-trustees are also fiduciaries for certain other employee benefit trusts
+maintained by the corporation and have shared voting and/or investment power
+with respect to the 209,652 common shares (approximately .03 percent of the
+outstanding shares of the corporation) held by those trusts.
+ 
+- --------------------------------------------------
+ 
+COMMITTEES OF THE BOARD OF DIRECTORS
+ 
+The board of directors, which held seven meetings in 1996, has four committees
+established in the corporation's bylaws: the executive committee, audit
+committee, compensation committee, and nominations and board affairs committee.
+ 
+The executive committee, whose members are D. L. Burnham, chairman, H. L.
+Fuller, W. D. Smithburg, J. R. Walter, and W. L. Weiss, did not hold any
+meetings in 1996. This committee may exercise all the authority of the board in
+the management of the corporation, except for matters expressly reserved by law
+for board action.
+ 
+The audit committee, whose members are J. R. Walter, chairman, K. F. Austen, D.
+A. Jones, D. A. L. Owen, B. Powell, Jr., and W. A. Reynolds, held two meetings
+in 1996. This committee provides advice and assistance regarding accounting,
+auditing, and financial reporting
+ 
+- --------------------------------------------------------------------------------
+                                                                               2
+
+practices of the corporation. Each year, it recommends to the board a firm of
+independent public accountants to serve as auditors. The audit committee reviews
+with such auditors the scope and results of their audit, fees for services, and
+independence in servicing the corporation. The committee also meets with the
+corporation's internal auditors to evaluate the effectiveness of the work they
+perform.
+ 
+The compensation committee, whose members are W. D. Smithburg, chairman, H. L.
+Fuller, A. F. Jacobson, A. B. Rand, and W. L. Weiss held two meetings in 1996.
+This committee is responsible for setting and administering the policies and
+programs that govern both annual compensation and stock ownership programs.
+ 
+The nominations committee held two meetings in 1996. In December of 1996, the
+nominations committee assumed the functions previously performed by the board
+affairs committee and was renamed the nominations and board affairs committee.
+The members of this committee are W. A. Reynolds, chairman, K. F. Austen, D. A.
+Jones, D. A. L. Owen, B. Powell, Jr., and A. B. Rand. This committee develops
+general criteria regarding the qualifications and selection of board members and
+officers, recommends candidates for such positions to the board of directors,
+and advises the board of directors with respect to the conduct of board
+activities, including assisting the board in the evaluation of the board's own
+performance. A shareholder may recommend persons as potential nominees for
+director or directly nominate persons for director by complying with the
+procedures on page 14.
+ 
+The board affairs committee, whose members were W. L. Weiss, chairman, K. F.
+Austen, H. L. Fuller, A. F. Jacobson, and D. A. Jones, held one meeting in 1996.
+This committee was responsible for advising the board of directors with respect
+to the conduct of board activities. In cooperation with the nominations
+committee, it assisted the board in the evaluation of the board's own
+performance. Its functions have been assumed by the nominations and board
+affairs committee.
+ 
+The average attendance of all directors at board and committee meetings in 1996
+was 91 percent. B. Powell, Jr. attended 73 percent of the total number of board
+meetings and meetings held by the committees on which he served.
+ 
+- --------------------------------------------------
+ 
+INFORMATION CONCERNING NOMINEES FOR DIRECTORS
+(ITEM NO. 1 ON PROXY CARD)
+ 
+Twelve directors are to be elected to hold office until the next Annual Meeting
+or until their successors are elected. All of the nominees are currently serving
+as directors. A. F. Jacobson is not standing for reelection.
+ 
+- --------------------------------------------------------------------------------
+3
+
+- ----------------------------------------------------
+ 
+NOMINEES FOR ELECTION AS DIRECTORS
+ 
+
+ 
+                          K. FRANK AUSTEN, M.D.                 AGE 68                 DIRECTOR SINCE 1983
+                          PROFESSOR OF MEDICINE, HARVARD MEDICAL SCHOOL, BOSTON, MASSACHUSETTS
+   [PHOTO1]               DR. AUSTEN IS THE THEODORE B. BAYLES PROFESSOR OF MEDICINE ON THE FACULTY OF
+                          HARVARD MEDICAL SCHOOL. DR. AUSTEN IS A DIRECTOR OF HUMANA INC., A TRUSTEE OF
+                          AMHERST COLLEGE AND A MEMBER OF THE NATIONAL ACADEMY OF SCIENCES AND OF THE
+                          AMERICAN ACADEMY OF ARTS AND SCIENCES. HE HAS SERVED AS PRESIDENT OF THE AMERICAN
+                          ASSOCIATION OF IMMUNOLOGISTS, THE AMERICAN ACADEMY OF ALLERGY AND IMMUNOLOGY, AND
+                          THE ASSOCIATION OF AMERICAN PHYSICIANS.
+ 
+                          DUANE L. BURNHAM                  AGE 55                  DIRECTOR SINCE 1985
+                          CHAIRMAN OF THE BOARD AND CHIEF EXECUTIVE OFFICER, ABBOTT LABORATORIES
+   [PHOTO2]               MR. BURNHAM JOINED ABBOTT IN 1982. HE WAS ELECTED VICE CHAIRMAN IN 1986, CHIEF
+                          EXECUTIVE OFFICER IN 1989, AND CHAIRMAN OF THE BOARD IN 1990. MR. BURNHAM
+                          RECEIVED BOTH HIS UNDERGRADUATE AND M.B.A. DEGREES FROM THE UNIVERSITY OF
+                          MINNESOTA. HE SERVES AS A DIRECTOR OF NCR CORPORATION, SARA LEE CORPORATION,
+                          EVANSTON HOSPITAL CORPORATION, THE LYRIC OPERA OF CHICAGO, AND THE HEALTHCARE
+                          LEADERSHIP COUNCIL; AS A TRUSTEE OF NORTHWESTERN UNIVERSITY AND THE MUSEUM OF
+                          SCIENCE AND INDUSTRY; AS A MEMBER OF THE BUSINESS ROUNDTABLE; AND AS CHAIRMAN OF
+                          THE EMERGENCY COMMITTEE FOR AMERICAN TRADE.
+ 
+                          H. LAURANCE FULLER                   AGE 58                   DIRECTOR SINCE 1988
+                          CHAIRMAN AND CHIEF EXECUTIVE OFFICER, AMOCO CORPORATION, CHICAGO, ILLINOIS
+   [PHOTO3]               (INTEGRATED PETROLEUM AND CHEMICALS COMPANY)
+                          MR. FULLER WAS ELECTED PRESIDENT OF AMOCO CORPORATION IN 1983 AND CHAIRMAN AND
+                          CHIEF EXECUTIVE OFFICER IN 1991. HE IS A MEMBER OF AMOCO CORPORATION'S EXECUTIVE
+                          COMMITTEE AND HAS BEEN A DIRECTOR OF AMOCO SINCE 1981, WHEN HE BECAME EXECUTIVE
+                          VICE PRESIDENT. FROM 1978 UNTIL 1981, MR. FULLER WAS PRESIDENT OF AMOCO OIL
+                          COMPANY, WHICH WAS RESPONSIBLE FOR AMOCO CORPORATION'S PETROLEUM REFINING,
+                          MARKETING, AND TRANSPORTATION OPERATIONS. HE IS A DIRECTOR OF THE CHASE MANHATTAN
+                          CORPORATION AND THE CHASE MANHATTAN BANK, N.A., MOTOROLA, INC., THE AMERICAN
+                          PETROLEUM INSTITUTE, AND THE REHABILITATION INSTITUTE OF CHICAGO; AND A TRUSTEE
+                          OF THE ORCHESTRAL ASSOCIATION AND NORTHWESTERN UNIVERSITY.
+
+ 
+- --------------------------------------------------------------------------------
+                                                                               4
+
+
+ 
+ 
+                            THOMAS R. HODGSON                  AGE 55                  DIRECTOR SINCE 1985
+                            PRESIDENT AND CHIEF OPERATING OFFICER, ABBOTT LABORATORIES
+   [PHOTO4]                 MR. HODGSON JOINED ABBOTT IN 1972. HE WAS ELECTED EXECUTIVE VICE PRESIDENT IN 1985, AND
+                            PRESIDENT AND CHIEF OPERATING OFFICER IN 1990. MR. HODGSON HAS A B.S. DEGREE FROM PURDUE
+                            UNIVERSITY, AN M.S.E. DEGREE IN CHEMICAL ENGINEERING FROM THE UNIVERSITY OF MICHIGAN, AN
+                            M.B.A. DEGREE FROM HARVARD BUSINESS SCHOOL, AND WAS AWARDED AN HONORARY DOCTORATE OF
+                            ENGINEERING FROM PURDUE UNIVERSITY. HE SERVES AS TRUSTEE OF RUSH-PRESBYTERIAN-ST. LUKE'S
+                            MEDICAL CENTER AND ON THE ENGINEERING VISITING COMMITTEE AT PURDUE UNIVERSITY.
+ 
+                            DAVID A. JONES                    AGE 65                    DIRECTOR SINCE 1982
+                            CHAIRMAN AND CHIEF EXECUTIVE OFFICER, HUMANA INC., LOUISVILLE, KENTUCKY (HEALTH PLAN
+   [PHOTO5]                 BUSINESS)
+                            MR. JONES IS CO-FOUNDER OF HUMANA INC. AND HAS BEEN CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+                            SINCE ITS ORGANIZATION IN 1961. HE RECEIVED A B.S. DEGREE FROM THE UNIVERSITY OF
+                            LOUISVILLE AND A J.D. DEGREE FROM YALE UNIVERSITY.
+ 
+                            THE RT. HON. LORD OWEN CH              AGE 58              DIRECTOR SINCE 1996
+                            PHYSICIAN, POLITICIAN, AND BUSINESSMAN, LONDON, UNITED KINGDOM
+   [PHOTO6]                 DAVID OWEN IS A BRITISH SUBJECT. HE WAS A NEUROLOGIST AND RESEARCH FELLOW ON THE MEDICAL
+                            UNIT OF ST. THOMAS' HOSPITAL, LONDON FROM 1965 THROUGH 1968. HE SERVED AS A MEMBER OF
+                            PARLIAMENT FOR PLYMOUTH IN THE HOUSE OF COMMONS FROM 1966 UNTIL HE RETIRED IN MAY OF 1992.
+                            IN 1992 HE WAS CREATED A LIFE PEER AND WAS MADE A MEMBER OF THE HOUSE OF LORDS. IN AUGUST
+                            OF 1992, THE EUROPEAN UNION, AS PART OF ITS PEACE SEEKING EFFORTS IN THE BALKANS,
+                            APPOINTED HIM CO-CHAIRMAN OF THE INTERNATIONAL CONFERENCE ON FORMER YUGOSLAVIA. HE STEPPED
+                            DOWN FROM THAT POST IN JUNE OF 1995. LORD OWEN WAS SECRETARY FOR FOREIGN AND COMMONWEALTH
+                            AFFAIRS FROM 1977 TO 1979 AND MINISTER OF HEALTH FROM 1974 TO 1976. HE IS CURRENTLY A
+                            DIRECTOR OF COATS VIYELLA PLC AND EXECUTIVE CHAIRMAN OF MIDDLESEX HOLDINGS PLC.
+
+ 
+- --------------------------------------------------------------------------------
+5
+
+
+ 
+ 
+                            BOONE POWELL, JR.                   AGE 60                   DIRECTOR SINCE 1985
+                            PRESIDENT AND CHIEF EXECUTIVE OFFICER, BAYLOR HEALTH CARE SYSTEM AND BAYLOR UNIVERSITY
+   [PHOTO7]                 MEDICAL CENTER, AND VICE PRESIDENT, BAYLOR UNIVERSITY, DALLAS, TEXAS
+                            MR. POWELL HAS BEEN ASSOCIATED WITH BAYLOR UNIVERSITY MEDICAL CENTER SINCE 1980 WHEN HE
+                            WAS NAMED PRESIDENT AND CHIEF EXECUTIVE OFFICER. PRIOR TO JOINING BAYLOR, HE WAS PRESIDENT
+                            OF HENDRICK MEDICAL CENTER IN ABILENE, TEXAS. MR. POWELL SERVES AS AN ACTIVE MEMBER OF
+                            VOLUNTARY HOSPITALS OF AMERICA. HE IS A DIRECTOR OF COMERICA BANK-TEXAS, PHYSICIAN
+                            RELIANCE NETWORK AND CABLE HEALTHCARE AND A FELLOW OF THE AMERICAN COLLEGE OF HEALTH CARE
+                            EXECUTIVES. MR. POWELL IS A GRADUATE OF BAYLOR UNIVERSITY. HE RECEIVED A MASTER'S DEGREE
+                            IN HOSPITAL ADMINISTRATION FROM THE UNIVERSITY OF CALIFORNIA.
+ 
+                            ADDISON BARRY RAND                  AGE 52                  DIRECTOR SINCE 1992
+                            EXECUTIVE VICE PRESIDENT, XEROX CORPORATION, STAMFORD, CONNECTICUT (DOCUMENT PROCESSING,
+   [PHOTO8]                 INSURANCE AND FINANCIAL SERVICES COMPANY)
+                            MR. RAND JOINED XEROX CORPORATION IN 1968. HE WAS ELECTED A CORPORATE OFFICER IN 1985,
+                            NAMED PRESIDENT OF THE COMPANY'S U.S. MARKETING GROUP IN 1986, AND APPOINTED TO HIS
+                            PRESENT POSITION IN 1992. MR. RAND EARNED A BACHELOR'S DEGREE FROM AMERICAN UNIVERSITY AND
+                            MASTER'S DEGREES IN BUSINESS ADMINISTRATION AND MANAGEMENT SCIENCES FROM STANFORD
+                            UNIVERSITY. HE HAS ALSO BEEN AWARDED SEVERAL HONORARY DOCTORATE DEGREES. MR. RAND SERVES
+                            AS A DIRECTOR OF AMERITECH CORPORATION AND HONEYWELL, INC. HE IS ALSO A MEMBER OF THE
+                            BOARD OF OVERSEERS OF THE ROCHESTER PHILHARMONIC ORCHESTRA AND A MEMBER OF THE STANFORD
+                            UNIVERSITY GRADUATE SCHOOL OF BUSINESS ADVISORY COUNCIL. IN 1993 HE WAS ELECTED TO THE
+                            NATIONAL SALES/MARKETING HALL OF FAME.
+ 
+                            W. ANN REYNOLDS, PH.D.                AGE 59                DIRECTOR SINCE 1980
+                            CHANCELLOR, THE CITY UNIVERSITY OF NEW YORK, NEW YORK, NEW YORK
+   [PHOTO9]                 DR. REYNOLDS WAS APPOINTED CHANCELLOR OF THE CITY UNIVERSITY OF NEW YORK IN 1990, AFTER
+                            SERVING AS CHANCELLOR OF THE CALIFORNIA STATE UNIVERSITY SINCE 1982. PRIOR TO THAT, DR.
+                            REYNOLDS SERVED AS CHIEF ACADEMIC OFFICER OF OHIO STATE UNIVERSITY AND ASSOCIATE VICE
+                            CHANCELLOR FOR RESEARCH AND DEAN OF THE GRADUATE COLLEGE OF THE UNIVERSITY OF ILLINOIS
+                            MEDICAL CENTER. SHE ALSO HELD APPOINTMENTS AS PROFESSOR OF ANATOMY, RESEARCH PROFESSOR OF
+                            OBSTETRICS AND GYNECOLOGY, AND ACTING ASSOCIATE DEAN FOR ACADEMIC AFFAIRS AT THE
+                            UNIVERSITY OF ILLINOIS COLLEGE OF MEDICINE. DR. REYNOLDS IS A GRADUATE OF EMPORIA STATE
+                            UNIVERSITY (KANSAS) AND HOLDS M.S. AND PH.D. DEGREES IN ZOOLOGY FROM THE UNIVERSITY OF
+                            IOWA. SHE IS ALSO A DIRECTOR OF HUMANA INC., MAYTAG CORPORATION, AND OWENS-CORNING
+                            FIBERGLAS CORP.
+
+ 
+- --------------------------------------------------------------------------------
+                                                                               6
+
+
+ 
+ 
+                            WILLIAM D. SMITHBURG                 AGE 58                 DIRECTOR SINCE 1982
+                            CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER, THE QUAKER OATS COMPANY, CHICAGO,
+  [PHOTO10]                 ILLINOIS (WORLDWIDE FOOD MANUFACTURER AND MARKETER OF BEVERAGES AND GRAIN-BASED PRODUCTS)
+                            MR. SMITHBURG JOINED QUAKER OATS IN 1966 AND BECAME PRESIDENT AND CHIEF EXECUTIVE OFFICER
+                            IN 1981, AND CHAIRMAN AND CHIEF EXECUTIVE OFFICER IN 1983 AND ALSO SERVED AS PRESIDENT
+                            FROM NOVEMBER 1990 TO JANUARY 1993 AND AGAIN FROM NOVEMBER 1995. MR. SMITHBURG WAS ELECTED
+                            TO THE QUAKER BOARD IN 1978 AND SERVES ON ITS EXECUTIVE COMMITTEE. HE IS ALSO A DIRECTOR
+                            OF NORTHERN TRUST CORPORATION, CORNING INCORPORATED, AND PRIME CAPITAL CORP. HE IS A
+                            MEMBER OF THE BOARD OF TRUSTEES OF NORTHWESTERN UNIVERSITY. MR. SMITHBURG EARNED A B.S.
+                            DEGREE FROM DEPAUL UNIVERSITY AND AN M.B.A. DEGREE FROM NORTHWESTERN UNIVERSITY.
+ 
+                            JOHN R. WALTER                    AGE 50                    DIRECTOR SINCE 1990
+                            PRESIDENT AND CHIEF OPERATING OFFICER, AT&T CORPORATION, BASKING RIDGE, NEW JERSEY
+  [PHOTO11]                 (TELECOMMUNICATIONS COMPANY)
+                            IN OCTOBER 1996, MR. WALTER WAS NAMED PRESIDENT AND CHIEF OPERATING OFFICER OF AT&T
+                            CORPORATION. PRIOR TO THAT TIME, MR. WALTER WAS CHAIRMAN AND CHIEF EXECUTIVE OFFICER OF R.
+                            R. DONNELLEY & SONS COMPANY, A PRINTING COMPANY. MR. WALTER JOINED R.R. DONNELLEY & SONS
+                            COMPANY IN 1969 AND WAS NAMED GROUP PRESIDENT IN 1985 AND EXECUTIVE VICE PRESIDENT IN
+                            1986. HE WAS ELECTED PRESIDENT IN 1987 AND CHAIRMAN OF THE BOARD AND CHIEF EXECUTIVE
+                            OFFICER IN 1989. MR. WALTER WAS ELECTED TO THE DONNELLEY BOARD IN 1987 AND SERVED ON ITS
+                            BOARD UNTIL OCTOBER OF 1996. HE HOLDS A BACHELOR'S DEGREE FROM MIAMI UNIVERSITY OF OHIO.
+                            MR. WALTER SERVES AS A DIRECTOR OF AT&T CORPORATION, DAYTON HUDSON CORPORATION, DEERE &
+                            COMPANY, AND AS A TRUSTEE OF THE ORCHESTRAL ASSOCIATION AND NORTHWESTERN UNIVERSITY.
+ 
+                            WILLIAM L. WEISS                   AGE 67                   DIRECTOR SINCE 1984
+                            CHAIRMAN EMERITUS, AMERITECH CORPORATION, CHICAGO, ILLINOIS (TELECOMMUNICATIONS COMPANY)
+  [PHOTO12]                 ON JANUARY 1, 1984, MR. WEISS BECAME CHAIRMAN AND CHIEF EXECUTIVE OFFICER OF AMERITECH
+                            CORPORATION AND SERVED IN THAT CAPACITY UNTIL JANUARY 1994 WHEN HE WAS NAMED CHAIRMAN OF
+                            THE BOARD. HE HAS BEEN CHAIRMAN EMERITUS SINCE MAY 1994. PRIOR TO THAT, HE WAS CHAIRMAN
+                            AND CHIEF EXECUTIVE OFFICER (1982-83) AND PRESIDENT AND CHIEF EXECUTIVE OFFICER (1981-82)
+                            OF ILLINOIS BELL TELEPHONE COMPANY. PREVIOUSLY, HE WAS PRESIDENT OF INDIANA BELL TELEPHONE
+                            COMPANY (1978-81) AND SERVED IN VARIOUS OTHER CAPACITIES WITH THE BELL SYSTEM. MR. WEISS
+                            IS A DIRECTOR OF THE QUAKER OATS COMPANY, MERRILL LYNCH & CO., INC., AND TENNECO
+                            CORPORATION. HE IS ALSO A TRUSTEE OF NORTHWESTERN UNIVERSITY, THE PENNSYLVANIA STATE
+                            UNIVERSITY, THE ORCHESTRAL ASSOCIATION, THE LYRIC OPERA OF CHICAGO, AND THE MUSEUM OF
+                            SCIENCE AND INDUSTRY.
+
+ 
+- --------------------------------------------------------------------------------
+7
+
+- --------------------------------------------------------------------------------
+ 
+EXECUTIVE COMPENSATION
+ 
+Report of the Compensation Committee
+ 
+The compensation committee of the board of directors is composed entirely of
+directors who have never been employees of the corporation. The committee is
+responsible for setting and administering the policies and programs that govern
+both annual compensation and stock ownership programs.
+ 
+The foundation of the executive compensation program is based on principles
+designed to align compensation with the corporation's business strategy, values
+and management initiatives. The program:
+ 
+    - Integrates compensation programs which link total shareholder return with
+      both the corporation's annual and long-term strategic planning and
+      measurement processes.
+ 
+    - Supports a performance-oriented environment that rewards actual
+      performance that is related to both goals and performance of the
+      corporation as compared to that of industry performance levels.
+ 
+    - Helps attract and retain key executives critical to the long-term success
+      of the corporation.
+ 
+The key components of the compensation program are base salary, annual incentive
+award, and equity participation. These components are administered with the goal
+of providing total compensation that is competitive in the marketplace,
+recognizes meaningful differences in individual performance and offers the
+opportunity to earn above average rewards when merited by individual and
+corporate performance.
+ 
+The marketplace is defined by comparing the corporation to a group of major
+corporations with similar characteristics, including industry and technology
+emphasis. These companies are included in the Standard and Poor's Healthcare
+Composite Index. A select group of non-healthcare companies chosen for size and
+performance comparability to the corporation is used as a secondary source of
+comparison.
+ 
+Using compensation survey data from the comparison groups, a target for total
+compensation and each of its elements -- base, incentive, and equity-based
+compensation -- is established. The intent is to deliver total compensation that
+will be in the upper range of pay practices of peer companies when merited by
+the corporation's performance. To achieve this objective, a substantial portion
+of executive pay is delivered through performance-related variable compensation
+programs which are based upon achievement of the corporation's goals. Each year
+the committee reviews the elements of executive compensation to ensure that the
+total compensation program, and each of its elements, meets the overall
+objectives discussed above.
+ 
+In 1996, total compensation was paid to executives based on individual
+performance and on the extent to which the business plans for their areas of
+responsibility were achieved or exceeded. On balance, performance goals were
+substantially met or exceeded and therefore compensation was paid accordingly.
+ 
+Base compensation was determined by an assessment of each executive's
+performance, current salary in relation to the salary range designated for the
+job, experience, and potential for advancement as well as by the performance of
+the corporation. While many aspects of performance can be measured in financial
+terms, the committee also evaluated the success of the management team in areas
+of performance that cannot be measured by traditional accounting tools,
+including the development and execution of strategic plans, the development of
+management and employees, and the exercise of leadership within the industry and
+in the communities that Abbott serves. All of these factors were collectively
+taken into account by management and the compensation committee in determining
+the appropriate level of base compensation and annual increases.
+ 
+The Abbott Management Incentive Plan is designed to reward executives when the
+corporation achieves certain financial objectives and when each executive's area
+of responsibility meets its predetermined goals. These goals include financial
+elements such as profitability, total sales, and earnings per share and
+non-financial elements such as the achievement of selected strategic goals and
+the successful development of human resources. Each year, individual incentive
+targets are established for incentive plan participants based on competitive
+survey data from the group of companies discussed above. As noted above, targets
+are set to deliver total compensation between the mid and upper range of
+competitive practice as warranted by corporate performance. For 1996, 40% of the
+target award was earned for achievement of the corporation's earning per share
+goal. The remainder of the targeted incentive was earned based on the
+committee's overall assessment of each participant's achievement of the
+predetermined goals discussed above.
+ 
+The corporation has provided forms of equity participation as a key part of its
+total program for motivating and rewarding executives and managers for many
+years. Grants of stock options and restricted stock
+ 
+- --------------------------------------------------------------------------------
+                                                                               8
+
+have provided an important part of the equity link to shareholders. Through
+these vehicles, the corporation has encouraged its executives to obtain and hold
+the corporation's stock. Targeted award ranges for stock options and restricted
+stock opportunities are determined taking into account competitive practice
+among the comparison companies noted above. Equity participation targets are set
+based on established salary ranges and level of performance. As noted above, the
+target ranges are established such that equity participation opportunities will
+be in the mid-to-upper range of pay practices of peer companies when merited by
+corporation and individual performance.
+ 
+Actual individual awards are determined based on the established competitive
+target range and the committee's overall assessment of individual performance.
+The committee considers the amounts of options and restricted stock previously
+granted and the aggregate size of current awards in deciding to award additional
+options and restricted stock.
+ 
+In 1996, the committee granted Mr. Burnham, the corporation's Chairman and Chief
+Executive Officer, a base salary increase of 3.5% which was consistent with the
+corporation's established merit increase program. As reflected in the
+corporation's financial statements, Abbott's performance in 1996 included 10.0%
+growth in sales and 13.7% growth in earnings per share. In light of this
+performance and their overall assessment of his performance, the committee
+determined to grant Mr. Burnham a bonus, stock option grant and restricted
+stock.
+ 
+It is the committee's policy to establish and maintain compensation programs for
+executive officers which operate in the best interests of the corporation and
+its stockholders in achieving the corporation's long-term business objectives.
+To that end, the committee will continue to assess the impact of the Omnibus
+Budget Reconciliation Act of 1993 on its executive compensation strategy and
+take action to assure that appropriate levels of deductibility are maintained.
+ 
+COMPENSATION COMMITTEE
+ 
+W. D. Smithburg, chairman, H. L. Fuller, A. F. Jacobson, A. B. Rand, and W. L.
+Weiss.
+ 
+- --------------------------------------------------------------------------------
+9
+
+- --------------------------------------------------------------------------------
+ 
+Summary Compensation Table
+ 
+The following table summarizes compensation earned in 1996, 1995, and 1994 by
+the Chief Executive Officer and the four other most highly paid executive
+officers (the "named officers") in 1996.
+ 
+
+
+                                              Annual Compensation         Long-term Compensation
+                                       ---------------------------------  ----------------------
+       
+                                                                Other     Restricted    Securities
+                                                                Annual       Stock      Underlying   All Other
+Name and                                Salary                 Compen-     Award(s)     Options/     Compen-
+Principal Position               Year     ($)     Bonus ($)   sation ($)    ($)(1)      SARs (#)  sation ($)(3)
+- ---------------------------------------------------------------------------------------------------------------
+Duane L. Burnham                 1996  $846,923   $1,055,000  $ 518,747   $1,310,625(2) 210,000   $    30,013
+Chairman of the Board,           1995   818,269    1,000,000    413,422          0      195,000        26,987
+Chief Executive Officer and
+Director                         1994   794,269      800,000    207,556          0      195,000        25,471
+- ---------------------------------------------------------------------------------------------------------------
+Thomas R. Hodgson                1996   606,554      755,000    148,555    733,950(2)   132,000        22,179
+President,                       1995   585,919      725,000    109,061          0      130,000        19,941
+Chief Operating Officer and
+Director                         1994   569,438      650,000     58,311          0      130,002        18,847
+- ---------------------------------------------------------------------------------------------------------------
+Paul N. Clark                    1996   378,654      440,000      1,156          0       50,000        15,119
+Senior Vice President,           1995   361,692      415,000        875          0       40,000        13,032
+Pharmaceutical Operations        1994   342,692      390,000      1,100          0            0        10,920
+- ---------------------------------------------------------------------------------------------------------------
+Gary P. Coughlan                 1996   430,384      430,000    137,999          0       50,000        14,863
+Senior Vice President,           1995   416,923      400,000    104,237          0       40,000        13,399
+Finance and Chief Financial
+Officer                          1994   406,923      380,000     40,684          0            0        12,715
+- ---------------------------------------------------------------------------------------------------------------
+John G. Kringel                  1996   375,865      405,000     98,453          0       50,000        13,404
+Senior Vice President,           1995   363,365      365,000     85,810          0       40,000        12,062
+Hospital Products                1994   352,692      350,000     25,276          0            0        11,383
+- ---------------------------------------------------------------------------------------------------------------
+
+ 
+TABLE FOOTNOTES
+ 
+(1)  The  number  and  value  of restricted  shares  held,  respectively,  as of
+     December 31, 1996 were as follows: D. L. Burnham - 54,000/$2,740,500; T. R.
+     Hodgson - 32,800/$1,664,600; P. N. Clark - 9,600/$487,200; G. P. Coughlan -
+     9,600/$487,200; and J.  G. Kringel -  9,600/$487,200. The officers  receive
+     all dividends paid on these shares.
+ 
+(2)  The  number of shares covered by these  awards are 30,000 for D. L. Burnham
+     and 16,800 for T. R. Hodgson. These awards vest in three equal installments
+     on January 2, 1997, January 2, 1998, and January 4, 1999.
+ 
+(3)  Employer contributions  made  to the  Stock  Retirement Plan  and  made  or
+     accrued with respect to the 401(k) Supplemental Plan.
+
+ 
+- --------------------------------------------------------------------------------
+                                                                              10
+
+- --------------------------------------------------------------------------------
+ 
+Stock Options
+ 
+The following tables summarize the named officers' stock option activity during
+1996.
+ 
+                     Option/SAR Grants in Last Fiscal Year
+ 
+
+
+                                        Individual Grants
+- --------------------------------------------------------------------------------------------------   Potential Realizable Value at
+                                                 % of Total                                          Assumed Annual Rates of Stock
+                                               Options/ SARs                                         Price Appreciation for Option
+                      Number of Securities       Granted to                                                    Term (2):
+                      Underlying Options/       Employees in       Exercise or Base     Expiration  --------------------------------
+Name                  SARs Granted (#)(1)       Fiscal Year          Price ($/Sh.)         Date              5% ($)          10% ($)
+- ------------------------------------------------------------------------------------------------------------------------------------
+      
+Duane L. Burnham             210,000                 3.4%                $43.70           2/9/06         $5,771,369      $14,625,770
+- ------------------------------------------------------------------------------------------------------------------------------------
+Thomas R. Hodgson            132,000                 2.2                  43.70           2/9/06          3,627,718        9,193,341
+- ------------------------------------------------------------------------------------------------------------------------------------
+Paul N. Clark                 50,000                 0.8                  43.70           2/9/06          1,374,136        3,482,326
+- ------------------------------------------------------------------------------------------------------------------------------------
+Gary P. Coughlan              50,000                 0.8                  43.70           2/9/06          1,374,136        3,482,326
+- ------------------------------------------------------------------------------------------------------------------------------------
+John G. Kringel               50,000                 0.8                  43.70           2/9/06          1,374,136        3,482,326
+- ------------------------------------------------------------------------------------------------------------------------------------
+ 
+Gain for all
+Shareholders at
+Assumed Rates for
+Appreciation (3):                                                                                   $24,717,647,734  $62,639,317,111
+- ---------------------------------------------------------------------------------------------------------------------------------
+
+ 
+TABLE FOOTNOTES
+ 
+(1) One-third of the shares covered by these options are exercisable after one
+    year; two-thirds after two years; and all after three years. Limited stock
+    appreciation rights have been granted in tandem with these options. These
+    rights are only exercisable for sixty days following a change in control of
+    the corporation. Upon exercise, the optionee must surrender the related
+    option and will receive a payment, in cash, in an amount equal to the
+    difference between the option's price and the fair market value of the
+    shares subject to the option.
+ 
+(2) The dollar amounts under these columns are the result of calculations at the
+    5% and 10% rates required by the SEC and, therefore, are not intended to
+    forecast possible future appreciation, if any, of the stock price.
+ 
+(3) Amounts were determined using total shares outstanding at December 31, 1996
+    of 774,449,226 and December 31, 1996 closing market price of $50.75 per
+    share.
+ 
+Aggregated Option/SAR Exercises in Last Fiscal Year and FY-end Option/SAR Values
+ 
+
+
+                                                                 Number of Securities
+                                                                      Underlying         Value of Unexercised
+                                                                     Unexercised             In-the-Money
+                                                                   Options/SARs at          Options/SARs at
+                                                                      FY-end (#)              FY-end ($)
+                                Shares Acquired      Value           Exercisable/            Exercisable/
+Name                            on Exercise (#)   Realized ($)      Unexercisable            Unexercisable
+    
+- ---------------------------------------------------------------------------------------------------------------
+Duane L. Burnham                         0          $      0      676,670 / 405,000     $16,084,800 / $4,730,700
+- ---------------------------------------------------------------------------------------------------------------
+Thomas R. Hodgson                        0                 0      390,012 / 262,000      8,776,340 /  3,091,407
+- ---------------------------------------------------------------------------------------------------------------
+Paul N. Clark                            0                 0      232,078 /  76,666       6,563,141 /   719,592
+- ---------------------------------------------------------------------------------------------------------------
+Gary P. Coughlan                         0                 0      174,660 /  76,666       4,189,778 /   719,592
+- ---------------------------------------------------------------------------------------------------------------
+John G. Kringel                          0                 0      129,068 /  76,666       2,703,992 /   719,592
+- ---------------------------------------------------------------------------------------------------------------
+
+ 
+- --------------------------------------------------------------------------------
+ 
+Annuity Retirement Plan
+ 
+The corporation and certain subsidiaries maintain a defined benefit pension plan
+known as the Abbott Laboratories Annuity Retirement Plan covering most employees
+in the United States, age 21 or older. Pension benefits are generally based on
+service and eligible earnings for the 60 consecutive months within the final 120
+months of employment for which eligible earnings were highest. Pension benefits
+are partially offset for Social Security benefits.
+ 
+The following table shows the estimated annual benefits payable to employees
+upon normal retirement. The amounts shown are computed on a straight life
+annuity basis without giving effect to Social Security offsets and include
+supplemental benefits under a nonqualified supplemental pension plan.
+ 
+- --------------------------------------------------------------------------------
+11
+
+- --------------------------------------------------------------------------------
+ 
+Pension Plan Table
+ 
+
+
+                                 Years of Service
+- -------------  -----------------------------------------------------
+Remuneration      15         20         25         30         35
+     
+- -------------  -----------------------------------------------------
+$    900,000   $ 303,750  $ 405,000  $ 472,500  $ 499,500  $ 499,500
+   1,100,000     371,250    495,000    577,500    610,500    610,500
+   1,300,000     438,750    585,000    682,500    721,500    721,500
+   1,500,000     506,250    675,000    787,500    832,500    832,500
+   1,700,000     573,750    765,000    892,500    943,500    943,500
+   1,900,000     641,250    855,000    997,500  1,054,500  1,054,500
+   2,100,000     708,750    945,000  1,102,500  1,165,500  1,165,500
+   2,300,000     776,250  1,035,000  1,207,500  1,276,500  1,276,500
+   2,500,000     843,750  1,125,000  1,312,500  1,387,500  1,387,500
+   2,700,000     911,250  1,215,000  1,417,500  1,498,500  1,498,500
+- -------------  -----------------------------------------------------
+
+ 
+The table above covers the aggregate pension accrued under both the Annuity
+Retirement Plan and the supplemental pension plan. The compensation considered
+in determining the pensions payable to the named officers is the compensation
+shown in the "Salary" and "Bonus" columns of the Summary Compensation Table on
+page 10 and, for D. L. Burnham and T. R. Hodgson, the restricted stock awards
+vesting during the year ($262,500 and $157,500, respectively, for 1996).
+Pensions accrued under the Annuity Retirement Plan are funded through the Abbott
+Laboratories Annuity Retirement Trust, established on behalf of all participants
+in that plan. Pensions accrued under the nonqualified supplemental pension plan
+with present values exceeding $100,000 are funded through individual trusts
+established on behalf of the officers who participate in that plan. During 1996,
+the following amounts, less applicable tax withholdings, were deposited in such
+individual trusts established on behalf of the named officers: D. L. Burnham,
+$2,469,190; T. R. Hodgson, $2,813,898; P. N. Clark, $425,200; G. P. Coughlan,
+$358,613; and J. G. Kringel, $860,538. As of December 31, 1996, the years of
+service credited under the Plan for the named officers were as follows: D. L.
+Burnham - 14; T. R. Hodgson - 24; P. N. Clark - 12; G. P. Coughlan - 6; and J.
+G. Kringel - 16.
+ 
+- --------------------------------------------------------------------------------
+ 
+Compensation of Directors
+ 
+Employees of the corporation are not compensated for serving on the board or on
+board committees. Non-employee directors are compensated under the Abbott
+Laboratories Non-Employee Directors' Fee Plan in the amounts of $4,167 for each
+month of service as director and $667 for each month of service as chairman of a
+board committee ($1,600 for each month of service as chairman of the executive
+committee).
+ 
+Fees earned under this Plan are paid in cash to the director, paid in the form
+of non-qualified stock options, or deferred (as a non-funded obligation of the
+corporation or paid into a secular trust established by the director) until
+payments commence (generally at age 65 or upon retirement from the board of
+directors). If the fees are deferred, the director may elect to have the fees
+credited to a stock equivalent account under which the fees accrue the same
+return they would have earned if invested in common shares of the corporation.
+Interest is accrued annually on deferred fees not credited to a stock equivalent
+account.
+ 
+If a non-employee director elects to receive any or all of his or her directors'
+fees in the form of non-qualified stock options, the fees covered by that
+election are converted into stock options based on an independent appraisal of
+the value of the options. The options are granted on the date the corresponding
+fees would otherwise be paid and at a purchase price equal to the fair market
+value of the shares covered by the option on the grant date. Each such option is
+fully exercisable after six months from the grant date and may be exercised
+during the ten year period following its grant date.
+ 
+Under the Plan, the corporation may grant a director who retires from the board
+a retirement benefit, and such benefit will be payable to the surviving spouse
+of any director who dies while serving as a director. The retirement benefit
+consists of payment of an amount equal to the monthly director's fee in effect
+on the date the director retires (or, for a director who dies, the fee in effect
+on the date of death) for a period equal to his or her service on the board to a
+maximum of 120 months. In return for the retirement benefit, the director agrees
+to provide consulting services to the board.
+ 
+Under the Abbott Laboratories 1996 Incentive Stock Program, each non-employee
+director who is elected to the board of directors at the annual shareholder
+meeting receives a restricted stock award with a fair market value on the date
+of the award closest to, but not exceeding, twenty-two thousand dollars. In
+1996, this was 537 shares. The shares are nontransferable prior to termination,
+retirement from the board, death, or a change in control of the corporation. The
+non-employee directors are entitled to vote the shares and receive all dividends
+paid on the shares.
+ 
+In 1996, K. F. Austen, a non-employee director, performed services for the
+corporation pursuant to a consulting agreement in the areas of research and
+development, new technology and immunopharmacology. The consulting agreement,
+which expires on March 31, 1998, provides that the fees he earns under the
+agreement may receive the same treatment as fees earned under the Abbott
+Laboratories Non-Employee Directors' Fee Plan. In 1996, Dr. Austen received
+$50,000 for his consulting services.
+ 
+- --------------------------------------------------------------------------------
+                                                                              12
+
+- --------------------------------------------------------------------------------
+ 
+Performance Graph
+ 
+The following graph compares the change in the corporation's cumulative total
+shareholder return on its common shares with the Standard and Poor's 500 Stock
+Index and the Standard and Poor's Healthcare Composite Index.
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+ 
+
+
+                                                                                      ABBOTT LABORATORIES
+   
+1991                                                                                                      $100
+1992                                                                                                     89.86
+1993                                                                                                     89.80
+1994                                                                                                    101.42
+1995                                                                                                    132.17
+1996                                                                                                    164.56
+COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN
+ASSUMING $100 INVESTED ON 12/31/91 WITH DIVIDENDS REINVESTED
+ 
+
+                                                                                      S&P HEALTH CARE COMPOSITE         S&P 500
+  
+1991                                                                                                             $100        $100
+1992                                                                                                            83.71      107.62
+1993                                                                                                            76.67      118.46
+1994                                                                                                            86.73      120.03
+1995                                                                                                           136.90      165.13
+1996                                                                                                           165.31      203.05
+COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN
+ASSUMING $100 INVESTED ON 12/31/91 WITH DIVIDENDS REINVESTED
+
+ 
+- --------------------------------------------------------------------------------
+ 
+Security Ownership of Executive Officers and Directors
+ 
+The table below reflects the numbers of common shares beneficially owned by the
+directors, named officers, and all directors and executive officers of the
+corporation as a group as of January 31, 1997. It also reflects the number of
+equivalent stock units held by non-employee directors under the Abbott
+Laboratories Non-Employee Directors' Fee Plan described on page 12 and by K. F.
+Austen under the consulting agreement described on page 12.
+
+
+- ---------------------------------------------------------------------
+                                   SHARES BENEFICIALLY
+                                    OWNED, EXCLUDING       EQUIVALENT
+NAME                                 OPTIONS (1)(2)       STOCK UNITS
+  
+- ---------------------------------------------------------------------
+K. Frank Austen, M.D.                     10,874               7,077
+- ---------------------------------------------------------------------
+Duane L. Burnham                         404,337                   0
+- ---------------------------------------------------------------------
+Paul N. Clark                             94,759                   0
+- ---------------------------------------------------------------------
+Gary P. Coughlan                          70,688                   0
+- ---------------------------------------------------------------------
+H. Laurance Fuller                        14,942              16,055
+- ---------------------------------------------------------------------
+Thomas R. Hodgson                        425,565                   0
+- ---------------------------------------------------------------------
+Allen F. Jacobson                          4,536               4,871
+- ---------------------------------------------------------------------
+David A. Jones                           147,938              42,142
+- ---------------------------------------------------------------
+ 
+
+ 
+- ---------------------------------------------------------------------
+                                   SHARES BENEFICIALLY
+                                    OWNED, EXCLUDING       EQUIVALENT
+NAME                                 OPTIONS (1)(2)       STOCK UNITS
+  
+- ---------------------------------------------------------------------
+John G. Kringel                          123,700                   0
+- ---------------------------------------------------------------------
+The Lord Owen CH                           1,523                   0
+- ---------------------------------------------------------------------
+Boone Powell, Jr.                         11,624              25,616
+- ---------------------------------------------------------------------
+Addison Barry Rand                         5,030                   0
+- ---------------------------------------------------------------------
+W. Ann Reynolds, Ph.D.                    12,055              26,068
+- ---------------------------------------------------------------------
+William D. Smithburg                      20,291              39,870
+- ---------------------------------------------------------------------
+John R. Walter                             7,874              11,838
+- ---------------------------------------------------------------------
+William L. Weiss                          22,874               4,638
+- ---------------------------------------------------------------------
+All directors and executive
+officers as a group (3)(4)             2,139,690             178,175
+- ---------------------------------------------------------------
+
+ 
+TABLE FOOTNOTES
+ 
+(1) The table excludes unexercised option shares which are exercisable within 60
+    days after January 31, 1997 as follows: D. L. Burnham, 746,670; P. N. Clark,
+    248,745; G. P. Coughlan, 191,327; H. L. Fuller, 758; A. F. Jacobson, 758; T.
+    R. Hodgson, 434,012; J. G. Kringel, 145,735; W. A. Reynolds, 879; W. D.
+    Smithburg, 879; J. R. Walter, 879; W. L. Weiss, 879 and all directors and
+    executive officers as a group 2,933,811.
+ 
+(2) The table includes the shares held in the named officers' accounts in the
+    Abbott Laboratories Stock Retirement Trust as follows: D. L. Burnham, 5,575;
+    P. N. Clark, 3,862; G. P. Coughlan, 4,184; T. R. Hodgson, 27,175; J. G.
+    Kringel, 11,784 and all executive officers as a group, 197,823. Each officer
+    has shared voting power and sole investment power with respect to the shares
+    held in his account.
+ 
+(3) G. P. Coughlan is a fiduciary of several employee benefit trusts maintained
+    by the corporation. As such, he has shared voting and/ or investment power
+    with respect to the common shares held by those trusts. The table does not
+    include the shares held by the trusts. As of January 31, 1997, these trusts
+    owned a total of 60,632,876 (7.8%) of the outstanding shares of the
+    corporation.
+ 
+(4) Excluding G. P. Coughlan's shared voting and/or investment power over the
+    shares held by the trusts described in footnote 3, the directors and
+    executive officers as a group together own beneficially less than one
+    percent of the outstanding shares of the corporation.
+ 
+- --------------------------------------------------------------------------------
+13
+
+- ---------------------------------------------------------------
+ 
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+As required under the Securities Exchange Act of 1934, the corporation notes
+that a report for W. L. Weiss, a director of the corporation, covering a
+purchase of common shares of the corporation by a family trust was filed late.
+ 
+- --------------------------------------------------
+ 
+SELECTION OF INDEPENDENT PUBLIC ACCOUNTANTS
+(ITEM NO. 2 ON PROXY CARD)
+ 
+The bylaws of the corporation provide that, upon the recommendation of the audit
+committee, the board of directors shall appoint annually a firm of independent
+public accountants to serve as auditors, and that such appointment shall be
+submitted for ratification by the shareholders at the Annual Meeting. The board
+has appointed Arthur Andersen LLP to act as auditors for the current year. This
+firm has served as auditors of the corporation since 1963. The board of
+directors recommends a vote FOR ratification of the selection of Arthur Andersen
+LLP as independent public accountants for 1997.
+ 
+Representatives of Arthur Andersen LLP are expected to be present at the Annual
+Meeting and will be given the opportunity to make a statement if they desire to
+do so. They will also be available to respond to appropriate questions.
+ 
+- --------------------------------------------------
+ 
+DATE FOR RECEIPT OF 1998 SHAREHOLDER
+PROPOSALS
+ 
+Shareholder proposals for presentation at the 1998 Annual Meeting must be
+received by the corporation no later than November 12, 1997 and must otherwise
+comply with the applicable requirements of the Securities and Exchange
+Commission to be considered for inclusion in the proxy statement and proxy for
+the 1998 meeting.
+ 
+- --------------------------------------------------
+ 
+PROCEDURE FOR RECOMMENDATION AND
+NOMINATION OF DIRECTORS AND TRANSACTION OF
+BUSINESS AT ANNUAL MEETINGS
+ 
+A shareholder may recommend persons as potential nominees for director by
+submitting the names of such persons in writing to the chairman of the
+nominations and board affairs committee or the secretary of the corporation.
+Recommendations should be accompanied by a statement of qualifications and
+confirmation of the person's willingness to serve.
+ 
+A shareholder may directly nominate persons for director only by complying with
+the following procedure: the shareholder must submit the names of such persons
+in writing to the secretary of the corporation not earlier than the October 1
+nor later than the February 15 prior to the date of the Annual Meeting. The
+nominations must be accompanied by a statement setting forth the name, age,
+business address, residence address, principal occupation, qualifications, and
+number of shares of the corporation owned by the nominee and the name, record
+address, and number of shares of the corporation owned by the shareholder making
+the nomination.
+ 
+A shareholder may properly bring business before the Annual Meeting of
+Shareholders only by complying with the following procedure: the shareholder
+must submit to the secretary of the corporation, not earlier than the October 1
+nor later than the February 15 prior to the date of the Annual Meeting, a
+written statement describing the business to be discussed, the reasons for
+conducting such business at the Annual Meeting, the name, record address, and
+number of shares of the corporation owned by the shareholder making the
+submission, and a description of any material interest of the shareholder in
+such business.
+ 
+- --------------------------------------------------------------------------------
+ 
+GENERAL
+ 
+It is important that proxies be returned promptly. Shareholders are urged,
+regardless of the number of shares owned, to sign and return their proxy card in
+the enclosed business reply envelope.
+ 
+The Annual Meeting will be held at the corporation's headquarters, 100 Abbott
+Park Road, located at the intersection of Route 137 and Waukegan Road, Lake
+County, Illinois. Admission to the meeting will be by admission card only. A
+shareholder planning to attend the meeting should promptly complete and return
+the reservation form to assure timely receipt of an admission card.
+ 
+                                         By order of the board of directors.
+ 
+                                         JOSE M. DE LASA
+                                         SECRETARY
+ 
+- --------------------------------------------------------------------------------
+                                                                              14
+
+   [LOGO]
+ABBOTT LABORATORIES
+100 ABBOTT PARK ROAD
+ABBOTT PARK, ILLINOIS 60064-3500 U.S.A.
+ 
+NOTICE OF ANNUAL MEETING
+OF SHAREHOLDERS
+AND PROXY STATEMENT
+ 
+MEETING DATE
+APRIL 25, 1997
+ 
+ YOUR VOTE IS IMPORTANT!
+ Please sign and promptly return your
+ proxy in the enclosed envelope.
+ 
+  RESERVATION FORM FOR ANNUAL MEETING
+  I am a shareholder of Abbott Laboratories and
+  plan  to attend the Annual Meeting to be held
+  at the corporation's headquarters, 100 Abbott
+  Park Road,  located  at the  intersection  of
+  Route  137  and Waukegan  Road,  Lake County,
+  Illinois at 9:00  a.m. on  Friday, April  25,
+  1997.
+  Please send me an admission card.
+  Name _________________________________________________________________________
+                                   Please Print
+  Address ______________________________________________________________________
+  City __________________________ State ____ Zip Code __________________________
+  Area code and phone number ___________________________________________________
+  Please complete and return this form in the business reply envelope provided,
+  if you plan to attend the meeting. If you hold your Abbott shares through a
+  broker, it is suggested that you return this form directly to the corporation
+  (rather than through your broker) to ensure timely receipt of an admission
+  card.
+
+
+                                      PROXY
+
+                               ABBOTT LABORATORIES
+                  SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+
+
+     The undersigned, revoking previous proxies, acknowledges receipt of the
+Notice and Proxy Statement dated March 11, 1997 in connection with the Annual
+Meeting of Shareholders of Abbott Laboratories to be held at 9:00 a.m. on April
+25, 1997 at the corporation's headquarters, and hereby appoints DUANE L. BURNHAM
+and JOSE M. DE LASA, or either of them, proxy for the undersigned, with power of
+substitution, to represent and vote all shares of the undersigned upon all
+matters properly coming before the Annual Meeting or any adjournments thereof.
+
+INSTRUCTIONS: THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER
+DIRECTED HEREIN BY THE UNDERSIGNED SHAREHOLDER.  IF NO DIRECTION IS MADE, THIS
+PROXY WILL BE VOTED FOR ITEMS 1 AND 2.
+
+
+                (IMPORTANT - PLEASE SIGN AND DATE ON OTHER SIDE.)
+
+
+
+                   PLEASE COMPLETE AND RETURN THE CARD BELOW.
+
+
+                    /x/ Please mark votes as in this example.
+
+       The Board of Directors recommends that you vote FOR Items 1 and 2.
+
+1.   Election of 12 Directors.
+NOMINEES: K.F. Austen, D.L. Burnham, H.L. Fuller, T.R. Hodgson, D.A. Jones,
+D.A.L. Owen, B. Powell, Jr., A.B. Rand, W.A. Reynolds, W.D. Smithburg, J.R.
+Walter, and W.L. Weiss.
+
+          FOR                                     WITHHELD
+          / /                                       / /
+
+FOR except vote withheld from the following nominees:
+
+
+- -----------------------------------------------------
+
+
+2.   Ratification of Arthur Andersen LLP as auditors.
+
+          FOR                 AGAINST             ABSTAIN
+          / /                   / /                 / /
+
+
+
+                MARK HERE FOR ADDRESS CHANGE AND NOTE AT LEFT / /
+
+Each joint tenant should sign; executors, administrators, trustees, etc. should
+give full title and, where more than one is named, a majority should sign.
+
+PLEASE READ OTHER SIDE BEFORE SIGNING.
+
+
+Signature                                         Date:
+         -----------------------------------------      ------------------------
+
+Signature                                         Date:
+         -----------------------------------------      ------------------------
+
+
+
+
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3786 @@
+
+DEF 14A
+1
+mmm021658_def14a.txt
+3M DEFINITIVE PROXY STATEMENT
+
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                  SCHEDULE 14A
+
+                Proxy Statement Pursuant to Section 14(a) of the
+               Securities Exchange Act of 1934 (Amendment No.   )
+
+Filed by the Registrant [X]
+Filed by a Party other than the Registrant [_]
+
+Check the appropriate box:
+
+[_]  Preliminary Proxy Statement          [_]  Soliciting Material Pursuant to
+[_]  Confidential, For Use of the              SS.240.14a-11(c) or SS.240.14a-12
+     Commission Only (as permitted
+     by Rule 14a-6(e)(2))
+[X]  Definitive Proxy Statement
+[_]  Definitive Additional Materials
+
+
+
+                   MINNESOTA MINING AND MANUFACTURING COMPANY
+--------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+
+
+
+--------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)
+
+
+Payment of Filing Fee (Check the appropriate box):
+
+[X]  No fee required.
+[_]  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+
+1)   Title of each class of securities to which transaction applies:
+
+________________________________________________________________________________
+2)   Aggregate number of securities to which transaction applies:
+
+________________________________________________________________________________
+3)   Per unit price or other underlying value of transaction computed pursuant
+     to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is
+     calculated and state how it was determined):
+
+________________________________________________________________________________
+4)   Proposed maximum aggregate value of transaction:
+
+________________________________________________________________________________
+5)   Total fee paid:
+
+________________________________________________________________________________
+
+     [_]  Fee paid previously with preliminary materials:
+     [_]  Check box if any part of the fee is offset as provided by Exchange Act
+          Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+          was paid previously. Identify the previous filing by registration
+          statement number, or the form or schedule and the date of its filing.
+
+          1)   Amount previously paid:
+
+________________________________________________________________________________
+          2)   Form, Schedule or Registration Statement No.:
+
+________________________________________________________________________________
+          3)   Filing Party:
+
+________________________________________________________________________________
+          4)   Date Filed:
+
+________________________________________________________________________________
+
+
+
+
+
+W. JAMES MCNERNEY, JR.
+Chairman of the Board and
+Chief Executive Officer
+
+
+
+
+
+March 29, 2002
+
+
+
+
+
+                                                                          [LOGO]
+
+
+
+Dear Stockholder:
+
+     I am pleased to invite you to attend the Annual Meeting of Stockholders of
+3M, which will be held on Tuesday, May 14, 2002, at 10 a.m., at the
+RiverCentre, 175 West Kellogg Boulevard, St. Paul, Minnesota.
+
+     Details regarding admission to the meeting and the business to be conducted
+are more fully described in the accompanying Notice of Annual Meeting and Proxy
+Statement. I will report on current operations and discuss our plans for growth.
+We also will leave plenty of time for your questions and comments.
+
+     The fine attendance of our stockholders at annual meetings over the years
+has been very helpful in maintaining good communications and understanding. We
+sincerely hope you will be able to be with us. YOUR ATTENDANCE CARDS TO THE
+ANNUAL MEETING ARE LOCATED ON THE BACK COVER OF THIS PROXY STATEMENT.
+
+     Your vote is important. Whether or not you plan to attend the Annual
+Meeting, I hope you will vote as soon as possible. You may vote on the Internet,
+by telephone, or by completing and mailing a traditional proxy card. Voting over
+the Internet, by telephone, or by written proxy card will ensure your
+representation at the Annual Meeting, if you do not plan to attend in person.
+Please review the instructions on the proxy card regarding each of these voting
+options.
+
+     Thank you for your ongoing support of 3M.
+
+
+
+Sincerely,
+
+
+/s/ Jim McNerney
+
+
+
+
+
+
+
+
+
+
+                       2002 ANNUAL MEETING OF STOCKHOLDERS
+
+                 NOTICE OF ANNUAL MEETING AND PROXY STATEMENT
+
+                                TABLE OF CONTENTS
+
+
+
+
+ 
+
+Notice of Annual Meeting of Stockholders .................................................  iii
+
+Questions and Answers about the Proxy Materials and the Annual Meeting ...................  1
+
+ Why am I receiving these materials? .....................................................  1
+
+ What information is contained in these materials? .......................................  1
+
+ What is 3M's voting recommendation for the proposals to be voted on at the meeting? .....  1
+
+ What shares owned by me can be voted? ...................................................  1
+
+ What is the difference between holding shares as a stockholder of record and
+  as a beneficial owner? .................................................................  2
+
+ How can I vote my shares? ...............................................................  2
+
+ Can I change my vote? ...................................................................  3
+
+ How are votes counted? ..................................................................  3
+
+ What is the voting requirement to approve each of the proposals? . ......................  3
+
+ What does it mean if I receive more than one proxy or voting instruction card? ..........  3
+
+ How can I obtain an admission ticket for the meeting? ...................................  3
+
+ Where can I find the voting results of the meeting? .....................................  3
+
+ What class of shares is entitled to be voted? ...........................................  3
+
+ What is the quorum requirement for the meeting? .........................................  4
+
+ Who will count the vote? ................................................................  4
+
+ Is my vote confidential? ................................................................  4
+
+ Who will bear the cost of soliciting votes for the meeting? .............................  4
+
+ Does 3M offer stockholders the option of viewing Annual Reports to Stockholders and Proxy
+  Statements via the Internet? ...........................................................  4
+
+ How do I elect this option? .............................................................  4
+
+ What happens if additional proposals are presented at the meeting? ......................  5
+
+ May I propose actions for consideration at next year's Annual Meeting of Stockholders or
+  nominate individuals to serve as directors? ............................................  5
+
+Board Structure and Compensation .........................................................  6
+
+Proposals To Be Voted On .................................................................  8
+
+ Proposal No. 1 -- Election of Directors .................................................  8
+
+ Proposal No. 2 -- Ratification of Independent Auditors .................................. 12
+
+ Proposal No. 3 -- Adoption of the Management Stock Ownership Program .................... 12
+
+ Proposal No. 4 -- Approval of performance goals under the Performance Unit Plan ......... 16
+
+ Proposal No. 5 -- Amendment to the Executive Profit Sharing Plan ........................ 17
+
+ Proposal No. 6 -- Stockholder Proposal .................................................. 18
+
+
+
+                                        i
+
+
+
+
+ 
+
+Common Stock Ownership of Directors and Executive Officers .............................     20
+
+ Beneficial Ownership Table ............................................................     20
+
+ Section 16(a) Beneficial Ownership Reporting Compliance ...............................     21
+
+Executive Compensation .................................................................     22
+
+ Summary Compensation Table ............................................................     22
+
+ Option Grants in Last Fiscal Year .....................................................     24
+
+ Option Exercises and Fiscal Year-End Option Values Table ..............................     25
+
+ Long-Term Incentive Plan Awards Table .................................................     26
+
+ Employment Contract, Termination of Employment, and Change-in-Control Arrangements ....     27
+
+ Retirement Benefits ...................................................................     28
+
+ Report of the Compensation Committee of the Board of Directors ........................     29
+
+ Compensation Committee Interlocks and Insider Participation ...........................     32
+
+ Stock Performance Graph ...............................................................     32
+
+Report of the Audit Committee of the Board of Directors ................................     33
+
+Appendix A: Proposed 2002 Management Stock Ownership Program ...........................    A-1
+
+
+
+                                       ii
+
+
+
+
+
+
+
+
+                  MINNESOTA MINING AND MANUFACTURING COMPANY
+                      3M CENTER, ST. PAUL, MINNESOTA 55144
+
+
+
+                   NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+
+
+
+
+TIME                10:00 a.m. on Tuesday, May 14, 2002
+
+PLACE               RiverCentre
+                    175 West Kellogg Boulevard
+                    St. Paul, Minnesota
+
+ITEMS OF BUSINESS   (1) To elect directors to the 2005 Class;
+                    (2) To ratify the appointment of PricewaterhouseCoopers LLP
+                    as 3M's independent auditors;
+                    (3) To consider adoption of a 2002 Management Stock
+                    Ownership Program;
+                    (4) To consider approval of the material terms of the
+                    performance goals under the Performance Unit Plan;
+                    (5) To consider adoption of an amendment to the Executive
+                    Profit Sharing Plan;
+                    (6) To consider a stockholder proposal relating to
+                    stockholder approval of a poison pill; and
+                    (7) To consider such other business as may properly come
+                    before the Annual Meeting.
+
+RECORD DATE         You are entitled to vote if you were a stockholder at the
+                    close of business on Friday, March 15, 2002.
+
+MEETING ADMISSION   Two cutout admission tickets are included on the back cover
+                    of this proxy statement.
+
+VOTING BY PROXY     Please submit a proxy as soon as possible so that your
+                    shares can be voted at the meeting in accordance with your
+                    instructions. You may submit your proxy
+                    (1) Over the Internet,
+                    (2) By telephone, or
+                    (3) By mail.
+                    For specific instructions, please refer to the QUESTIONS AND
+                    ANSWERS on page 1 of this proxy statement and the voting
+                    instructions on the proxy card.
+
+
+                                                 By Order of the Board of
+                                                 Directors
+
+                                                 /s/ GREGG M. LARSON
+                                                 GREGG M. LARSON
+                                                 ASSISTANT GENERAL COUNSEL
+                                                 AND SECRETARY
+
+THIS PROXY STATEMENT AND PROXY CARD ARE BEING DISTRIBUTED ON OR ABOUT MARCH 29,
+2002.
+
+
+                                       iii
+
+
+
+
+
+
+
+
+                  MINNESOTA MINING AND MANUFACTURING COMPANY
+                      3M CENTER, ST. PAUL, MINNESOTA 55144
+                                 March 29, 2002
+
+
+              PROXY STATEMENT FOR ANNUAL MEETING OF STOCKHOLDERS
+                      TO BE HELD ON TUESDAY, MAY 14, 2002
+
+
+QUESTIONS AND ANSWERS ABOUT THE PROXY MATERIALS AND THE ANNUAL MEETING
+
+     Q: WHY AM I RECEIVING THESE MATERIALS?
+
+     A: The Board of Directors (the "Board") of Minnesota Mining and
+Manufacturing Company ("3M") is providing these proxy materials to you in
+connection with the solicitation by the Board of proxies to be voted at 3M's
+Annual Meeting of Stockholders that will take place on May 14, 2002. You are
+invited to attend the meeting and are requested to vote on the proposals
+described in this proxy statement.
+
+     Q: WHAT INFORMATION IS CONTAINED IN THESE MATERIALS?
+
+     A: The information included in this proxy statement relates to the
+proposals to be voted on at the meeting, the voting process, the compensation of
+directors and our most highly paid officers, and certain other required
+information. Our 2001 Annual Report is enclosed in this mailing and also
+available to those accessing the proxy statement via the Internet.
+
+     Q: WHAT IS 3M'S VOTING RECOMMENDATION FOR THE PROPOSALS TO BE VOTED ON AT
+THE MEETING?
+
+     A: The following proposals are scheduled to be voted on at the meeting.
+3M's Board recommends that you vote your shares for each proposal as indicated
+below.
+
+
+
+
+--------------------------------------------------------------------   ----------------------------
+              PROPOSALS TO BE VOTED ON AT THE MEETING:                  3M'S VOTING RECOMMENDATION:
+--------------------------------------------------------------------   ----------------------------
+ 
+ 1. The election of directors for a 3-year term                                    "FOR"
+                                                                               each nominee
+                                                                               to the Board
+--------------------------------------------------------------------   ----------------------------
+ 2. The ratification of the appointment of PricewaterhouseCoopers                  "FOR"
+    LLP as 3M's independent auditors
+--------------------------------------------------------------------   ----------------------------
+ 3. Adoption of the 2002 Management Stock Ownership Program                        "FOR"
+--------------------------------------------------------------------   ----------------------------
+ 4. Approval of the material terms of the performance goals under                  "FOR"
+    the Performance Unit Plan
+--------------------------------------------------------------------   ----------------------------
+ 5. Amendment to the Executive Profit Sharing Plan                                 "FOR"
+--------------------------------------------------------------------   ----------------------------
+ 6. Consideration of a stockholder proposal relating to stockholder
+    approval of a poison pill.                                                   "AGAINST"
+--------------------------------------------------------------------   ----------------------------
+
+
+
+     Q: WHAT SHARES OWNED BY ME CAN BE VOTED?
+
+     A: All shares owned by you as of March 15, 2002, the RECORD DATE, may be
+voted by you. These shares include those (1) held directly in your name as the
+STOCKHOLDER OF RECORD, including shares purchased through 3M's Dividend
+Reinvestment Plan and 3M's General Employees Stock Purchase Plan and (2) held
+for you as the BENEFICIAL OWNER through a stockbroker, bank, trustee, or other
+nominee, including those shares acquired through 3M's Voluntary Investment Plan
+and Employee Stock Ownership Plan and the 3M Savings Plan.
+
+     Participants in 3M's Voluntary Investment Plan and Employee Stock Ownership
+Plan or the 3M Savings Plan may direct the trustee how to vote the shares
+allocated to the participant's account by following the voting instructions
+contained on the proxy card. Participants in the Voluntary Investment Plan and
+Employee Stock Ownership Plan may also direct the trustee how to vote a
+proportionate number of allocated shares of common stock for which it has not
+received direction, as well as shares
+
+
+                                        1
+
+
+
+
+
+
+
+
+not allocated to individual participant accounts, by following the same voting
+instructions. If you fail to direct the trustee how to vote your shares by
+following these voting instructions, the trustee will vote your shares as
+described in the voting instructions.
+
+     Q: WHAT IS THE DIFFERENCE BETWEEN HOLDING SHARES AS A STOCKHOLDER OF
+RECORD AND AS A BENEFICIAL OWNER?
+
+     A: Most 3M stockholders hold their shares through a stockbroker, bank,
+trustee, or other nominee rather than directly in their own name. As summarized
+below, there are some distinctions between shares held of record and those owned
+beneficially:
+
+     o    STOCKHOLDER OF RECORD -- If your shares are registered directly in
+          your name with 3M's transfer agent, Wells Fargo Bank Minnesota, N.A.,
+          you are considered, with respect to those shares, the stockholder of
+          record and these proxy materials are being sent directly to you by 3M.
+          As the stockholder of record, you have the right to grant your voting
+          proxy directly to 3M or to vote in person at the meeting. 3M has
+          enclosed a proxy card for you to use.
+
+     o    BENEFICIAL OWNER -- If your shares are held in a stock brokerage
+          account or by a bank or other nominee, you are considered the
+          beneficial owner of shares held in street name and these proxy
+          materials are being forwarded to you by your broker or nominee who is
+          considered, with respect to those shares, the stockholder of record.
+          As the beneficial owner, you have the right to direct your broker on
+          how to vote and are also invited to attend the meeting. However, since
+          you are not the stockholder of record, you may not vote these shares
+          in person at the meeting. Your broker or nominee is obligated to
+          provide you with a voting instruction card for you to use. If your
+          shares are held in your account in the 3M Voluntary Investment Plan
+          and Employee Stock Ownership Plan or the 3M Savings Plan, you are
+          considered the beneficial owner of these shares for which the trustee
+          of the plans is the stockholder of record. As the beneficial owner,
+          you have the right to direct the trustee on how to vote and are also
+          invited to attend the meeting. However, since you are not the
+          stockholder of record, you may not vote these shares in person at the
+          meeting.
+
+     Q: HOW CAN I VOTE MY SHARES?
+
+     A: Whether you hold shares directly as the stockholder of record or
+beneficially in street name, you may vote by granting a proxy or, for shares
+held in street name, by submitting voting instructions to your broker or
+nominee. If you own shares beneficially as a participant in the 3M Voluntary
+Investment Plan and Employee Stock Ownership Plan or the 3M Savings Plan, you
+may vote by submitting voting instructions to the trustee. In most instances,
+you will be able to do this over the Internet, by telephone, or by mail. Please
+refer to the summary instructions below and those included on your proxy card
+or, for shares held in street name, the voting instruction card included by your
+broker or nominee.
+
+     o    BY INTERNET -- If you have Internet access, you may submit your proxy
+          from any location in the world by following the "Vote by Internet"
+          instructions on the proxy card.
+
+     o    BY TELEPHONE -- If you live in the United States, you may submit your
+          proxy by following the "Vote by Phone" instructions on the proxy card.
+
+     o    BY MAIL -- You may do this by signing your proxy card or, for shares
+          held in street name, the voting instruction card included by your
+          broker or nominee and mailing it in the enclosed, postage prepaid and
+          addressed envelope. If you provide specific voting instructions, your
+          shares will be voted as you instruct. If you sign, but do not provide
+          instructions, your shares will be voted as described below in "HOW ARE
+          VOTES COUNTED?"
+
+
+                                        2
+
+
+
+
+
+
+
+
+     Q: CAN I CHANGE MY VOTE?
+
+     A: You may change your proxy instructions at any time prior to the vote at
+the Annual Meeting. For shares held directly in your name, you may accomplish
+this by granting a new proxy or by attending the Annual Meeting and voting in
+person. Attendance at the meeting will not cause your previously granted proxy
+to be revoked unless you specifically so request. For shares held beneficially
+by you, you may accomplish this by submitting new voting instructions to your
+broker or nominee.
+
+     Q: HOW ARE VOTES COUNTED?
+
+     A: In the election of directors, you may vote "FOR" all of the nominees or
+your vote may be "WITHHELD" with respect to one or more of the nominees. For the
+other proposals, you may vote "FOR," "AGAINST," or "ABSTAIN." If you "ABSTAIN,"
+it has the same effect as a vote "AGAINST." If you sign your proxy card or
+broker voting instruction card with no further instructions, your shares will be
+voted in accordance with the recommendations of the Board, except that any
+shares held in your account in the 3M Voluntary Investment Plan and Employee
+Stock Ownership Plan or the 3M Savings Plan will be voted by the trustee as
+described on page 1 in "WHAT SHARES OWNED BY ME CAN BE VOTED?"
+
+     Q: WHAT IS THE VOTING REQUIREMENT TO APPROVE EACH OF THE PROPOSALS?
+
+     A: The nominees for election as directors at the Annual Meeting will be
+elected by a plurality of the votes of the shares present in person or
+represented by proxy at the meeting and entitled to vote. All other proposals
+require the affirmative "FOR" vote of a majority of those shares present in
+person or represented by proxy at the meeting and entitled to vote. If you are a
+beneficial owner and do not provide the stockholder of record with voting
+instructions, your shares may constitute broker non-votes, as described in "WHAT
+IS THE QUORUM REQUIREMENT FOR THE MEETING?" on page 4. In tabulating the voting
+result for any particular proposal, shares that constitute broker non-votes are
+not considered entitled to vote on that proposal.
+
+     Q: WHAT DOES IT MEAN IF I RECEIVE MORE THAN ONE PROXY OR VOTING
+INSTRUCTION CARD?
+
+     A: It means your shares are registered differently or are in more than one
+account. Please provide voting instructions for all proxy and voting
+instruction cards you receive.
+
+     Q: HOW CAN I OBTAIN AN ADMISSION TICKET FOR THE MEETING?
+
+     A: Two cutout admission tickets are included on the back of this proxy
+statement.
+
+     Q: WHERE CAN I FIND THE VOTING RESULTS OF THE MEETING?
+
+     A: We will announce preliminary voting results at the meeting and publish
+final results in our quarterly report on Form 10-Q for the second quarter of
+2002. A news release with voting results will be available on our website
+(www.3M.com/profile/pressbox/index.html).
+
+     Q: WHAT CLASS OF SHARES IS ENTITLED TO BE VOTED?
+
+     A: Each share of our common stock outstanding as of the close of business
+on March 15, 2002, the RECORD DATE, is entitled to one vote at the Annual
+Meeting. On March 15, 2002, we had 389,953,606 shares of common stock issued and
+outstanding. The shares of common stock in the Company's treasury on that date
+will not be voted.
+
+
+                                        3
+
+
+
+
+
+
+
+
+     Q: WHAT IS THE QUORUM REQUIREMENT FOR THE MEETING?
+
+     A: The quorum requirement for holding the meeting and transacting business
+is a majority of the outstanding shares entitled to be voted. The shares may be
+present in person or represented by proxy at the meeting. Both abstentions and
+broker non-votes are counted as present for the purpose of determining the
+presence of a quorum. Broker non-votes, however, are not counted as shares
+present and entitled to be voted with respect to the matter on which the broker
+has expressly not voted. Thus, broker non-votes will not affect the outcome of
+any of the matters being voted on at the annual meeting. Generally, broker
+non-votes occur when shares held by a broker for a beneficial owner are not
+voted with respect to a particular proposal because (1) the broker has not
+received voting instructions from the beneficial owner and (2) the broker lacks
+discretionary voting power to vote such shares.
+
+     Q: WHO WILL COUNT THE VOTE?
+
+     A: Representatives of Wells Fargo Bank Minnesota, N.A., 3M's transfer
+agent, will tabulate the votes and act as the inspectors of election.
+
+     Q: IS MY VOTE CONFIDENTIAL?
+
+     A: The Company's Board of Directors has adopted a policy that all
+stockholder proxies, ballots, and tabulations that identify stockholders are to
+be maintained in confidence. No such document shall be available for
+examination, nor shall the identity and vote of any stockholder be disclosed,
+except as may be necessary to meet applicable legal requirements and to allow
+the inspectors of election to certify the results of the stockholder vote. The
+policy also provides that inspectors of election for stockholder votes shall be
+independent and shall not be employees of the Company. Occasionally,
+stockholders provide written comments on their proxy card that may be forwarded
+to 3M management.
+
+     Q: WHO WILL BEAR THE COST OF SOLICITING VOTES FOR THE MEETING?
+
+     A: 3M will pay the entire cost of preparing, assembling, printing, mailing,
+and distributing these proxy materials, except that certain expenses for
+Internet access will be incurred by you if you choose to access the proxy
+materials and/or vote over the Internet. In addition to the mailing of these
+proxy materials, the solicitation of proxies or votes may be made in person, by
+telephone, or by electronic communication by our directors, officers, and
+employees, who will not receive any additional compensation for such
+solicitation activities. We also have hired Georgeson Shareholder
+Communications, Inc. to assist us in the distribution of proxy materials and the
+solicitation of votes. We will pay Georgeson Shareholder Communications, Inc. a
+fee of $15,000 plus expenses for these services. We will also reimburse
+brokerage houses and other custodians, nominees, and fiduciaries for their
+reasonable out-of-pocket expenses for forwarding proxy and solicitation
+materials to beneficial owners of stock.
+
+     Q: DOES 3M OFFER STOCKHOLDERS THE OPTION OF VIEWING ANNUAL REPORTS TO
+STOCKHOLDERS AND PROXY STATEMENTS VIA THE INTERNET?
+
+     A: Yes. 3M offers stockholders of record the option to view future Annual
+Reports to Stockholders and Proxy Statements via the Internet, instead of
+receiving paper copies of these documents in the mail.
+
+     Q: HOW DO I ELECT THIS OPTION?
+
+     A: If you are interested in viewing future Annual Reports to Stockholders
+and Proxy Statements on the Internet, instead of receiving paper copies of these
+documents, please do the following:
+
+       (1) You will need your account number, which can be found above your name
+           and address on your dividend check stub and your social security
+           number, if you have a social security number.
+
+       (2) Go to web site http://www.econsent.com/mmm.
+
+       (3) Review Important Considerations and Frequently Asked Questions.
+
+       (4) Follow the prompts.
+
+                                        4
+
+
+
+
+
+
+
+
+     Q: WHAT HAPPENS IF ADDITIONAL PROPOSALS ARE PRESENTED AT THE MEETING?
+
+     A: Other than the proposals described in this proxy statement, we do not
+expect any matters to be presented for a vote at the Annual Meeting. If you
+grant a proxy, the persons named as proxy holders, W.J. McNerney, Jr., 3M's
+Chairman and CEO, E.A. Brennan, R.L. Ridgway, or any of them, will have the
+discretion to vote your shares on any additional matters properly presented for
+a vote at the meeting. If for any unforeseen reason any of our nominees is not
+available as a candidate for director, the persons named as proxy holders will
+vote your proxy for such other candidate or candidates as may be nominated by
+the Board of Directors.
+
+     Q: MAY I PROPOSE ACTIONS FOR CONSIDERATION AT NEXT YEAR'S ANNUAL MEETING
+OF STOCKHOLDERS OR NOMINATE INDIVIDUALS TO SERVE AS DIRECTORS?
+
+     A: You may submit proposals for consideration at future stockholder
+meetings, including director nominations.
+
+     o    STOCKHOLDER PROPOSALS: In order for a stockholder proposal to be
+          considered for inclusion in 3M's proxy statement for next year's
+          Annual Meeting, the written proposal must be RECEIVED by the Corporate
+          Secretary no later than 5 p.m. Central Time on December 3, 2002. SUCH
+          PROPOSALS MUST BE IN WRITING AND SENT VIA REGISTERED, CERTIFIED, OR
+          EXPRESS MAIL (OR OTHER MEANS THAT ALLOWS THE STOCKHOLDER TO DETERMINE
+          WHEN THE PROPOSAL WAS RECEIVED BY THE COMPANY) TO: GREGG M. LARSON,
+          ASSISTANT GENERAL COUNSEL AND SECRETARY, MINNESOTA MINING AND
+          MANUFACTURING COMPANY, 3M CENTER, BLDG. 0220-11-W-02, ST. PAUL, MN
+          55144-1000. Such proposals also will need to comply with Securities
+          and Exchange Commission ("SEC") regulations regarding the inclusion of
+          stockholder proposals in Company sponsored proxy materials.
+
+          Similarly, in order for a stockholder proposal to be raised from the
+          floor during next year's Annual Meeting, the stockholder's written
+          notice must be received by the Corporate Secretary between January 14,
+          2003, and February 13, 2003, and shall contain such information as
+          required under our Bylaws. Please note that these requirements relate
+          only to matters a shareholder wishes to bring before the Annual
+          Meeting. They do not apply to proposals that a shareholder wishes to
+          have included in the Company's proxy statement.
+
+     o    NOMINATION OF DIRECTOR CANDIDATES: You may propose director candidates
+          for consideration by our Nominating and Governance Committee. In
+          addition, our Bylaws permit stockholders to nominate directors at a
+          stockholder meeting. In order to make a director nomination at a
+          stockholder meeting it is necessary that the stockholder's written
+          notice must be received by the Corporate Secretary between January 14,
+          2003, and February 13, 2003, and shall contain such information as
+          required under our Bylaws.
+
+     o    COPY OF BYLAWS PROVISIONS: You may contact the Corporate Secretary at
+          our Company headquarters for a copy of the relevant provisions of the
+          Bylaws regarding the requirements for making stockholder proposals and
+          nominating director candidates.
+
+
+                                        5
+
+
+
+
+
+
+
+
+BOARD STRUCTURE AND COMPENSATION
+     The Board is divided into three classes serving staggered three-year terms.
+The Board has eleven directors and the following four Committees: Audit,
+Compensation, Nominating and Governance, and Public Issues. The membership
+during 2001 and the function of each Committee are described below.
+
+     During 2001, the Board of Directors held six meetings. The Audit,
+Compensation, Nominating and Governance and Public Issues Committees held four,
+four, four, and three meetings, respectively, during 2001. With the exception of
+one director, who was not able to attend the Board and Committee meetings on
+November 12, 2001, each director attended all of the Board meetings and the
+meetings of Board Committees on which the director served.
+
+
+                                                       NOMINATING
+                                                           AND      PUBLIC
+NAME OF DIRECTOR              AUDIT     COMPENSATION   GOVERNANCE   ISSUES
+--------------------------   -------   -------------- ------------ -------
+NON-EMPLOYEE DIRECTORS:
+--------------------------   -------   -------------- ------------ -------
+Linda G. Alvarado               X                                     X
+--------------------------   -------   -------------- ------------ -------
+Edward A. Brennan                             X*            X
+--------------------------   -------   -------------- ------------ -------
+Vance D. Coffman                X                           X
+--------------------------   -------   -------------- ------------ -------
+Edward M. Liddy                 X*                          X
+--------------------------   -------   -------------- ------------ -------
+Aulana L. Peters                X                           X
+--------------------------   -------   -------------- ------------ -------
+Rozanne L. Ridgway                            X             X*
+--------------------------   -------   -------------- ------------ -------
+Kevin W. Sharer                 X                                     X
+--------------------------   -------   -------------- ------------ -------
+Frank Shrontz                                 X                       X*
+--------------------------   -------   -------------- ------------ -------
+Louis W. Sullivan                             X                       X
+--------------------------   -------   -------------- ------------ -------
+EMPLOYEE DIRECTORS:
+--------------------------   -------   -------------- ------------ -------
+Ronald O. Baukol                                                      X
+--------------------------   -------   -------------- ------------ -------
+W. James McNerney, Jr.                                      X
+--------------------------   -------   -------------- ------------ -------
+
+X = Committee Member; * = Chair
+
+AUDIT COMMITTEE
+   o Reviews the Company's financial reporting process, internal control
+     systems, and the audit efforts of the Company's independent and internal
+     auditors;
+
+   o Recommends the appointment of independent auditors, subject to
+     stockholder ratification, and oversees their independence;
+
+   o Reviews with the independent auditors the scope of the annual audit,
+     including fees and staffing, and nonaudit services provided by the
+     auditors;
+
+   o Reviews findings and recommendations of the independent auditors and
+     management's response to the recommendations of the independent auditors;
+     and
+
+   o Reviews compliance with the Company's business conduct policies.
+
+COMPENSATION COMMITTEE
+   o Reviews compensation policies of the Company to ensure they provide
+     appropriate motivation for corporate performance and increased shareholder
+     value;
+
+   o Determines, approves, and reports to the Board on all elements of
+     compensation for executive officers, as described in the Report of the
+     Compensation Committee; and
+
+   o Interprets and supervises the administration of the Company's stock and
+     long-term incentive compensation programs, and determines the employees who
+     receive awards and the size of their awards under such programs.
+
+
+                                        6
+
+
+
+
+NOMINATING AND GOVERNANCE COMMITTEE*
+   o Selects and recommends candidates to the Board of Directors to be submitted
+     for election at the Annual Meeting and candidates to fill any vacancies on
+     the Board. The Board of Directors has adopted criteria with respect to its
+     membership and the Committee will consider candidates recommended by
+     stockholders in light of these criteria, provided such recommendations are
+     made in accordance with the procedures described in this proxy statement
+     under "May I propose actions for consideration at next year's Annual
+     Meeting of Stockholders or nominate individuals to serve as directors?";
+
+   o Reviews and makes recommendations to the Board of Directors concerning the
+     composition and size of the Board and its Committees, frequency of
+     meetings, directors' fees, and similar subjects;
+
+   o Reviews and makes recommendations concerning retirement and tenure policy
+     for Board membership; and
+
+   o Responsible for management succession plans and addressing Board
+     organizational and governance issues.
+
+   *In February 2002, the Committee changed its name to Nominating and
+    Governance Committee.
+
+PUBLIC ISSUES COMMITTEE
+     o Reviews public policy and social trends affecting the Company;
+
+     o Monitors the Company's corporate citizenship activities; and
+
+     o Evaluates Company policies and programs to enable the Company to respond
+       appropriately to its social responsibilities and the public interest in
+       the conduct of its businesses, including activities related to the
+       improvement of the environment and community relations.
+
+DIRECTORS' COMPENSATION
+     The following table provides information on 3M's compensation and
+reimbursement practices during 2001 for nonemployee directors. Directors who are
+employed by 3M, Messrs. McNerney and Baukol, do not receive any compensation for
+their Board activities.
+
+
+COMPENSATION TABLE FOR 2001
+
+
+
+ 
+   Annual Director Retainer ..............................................     $ 80,000
+   Minimum Percentage of Annual Retainer to be Paid in only 3M Stock .....         68.8%
+   Board Meeting Attendance Fees .........................................     $  1,800
+   Committee Meeting Attendance Fees .....................................     $  1,200
+   Additional Retainer for Committee Chair ...............................     $  5,500
+   Reimbursement for Expenses Attendant to Board Membership ..............          Yes
+
+
+
+     Pursuant to the terms of the Company's 1992 Directors Stock Ownership
+Program, nonemployee directors received $55,000 of the total annual retainer of
+$80,000 in common stock of the Company. Nonemployee directors may elect to defer
+payment of all or a portion of the foregoing fees payable in cash through a
+deferred cash or common stock equivalents account, and fees payable in stock
+through a deferred common stock equivalents account. The nonemployee directors
+also may elect to receive common stock of the Company, on a current basis, at
+current fair market value, in lieu of cash retainer and meeting fees.
+Information regarding accumulated deferred stock is set forth in the section
+entitled "Common Stock Ownership of Directors and Executive Officers."
+
+
+                                        7
+
+
+
+
+
+
+
+
+                            PROPOSALS TO BE VOTED ON
+
+
+                                PROPOSAL NO. 1
+                              ELECTION OF DIRECTORS
+
+     The Board is divided into three classes serving staggered three-year terms.
+Directors for each class are elected at the Annual Meeting of Stockholders held
+in the year in which the term for their class expires.
+
+     The terms of four directors will expire at the 2002 Annual Meeting.
+However, Frank Shrontz has indicated his intention to retire from the Board at
+the end of his term and accordingly he will not stand for reelection. Vance D.
+Coffman whose term expires at the 2002 Annual Meeting is standing for election
+for the first time to the 2005 Class. Directors elected at the 2002 Annual
+Meeting will hold office for a three-year term expiring at the Annual Meeting in
+2005 (or until their respective successors are elected and qualified, or until
+their earlier death, resignation, or removal). There are no family relationships
+among the Company's executive officers and directors. Except for current
+employees of the Company, no nominee or incumbent director has been an employee
+of the Company within the past five years.
+
+     The persons named as proxies intend to vote the proxies for the election of
+the nominees to the Board of Directors. If any of the nominees should be
+unavailable to serve as a director, an event which is not anticipated, the
+persons named as proxies reserve full discretion to vote for any other persons
+who may be nominated.
+
+
+
+
+
+
+
+                                        8
+
+
+
+
+
+
+
+
+NOMINEES FOR THREE-YEAR TERMS THAT WILL EXPIRE IN 2005:
+
+[PHOTO]
+
+VANCE D. COFFMAN, 57, CHAIRMAN OF THE BOARD AND CHIEF EXECUTIVE OFFICER,
+LOCKHEED MARTIN CORPORATION. Chairman of Lockheed Martin since April 1998, Chief
+Executive Officer of Lockheed Martin since August 1997, President of Lockheed
+Martin from June 1996 until August 1997, Vice Chairman of Lockheed Martin from
+August 1997 to April 1998, Chief Operating Officer of Lockheed Martin from
+January 1996 until August 1997, Executive Vice President of Lockheed Martin from
+January to June 1996, President and Chief Operating Officer of Lockheed Martin's
+Space & Strategic Missiles Sector from March 1995 to December 1995, Executive
+Vice President of Lockheed from 1992 to 1995, and President of Lockheed Space
+Systems Division from 1988 to 1992. He is a director of Bristol-Myers Squibb
+Company.
+
+DIRECTOR SINCE 2002
+
+
+[PHOTO]
+
+ROZANNE L. RIDGWAY, 66, FORMER ASSISTANT SECRETARY OF STATE FOR EUROPE AND
+CANADA. Ambassador Ridgway served in the U.S. Foreign Service from 1957 to 1989,
+including assignments as Ambassador for Oceans and Fisheries Affairs, Ambassador
+to Finland and to the German Democratic Republic, and from 1985 and until her
+retirement in 1989, Assistant Secretary of State for European and Canadian
+Affairs. Ambassador Ridgway served as President until 1993 and Co-Chair until
+mid-1996 of the Atlantic Council of the United States, an association to promote
+better understanding of major foreign policy issues. She is a director of The
+Boeing Company, Emerson Electric Co., Sara Lee Corporation, Manpower Inc., the
+New Perspective Fund, the Center for Naval Analyses, and a trustee of Hamline
+University and the National Geographic Society. She is also chair of The
+Baltic-American Enterprise Fund.
+
+DIRECTOR SINCE 1989
+
+
+[PHOTO]
+
+LOUIS W. SULLIVAN, 68, PRESIDENT, MOREHOUSE SCHOOL OF MEDICINE, ATLANTA,
+GEORGIA. Since completion of his medical training, Dr. Sullivan has held both
+professional and administrative positions in health care facilities and medical
+training institutions. He joined Morehouse College as Professor of Biology and
+Medicine in 1975 and was the founding dean and director of the Medical Education
+Program at the college. He was named President of Morehouse School of Medicine
+in 1981. He served as Secretary, United States Department of Health and Human
+Services, from 1989 to 1993. He returned to Morehouse School of Medicine in
+1993. Dr. Sullivan is a director of BioSante Pharmaceuticals, Inc.,
+Bristol-Myers Squibb Company, CIGNA Corporation, Equifax, Inc., Georgia-Pacific
+Corporation, and Household International. He is also a director of the Boy
+Scouts of America and a trustee of The Little League Foundation.
+
+DIRECTOR SINCE 1993
+
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE ELECTION TO THE BOARD OF
+EACH OF THE FOREGOING NOMINEES. PROXIES SOLICITED BY THE BOARD OF DIRECTORS WILL
+BE VOTED "FOR" EACH OF THE NOMINEES UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+
+
+
+                                        9
+
+
+
+
+
+
+     The Company's directors listed below whose terms are not expiring this year
+will continue in office for the remainder of their terms or earlier in
+accordance with the Company's Bylaws. Ronald O. Baukol, whose term expires in
+2003, indicated his intention to retire from the Board at the conclusion of the
+2002 Annual Meeting. Information regarding the business experience of the
+incumbent directors is provided below.
+
+DIRECTORS WHOSE TERMS WILL EXPIRE IN 2003
+
+
+[PHOTO]
+
+LINDA G. ALVARADO, 49, PRESIDENT AND CHIEF EXECUTIVE OFFICER, ALVARADO
+CONSTRUCTION, INC. In 1976, Ms. Alvarado founded Alvarado Construction, Inc.
+and has overseen the growth of that enterprise as a commercial general
+contracting firm. She is a director of Lennox International Inc., QWEST
+Communications International, Inc., Pitney Bowes, Inc., and The Pepsi Bottling
+Group, Inc. She is a co-owner of the Colorado Rockies Baseball Club.
+
+DIRECTOR SINCE 2000
+
+
+
+[PHOTO]
+
+EDWARD M. LIDDY, 56, CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER OF THE
+ALLSTATE CORPORATION, THE PARENT OF ALLSTATE INSURANCE COMPANY, A PERSONAL
+LINES INSURANCE COMPANY. He was President and Chief Operating Officer of
+Allstate from 1994 to 1998. Before joining Allstate, Mr. Liddy was Senior Vice
+President and Chief Financial Officer of Sears, Roebuck and Co., where he held
+a variety of senior operating and financial positions since 1988. He is a
+director of The Kroger Co., Northwestern Memorial HealthCare, and Catalyst.
+
+DIRECTOR SINCE 2000
+
+
+[PHOTO]
+
+AULANA L. PETERS, 60, RETIRED PARTNER, GIBSON, DUNN & CRUTCHER LLP, A LAW FIRM,
+LOS ANGELES, CALIFORNIA. Mrs. Peters joined Gibson, Dunn & Crutcher as an
+Associate in 1973. In 1980, she was named a Partner in the firm and continued
+in the practice of law until 1984, when she accepted an appointment as
+Commissioner of the Securities and Exchange Commission. In 1988, after serving
+four years as Commissioner, she returned to the private practice of law from
+which she retired on December 31, 2000. From January 1, 2001, to March 31,
+2002, Mrs. Peters was a member of the Public Oversight Board ("POB") Panel of
+the American Institute of Certified Public Accountants. The POB had general
+oversight responsibility for auditors. Mrs. Peters was a member of the Steering
+Committee for Financial Accounting Standards Board's Financial Reporting
+Project and a member of the POB's Blue Ribbon Panel on Audit Effectiveness. She
+is also a director of Merrill Lynch & Co., Inc., and Northrop Grumman
+Corporation.
+
+DIRECTOR SINCE 1990
+
+
+
+
+                                       10
+
+
+
+
+
+
+
+
+DIRECTORS WHOSE TERMS WILL EXPIRE IN 2004: [GRAPHIC OMITTED]
+
+
+
+[PHOTO]
+
+EDWARD A. BRENNAN, 68, RETIRED CHAIRMAN OF THE BOARD, PRESIDENT, AND CHIEF
+EXECUTIVE OFFICER, SEARS, ROEBUCK AND CO., A DIVERSIFIED COMPANY ENGAGED IN
+MERCHANDISING, CHICAGO, ILLINOIS. Mr. Brennan joined Sears in 1956. He was an
+Executive Vice President, 1978 to 1980; President and Chief Operating Officer
+for merchandising, 1980; Chairman and Chief Executive Officer, Sears
+Merchandise Group, 1981 to 1984; President and Chief Operating Officer, 1984
+through 1985; and was elected Chairman of the Board and Chief Executive Officer
+of Sears, Roebuck and Co. in 1986. Mr. Brennan retired from Sears in 1995. He
+is a director of The Allstate Corporation, Morgan Stanley Dean Witter & Co.,
+AMR Corporation, and Exelon Corporation. He is also Chairman of the Board of
+Trustees of Rush-Presbyterian-St. Luke's Medical Center, and a member of The
+Business Council.
+
+DIRECTOR SINCE 1986
+
+
+[PHOTO]
+
+W. JAMES MCNERNEY, JR., 52, CHAIRMAN OF THE BOARD AND CHIEF EXECUTIVE OFFICER.
+Mr. McNerney was President and Chief Executive Officer, GE Aircraft Engines
+from 1997-2000; 1995-97: President and Chief Executive Officer, GE Lighting,
+Cleveland, OH; 1993-95: President, GE Asia-Pacific, Hong Kong; 1991-92:
+President and Chief Executive Officer, GE Electrical Distribution & Control,
+Plainville, CT; 1989-91: Executive Vice President, GE Financial Services and GE
+Capital, Stamford, CT; 1988-89: President, GE Information Services, Rockville,
+MD; 1982-88: General Manager of GE Mobile Communications. Before joining
+General Electric in 1982, he first worked for Procter & Gamble in brand
+management and then as a senior manager at McKinsey & Co. He is a director of
+The Boeing Company and is a member of the Advisory Board of Kellogg Graduate
+School of Management, the World Business Council for Sustainable Development,
+and The Business Council.
+
+DIRECTOR SINCE 2001
+
+
+[PHOTO]
+
+KEVIN W. SHARER, 53, CHAIRMAN OF THE BOARD AND CHIEF EXECUTIVE OFFICER, AMGEN
+INC., A BIOTECHNOLOGY COMPANY, THOUSAND OAKS, CALIFORNIA. Mr. Sharer joined
+Amgen in 1992 as its President and Chief Operating Officer and served in that
+capacity until elected Amgen's Chairman and Chief Executive Officer in 2000.
+Prior to joining Amgen, Mr. Sharer served as President of the Business Markets
+Division of MCI Communications Corporation, from 1989 to 1992, and served in
+numerous executive capacities at General Electric Company, from 1984 to 1989.
+He is a director of Unocal Corporation.
+
+DIRECTOR SINCE 2001
+
+
+
+
+
+
+
+
+
+                                       11
+
+
+
+
+
+
+                                PROPOSAL NO. 2
+
+                     RATIFICATION OF INDEPENDENT AUDITORS
+     The Audit Committee recommended and the Board of Directors appointed the
+firm of PricewaterhouseCoopers LLP, independent auditors, to audit the
+consolidated financial statements of the Company and its subsidiaries for the
+year 2002. If the stockholders do not ratify the selection of
+PricewaterhouseCoopers LLP, the Board of Directors will reconsider the
+selection.
+
+     PricewaterhouseCoopers LLP has audited the Company's consolidated financial
+statements since 1975. The firm has offices and affiliates in most localities
+throughout the world where the Company has operations. Audit services provided
+by the firm in 2001 included: audit of consolidated financial statements of the
+Company and its subsidiaries; limited reviews of interim consolidated financial
+information; and consultations on matters related to accounting and financial
+reporting.
+
+     PricewaterhouseCoopers LLP also provided a number of other audit and
+nonaudit services to the Company during 2001, all of which were reviewed by the
+Audit Committee.
+
+     Representatives of PricewaterhouseCoopers LLP are expected to attend the
+Annual Meeting where they will be available to respond to questions and, if they
+desire, to make a statement.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE RATIFICATION OF THE
+APPOINTMENT OF PRICEWATERHOUSECOOPERS LLP AS THE COMPANY'S INDEPENDENT AUDITORS.
+PROXIES SOLICITED BY THE BOARD OF DIRECTORS WILL BE VOTED "FOR" RATIFICATION
+UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+
+                                PROPOSAL NO. 3
+
+                    2002 MANAGEMENT STOCK OWNERSHIP PROGRAM
+     The 2002 Management Stock Ownership Program (the "2002 Program") is
+intended to be a successor to the Company's 1997 Management Stock Ownership
+Program, which will expire immediately prior to the 2002 Annual Meeting. With
+minor exceptions, the proposed 2002 Program is similar to previous management
+stock plans approved by the Company's stockholders.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE PROPOSAL TO ADOPT THE
+2002 MANAGEMENT STOCK OWNERSHIP PROGRAM. PROXIES SOLICITED BY THE BOARD OF
+DIRECTORS WILL BE VOTED "FOR" THIS PROPOSAL UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+VOTE REQUIRED
+     Approval of the 2002 Program requires the affirmative vote of a majority of
+the shares of common stock present or represented by proxy and entitled to vote
+at the Annual Meeting.
+
+SUMMARY OF THE 2002 PROGRAM
+
+     OBJECTIVE: The objectives of the 2002 Program are to help the Company
+attract and retain outstanding employees, and to promote the growth and success
+of the Company's business by aligning the financial interests of these employees
+with the other stockholders of the Company.
+
+     SECURITIES TO BE UTILIZED: The aggregate number of shares of the Company's
+common stock that may be issued or delivered as a result of stock options,
+restricted stock grants or other stock awards, or made subject to stock
+appreciation rights, granted under the 2002 Program, will not exceed 22,700,000,
+all or any portion of which may be treasury shares presently held by the Company
+or as hereafter reacquired or authorized but unissued shares. Of the total
+shares available for issuance or delivery under the 2002 Program, no more than
+2,270,000 shares may be granted as restricted stock or other stock awards. It is
+anticipated that substantially all 22,700,000 shares will be utilized during the
+life of the 2002 Program, and it is also the Company's present intention to
+utilize treasury shares and shares reacquired from time to time hereafter under
+ongoing corporate repurchase programs, rather than to issue authorized but as
+yet unissued shares.
+
+     PARTICIPATION AND ELIGIBILITY: Participation in the 2002 Program is
+limited to employees of the Company and those of its subsidiaries and
+affiliates designated by the Board of Directors. Eligibility criteria, the
+number of participants, and the number of shares under stock awards to be
+granted to
+
+
+                                       12
+
+
+
+
+
+
+individual employees will be determined by the Compensation Committee (or by the
+officers of the Company to whom it delegates such authority), which is composed
+entirely of nonemployee directors and which will act without the participation
+of any individual eligible to have participated within the prior one-year
+period. It is anticipated that approximately 11,500 employees will participate,
+including all five of the executive officers referenced in the Summary
+Compensation Table that remain in the employ of the Company. No individual
+employee may be granted awards under the 2002 Program with respect to more than
+2,000,000 shares of the Company's common stock.
+
+STOCK OPTIONS
+
+     OPTION PRICE OF INCENTIVE STOCK OPTIONS: The option price will equal 100
+percent of the fair market value of the Company's common stock on the date the
+option is granted.
+
+     OPTION PRICE OF NONQUALIFIED OPTIONS: The option price will be no less than
+100 percent of the fair market value of the Company's common stock on the date
+the option is granted.
+
+     PAYMENT: Full payment for the shares must be made at the time the option is
+exercised. Payment may be made, in whole or in part, in shares of the Company's
+common stock valued at the fair market value on the date the option is
+exercised.
+
+     TERM AND EXERCISABILITY: Each incentive stock option will have a term of
+ten years, and may be exercised at the time established by the Compensation
+Committee. Nonqualified stock options will have terms and will become
+exercisable at the time or times established by the Compensation Committee,
+although no nonqualified stock option will have a term longer than ten years
+(except that such term may be extended for up to one year in situations where a
+ten-year term would cause adverse tax consequences for a participant under
+applicable laws). All options terminate within ninety days after a participant
+terminates employment with the Company for any reason other than retirement,
+death, disability or a disqualifying termination. All options terminate
+immediately upon a disqualifying termination of a participant's employment with
+the Company. In the event a participant dies before exercising all of his or her
+options, the participant's heirs or successors will have up to two years
+following the participant's death to exercise the remaining options.
+
+     TAXES: Although the 2002 Program will permit the Committee to grant
+"Incentive Stock Options" within the meaning of Section 422 of the Internal
+Revenue Code of 1986, as amended to date, it does not presently intend to grant
+any such options. Instead, the Committee intends to grant only nonqualified
+stock options and Progressive Stock Options under the 2002 Program. Both
+nonqualified stock options and Progressive Stock Options result in the
+recognition of taxable income by participants subject to U.S. tax laws at the
+time of exercise of an option. The amount of income recognized equals the excess
+of the fair market value of the shares purchased over the option price paid for
+such shares. This income is taxable at ordinary income tax rates, and the
+Company is entitled to a deduction for the same amount.
+
+     PROGRESSIVE STOCK OPTIONS: The Committee intends to continue under the 2002
+Program the practice adopted in 1990 under the 1987 Program of granting to
+certain participants nonqualified options equal to the number of shares of
+previously owned stock delivered in payment of the option price of outstanding
+nonqualified options granted under the 2002 Program or any predecessor plans of
+the Company or in payment for any applicable federal, state, and local
+withholding taxes. These nonqualified options, known as Progressive Stock
+Options ("PSOs"), would have as their term the remaining term of the primary
+option being exercised and are granted with an option price equal to the fair
+market value of the Company's common stock on the date of the primary option
+exercise. The Committee believes that PSO grants encourage exercise of
+nonqualified options early in the life of option terms by permitting
+participants to exercise on a repetitive basis without loss of future potential
+appreciation, and that such PSO grants promote the retention of stock of the
+Company received through the exercise of options. PSO grants increase the
+aggregate number of options granted to participants, but they do not increase
+the number of shares of the Company's common stock ultimately issued or
+delivered to any participant as a result of the original primary option grant.
+
+     TRANSFERABILITY: With the exception described above concerning exercise
+following the death of a participant and with the limited exception described
+below, options granted under the 2002 Program
+
+
+                                       13
+
+
+
+
+
+
+
+
+may not be assigned, pledged, or transferred. Section 10 of the 2002 Program
+authorizes the Committee, in its sole discretion, to permit certain participants
+to transfer ownership of all or a portion of the nonqualified options granted to
+such participants under the 2002 Program to (i) the spouse, children, or
+grandchildren of such participant ("Immediate Family Members"), (ii) a trust or
+trusts for the exclusive benefit of such Immediate Family Members, or (iii) a
+partnership in which such Immediate Family Members are the only partners,
+provided that (x) there may be no consideration for any such transfer, and (y)
+subsequent transfers of transferred options shall be prohibited except those in
+accordance with the 2002 Program (by will or the laws of descent and
+distribution). The Committee may, in its sole discretion, create further
+conditions and requirements for the transfer of nonqualified options. Following
+transfer, any such options shall continue to be subject to the same terms and
+conditions as were applicable immediately prior to transfer. The events causing
+termination of rights under the 2002 Program shall continue to be applied with
+respect to the original participant, following which the nonqualified options
+shall be exercisable by the transferee only to the extent, and for the periods
+specified in the 2002 Program.
+
+RESTRICTED STOCK GRANTS
+
+     GRANTS: The Committee may provide grants of the Company's common stock
+designated as restricted stock, subject to specified conditions that the
+Committee, in its sole discretion, shall determine to be fair and appropriate
+for the incremental lapse of restrictions upon such stock over a period of time.
+The Committee may also, in its sole discretion, shorten or terminate the period
+for the lapsing of restrictions or waive any conditions for the lapsing or
+termination of restrictions as regards all or any portion of the restricted
+stock. It is anticipated that the Compensation Committee will make grants of
+restricted stock only to certain key management employees, and that the periods
+during which such restrictions or conditions apply will not exceed ten years.
+
+     A stock certificate representing the number of shares of the Company's
+common stock designated by the Committee as restricted stock granted to a
+participant shall be registered in the participant's name but shall be held in
+custody by the Company for the participant's account. The participant shall
+generally have the rights and privileges of a stockholder as to the shares of
+restricted stock, including the right to vote, except that the restricted stock
+shall remain in the custody of the Company until all restrictions have lapsed.
+
+     None of the shares representing the restricted stock may be sold,
+transferred, assigned, pledged, or otherwise encumbered or disposed of during
+the period of restrictions determined by the Committee. At the discretion of the
+Committee, cash and stock dividends as regards the restricted stock may be
+either currently paid or withheld by the Company for the participant's account,
+and interest may be paid on the amount of cash dividends withheld at a rate and
+subject to such terms as determined by the Committee. Cash or stock dividends so
+withheld by the Committee shall not be subject to forfeiture.
+
+     CONDITIONS FOR THE LAPSING OF RESTRICTIONS: The participant shall not be
+entitled to delivery of the stock certificate representing the restricted stock
+unless and until: (i) the period stated by the Committee for the continuation of
+restrictions shall have expired or been terminated; (ii) any conditions stated
+by the Committee shall have been fully satisfied; and (iii) the participant
+shall have remained a regular full-time employee of the Company until the
+expiration or termination of the period determined by the Committee.
+Notwithstanding these conditions, all restrictions shall lapse and the
+participant or the participant's beneficiary or estate shall be entitled to
+delivery of the stock upon the death or total disability of the participant or
+upon the occurrence of an event of acceleration as described below. In the event
+that any of the conditions regarding the lapse of restrictions shall not have
+been satisfied, the restricted stock and the participant's rights therein shall
+be forfeited, and such forfeited shares of restricted stock shall be transferred
+to the Company without further action by the participant.
+
+     DELIVERY OF RESTRICTED STOCK: Upon the satisfaction of the foregoing
+conditions and the lapsing of restrictions, the Company shall deliver to the
+participant or the participant's beneficiary or estate, a stock certificate for
+the number of shares of restricted stock granted, free of all such restrictions,
+except any that may be imposed by applicable law. Unless otherwise instructed by
+the participant, the Company shall withhold from such certificate the number of
+shares of common stock necessary to satisfy applicable federal, state, or local
+tax requirements for withholding.
+
+
+                                       14
+
+
+
+
+
+
+
+
+     TAXES: A participant subject to U.S. tax laws normally will not realize
+taxable income and the Company will not be entitled to a deduction upon the
+grant of restricted shares. When the shares are no longer subject to a
+substantial risk of forfeiture, the participant will realize taxable ordinary
+income in an amount equal to the fair market value of the stock at the time, and
+the Company will be entitled to a deduction in the same amount. However, a
+participant may elect to realize taxable ordinary income in the year the
+restricted shares are granted in an amount equal to their fair market value at
+the time, determined without regard to the restrictions. In that event, the
+Company will be entitled to a deduction in such year in the same amount, and any
+gain or loss realized by the participant upon the subsequent disposition of the
+stock will be taxable at short or long-term capital gain rates but will not
+result in any further deduction to the Company.
+
+OTHER STOCK AWARDS
+     The 2002 Program does permit the Compensation Committee discretion to award
+shares of the Company's common stock other than restricted stock. This
+authorization would allow the Committee to effect replacements for grants or
+rights outstanding under the 2002 Program or other compensation plans of the
+Company. For example, the stock award might be utilized by the Committee to
+effect payment of awards under the Company's Performance Unit Plan described in
+the Long-Term Incentive Plan Awards Table and the Report of the Compensation
+Committee.
+
+STOCK APPRECIATION RIGHTS
+
+     GRANTS: It is anticipated that the Compensation Committee will grant stock
+appreciation rights only to certain employees that the Committee believes to be
+deserving of special consideration because of unusual tax situations, such as
+restrictive tax laws in other jurisdictions of overseas assignments. The 2002
+Program does confer broad powers to the Committee to determine appropriate
+circumstances for the granting of stock appreciation rights and to establish
+appropriate terms and conditions for such grants.
+
+     Stock appreciation rights will entitle the recipient to receive an amount
+of cash or a number of shares of the Company's common stock measured by the
+appreciation of the fair market value of the common stock at the date of
+exercise above the fair market value of the common stock at the date of the
+initial grant.
+
+     EXERCISE OF RIGHTS: Stock appreciation rights will be exercisable during a
+period determined by the Committee, but no longer than ten years from the date
+of grant. Stock appreciation rights terminate within ninety days after a
+participant terminates employment with the Company for any reason other than
+retirement, death, disability, or a disqualifying termination. Stock
+appreciation rights terminate immediately upon a disqualifying termination of a
+participant's employment with the Company. In the event a participant dies
+before exercising all of his or her stock appreciation rights, the participant's
+heirs or successors will have up to two years following the participant's death
+to exercise the remaining stock appreciation rights.
+
+GENERAL PROGRAM FEATURES
+
+     PROGRAM AMENDMENT: The Board of Directors may at any time terminate or
+amend the 2002 Program, except that no amendment shall be made without prior
+approval of the Company's stockholders which would (i) authorize the issuance or
+delivery of (or the granting of stock appreciation rights with respect to) more
+than 22,700,000 shares of common stock, or (ii) permit the granting of awards
+with purchase prices lower than those specified in Section 6 of the 2002
+Program.
+
+     ADMINISTRATION: The 2002 Program will be administered by the Compensation
+Committee appointed by the Board of Directors from its own members. The
+Committee members are not eligible for participation. The Committee is empowered
+to adopt rules and procedures concerning the administration and interpretation
+of the 2002 Program.
+
+     EVENTS OF ACCELERATION: The 2002 Program provides that all outstanding
+options and stock appreciation rights under the 2002 Program would become
+immediately exercisable in full for the remainder of the respective option
+period or term and remain exercisable in full for a minimum period of six months
+following a change in control of the Company, irrespective of the possible
+termination of
+
+
+                                       15
+
+
+
+
+
+
+
+
+a participant's employment. However, no option or stock appreciation right shall
+in any event be exercisable beyond its original expiration date. Similarly, all
+restrictions imposed by the Committee upon outstanding grants of restricted
+stock or other stock awards under the 2002 Program would automatically be
+terminated and the participant would be entitled to take delivery of the stock
+certificate representing the restricted stock in the event of a change in
+control of the Company, irrespective of the possible termination of a
+participant's employment.
+
+     The 2002 Program defines a change in control to have occurred if: (i) any
+person is or becomes the beneficial owner, directly or indirectly, of securities
+of the Company representing twenty percent (20%) or more of the combined voting
+power of the Company's then outstanding securities, unless a majority of the
+Continuing Directors (as defined in Article THIRTEENTH of the Company's
+Certificate of Incorporation) have determined, in their sole discretion, that no
+change in control has occurred, or (ii) the Continuing Directors shall at any
+time fail to constitute a majority of the Company's Board of Directors.
+
+     Further, in the event that the exercise of options or stock appreciation
+rights granted under the 2002 Program or the receipt of the Company's common
+stock as a result of a restricted stock grant or other stock award, after an
+event of acceleration (change in control), shall be determined to result in
+payments subject to the excise tax of Section 4999 of the Internal Revenue Code
+of 1986, as amended, the Company shall pay affected participants such additional
+amounts of cash necessary to fully satisfy such excise tax and any additional
+federal, state, and local income tax payable on the additional amount.
+Similarly, in the event that a participant should be required to take legal
+action to obtain or enforce rights under the 2002 Program after an event of
+acceleration, the Company shall pay all reasonable legal and accounting fees and
+expenses incurred, unless a lawsuit is subsequently determined to have been
+spurious or frivolous.
+
+     The purpose of these provisions regarding events of acceleration is to
+protect the rights of participants to receive the benefits of outstanding stock
+awards under the 2002 Program in the event of a change in control in the
+Company.
+
+     PROGRAM DURATION: The 2002 Program will expire (unless it is terminated
+before then) three years after the date it is approved by the Company's
+stockholders, but such expiration will not adversely affect awards granted
+before such expiration date.
+
+     INCORPORATION BY REFERENCE: The foregoing is only a summary of the 2002
+Program and is subject in all respects to the full text of the 2002 Program, a
+copy of which is attached to this proxy statement as Appendix A.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE PROPOSAL TO ADOPT THE
+2002 MANAGEMENT STOCK OWNERSHIP PROGRAM. PROXIES SOLICITED BY THE BOARD OF
+DIRECTORS WILL BE VOTED "FOR" THIS PROPOSAL UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+
+                                PROPOSAL NO. 4
+
+            APPROVAL OF THE MATERIAL TERMS OF THE PERFORMANCE GOALS
+                         UNDER THE PERFORMANCE UNIT PLAN
+     The Performance Unit Plan was submitted to and approved by the Company's
+stockholders in 1981 and amendments were submitted to and approved by the
+Company's stockholders in 1994 and 1997.
+
+     The Performance Unit Plan provides for the payment of variable compensation
+to key management personnel of the Company based on the Company's long-term
+performance. The amount payable with respect to each performance unit granted is
+determined by and is contingent upon attainment of the Performance Criteria (as
+defined below) selected by the Compensation Committee for each year's grants
+over the applicable three-year performance period. The maximum payment to any
+Participant under this Performance Unit Plan shall not exceed the amount
+reasonably determined by the Committee to equal three-tenths of one percent
+(0.3%) of the consolidated net income of the Company, excluding non-recurring
+items, for the calendar year immediately preceding the year including the
+payment date.
+
+
+                                       16
+
+
+
+
+
+
+
+
+     The Performance Criteria that have been used since 1997 are real worldwide
+sales growth and Economic Profit. Current payments under the Plan to the Named
+Executive Officers are set forth in the Summary Compensation Table, under the
+column captioned "Performance Unit Plan (LTIP) Payouts." Current awards under
+the Plan to the Named Executive Officers are set forth in the Long-Term
+Incentive Plan Awards Table.
+
+     The Board of Directors, at its meeting of February 11, 2002, amended the
+definition of "Performance Criteria" under the Performance Unit Plan to (i)
+modify the current Economic Profit criterion to include "improvements in
+economic profit," and (ii) include the additional criterion of "improvements in
+certain asset or financial measures (including working capital and the ratio of
+sales to net working capital.)" This new Performance Criterion retains an
+emphasis on sales growth, while the working capital component provides
+additional emphasis on better balance sheet management.
+
+     As amended, the Performance Criteria available to the Compensation
+Committee under the Performance Unit Plan now include "such internal performance
+criteria for the Company as determined by the Committee with respect to each
+Award and may include any one or more of several criteria, such as, but not
+limited to, return on capital employed, sales growth, return on equity, total
+shareholder return, economic profit or improvements in economic profit
+(after-tax operating income, excluding non-recurring items, less the cost of
+capital), improvements in certain asset or financial measures (including working
+capital and the ratio of sales to networking capital), reductions in certain
+asset or cost areas (including reductions in inventories or accounts receivable
+or reductions in laboratory, engineering, sales, or administrative costs), net
+income or variations of income criteria in varying time periods, or general
+comparisons with other peer companies or industry groups or classifications with
+regard to one or more of these criteria."
+
+     In order to maximize deductibility of the payments under the Plan to the
+Company's five most highly compensated employees under the provisions of Section
+162(m) of the Internal Revenue Code of 1986, as amended, and to comply with the
+requirements of the regulations issued by the Internal Revenue Service, the
+stockholders are requested to approve this change in the definition of
+Performance Criteria and the revised material terms of the performance goals
+under the Performance Unit Plan.
+
+     A favorable vote by the holders of a majority of the Company's common stock
+present, or represented, and entitled to vote at the Annual Meeting is required
+to approve the foregoing revised material terms of the performance goals under
+the Plan. In the event that the proposal does not receive a favorable majority
+vote, the Board of Directors would then determine whether to amend or abandon
+the Plan or to simply forego the deductibility of those limited individual
+compensation amounts in excess of $1 million, as provided by Section 162(m) of
+the Internal Revenue Code of 1986, as amended.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE PROPOSAL TO APPROVE THE
+FOREGOING REVISED MATERIAL TERMS OF THE PERFORMANCE GOALS UNDER THE PERFORMANCE
+UNIT PLAN. PROXIES SOLICITED BY THE BOARD OF DIRECTORS WILL BE VOTED "FOR" THIS
+PROPOSAL UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+
+
+                                PROPOSAL NO. 5
+
+            PROPOSED AMENDMENT TO THE EXECUTIVE PROFIT SHARING PLAN
+
+     The Executive Profit Sharing Plan is based on the Company's basic
+performance-based compensation plan in effect since 1956. The Plan was last
+submitted to and approved by stockholders in 1999.
+
+     The Executive Profit Sharing Plan provides for the payment of variable
+compensation to those executive officers of the Company determined by the
+Compensation Committee based on the Company's current financial performance. The
+total paid under the Plan for the Company's five most highly-paid executive
+officers will never exceed one-half percent (0.5%) of the consolidated net
+income (excluding non-recurring items) of the Company for any respective period,
+and no individual participant will ever receive more than one-third (33 1/3%) of
+this total Plan limit.
+
+
+                                       17
+
+
+
+
+
+
+
+
+     The Board of Directors now proposes to amend the Plan to give the
+Compensation Committee the flexibility to base the amount of each executive
+officer's profit sharing payments on the economic profit (after-tax operating
+income, excluding non-recurring items, less the cost of capital) of the Company,
+any relevant business unit thereof or any combination of the Company and
+relevant business units.
+
+     In order to maximize deductibility of the payments under the Plan to the
+Company's five most highly compensated employees under the provisions of Section
+162(m) of the Internal Revenue Code of 1986, as amended, and to comply with the
+requirements of the regulations issued by the Internal Revenue Service, the
+stockholders are requested to approve the amendment to the Plan (including the
+revised material terms of the performance goals under the Plan).
+
+     A favorable vote by the holders of a majority of the Company's common stock
+present, or represented, and entitled to vote at the Annual Meeting is required
+to approve the foregoing amendment to the Plan. In the event that the amendment
+to the Plan does not receive a favorable majority vote, the Board of Directors
+would then determine whether to further amend or abandon the Plan or to simply
+continue basing the amount of each executive officer's profit sharing payments
+on the economic profit of the Company as a whole.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" THE AMENDMENT TO THE
+EXECUTIVE PROFIT SHARING PLAN. PROXIES SOLICITED BY THE BOARD OF DIRECTORS WILL
+BE VOTED "FOR" THIS PROPOSAL UNLESS A CONTRARY VOTE IS SPECIFIED.
+
+
+                                PROPOSAL NO. 6
+
+                              STOCKHOLDER PROPOSAL
+     3M has received a stockholder proposal from Nick Rossi, P.O. Box 249,
+Boonville, CA 95415 (the "Proponent"). The Proponent has requested the Company
+to include the following proposal and supporting statement in its proxy
+statement for the Annual Meeting of Stockholders. The Proponent owns 300 shares
+of 3M common stock.
+
+     PROPONENT'S PROPOSAL:
+     Shareholders request that our Board of Directors seek shareholder approval
+prior to adopting any poison pill and also redeem or terminate any pill now in
+effect unless it has been approved by a shareholder vote at the next shareholder
+meeting.
+
+     The poison pill is an important issue for shareholder vote even if our
+company does not now have a poison pill or plan to adopt a poison pill in the
+future. Currently our board can adopt a poison pill and/or redeem a current
+poison pill and adopt a new poison pill:
+
+     1) At any time
+     2) In a short period of time
+     3) Without shareholder approval
+
+     Negative Effects of Poison Pills on Shareholder Value.
+     A study by the Securities and Exchange Commission found evidence that the
+negative effect of poison pills to deter profitable takeover bids outweigh
+benefits. Source: Office of the Chief Economist, Securities and Exchange
+Commission, The Effect of Poison Pills on the Wealth of Target Shareholders,
+October 23, 1986.
+
+     Additional Support for this Proposal Topic.
+     The Council of Institutional Investors recommends shareholder approval of
+all poison pills.
+
+     Institutional Investor Support for Shareholder Vote.
+     Some institutional investors believe poison pills should be voted on by
+shareholders. A poison pill can insulate management at the expense of
+shareholders. A poison pill is such a powerful tool that shareholders should be
+able to vote on whether it is appropriate. We believe a shareholder vote on
+poison pills will avoid an unbalanced concentration of power in our directors
+who could focus on narrow interests at the expense of the vast majority of
+shareholders.
+
+
+                                       18
+
+
+
+
+
+
+
+
+     Institutional Investor Support Is High-Caliber Support.
+     This proposal topic has significant institutional support. Institutional
+investor support is high-caliber support. Institutional investors have the
+advantage of a specialized staff and resources, long-term focus, fiduciary duty
+and independent perspective to thoroughly study the issues involved in this
+proposal topic.
+
+     Shareholder Vote Precedent Set by Other Companies.
+     In recent years, various companies have been willing to redeem poison
+pills or at least allow shareholders to have a meaningful vote on whether a
+poison pill should remain in force. We believe that our company should do so as
+well.
+
+     68% Vote at a Major Company.
+     This proposal topic won 68% of the yes-no vote at the Burlington Northern
+Santa Fe (BNI) 2001 annual meeting. The text of the BNI proposal, which has
+further information on poison pills, is available at The Corporate Library
+website: www.thecorporatelibrary.com under Proposals.
+
+                 In the interest of shareholder value vote yes:
+                  SHAREHOLDER VOTE ON POISON PILLS -- YES ON 6
+
+COMPANY'S STATEMENT OPPOSING THE PROPOSAL
+     The Board of Directors strongly urges shareholders to vote against this
+proposal because it denies the Board sufficient flexibility and conflicts with
+the Board's fiduciary obligation to act expediently in the shareholders best
+interests.
+
+     A shareholder rights plan (sometimes called a "poison pill") helps a board
+of directors maximize shareholder value and protect stockholders from unfair and
+abusive takeover tactics, which is why more than 2,000 companies, including more
+than half of the S&P 500 Index companies, have such a plan. The 3M Board of
+Directors does not have a shareholder rights plan and would only adopt one if it
+were in the shareholders' best interests to do so. Although a shareholder rights
+plan protects stockholders' interests, requiring prior stockholder approval of
+the plan would prevent the Board from responding quickly to a hostile takeover,
+thus jeopardizing the board's ability to negotiate effectively and protect
+stockholders' interests.
+
+     Contrary to the proponent's suggestion, the Board's ability to adopt a
+shareholder rights plan does not "insulate management at the expense of
+shareholders" nor give the Board an "unbalanced concentration of power." In
+upholding the legal validity of shareholder rights plans, the Delaware Supreme
+Court ruled that a board must act consistent with its fiduciary duties when
+adopting and maintaining a rights plan. Rights plans do not prevent unsolicited
+proposals nor do they prevent companies from being acquired at fair and adequate
+prices. A study of takeover data from 1992 through 1996 by Georgeson & Company,
+a nationally recognized proxy solicitation and investor relations firm, found
+that a rights plan neither increased the likelihood of defeating an unsolicited
+takeover proposal nor reduced the likelihood of a company becoming a takeover
+target. The same Georgeson & Company study found that the premiums paid to
+acquire companies with rights plans averaged eight percentage points higher than
+premiums for companies without such plans. The evidence suggests that rights
+plans achieve their principal objectives of protecting against inadequate offers
+and abusive tactics and increasing the Board's bargaining power, resulting in
+higher stockholder value.
+
+     In summary, the Board recommends voting against this proposal because it
+could prevent the Board, when facing a hostile takeover and where appropriate,
+from acting quickly in the shareholders' best interests to adopt a shareholder
+rights plan.
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "AGAINST" THIS PROPOSAL FOR THE
+REASONS DISCUSSED ABOVE. PROXIES SOLICITED BY THE BOARD OF DIRECTORS WILL BE
+VOTED "AGAINST" THIS PROPOSAL UNLESS A STOCKHOLDER INDICATES OTHERWISE IN VOTING
+THE PROXY.
+
+
+                                       19
+
+
+
+
+
+
+
+
+COMMON STOCK OWNERSHIP OF DIRECTORS AND EXECUTIVE OFFICERS
+     The following table sets forth information concerning beneficial ownership
+of the Company's common stock as of February 28, 2002, for: (a) each director
+and the nominees for director; (b) named executive officers set forth in the
+Summary Compensation Table; and (c) the directors and executive officers as a
+group. Unless otherwise indicated, each person has sole investment and voting
+power (or shares such powers with his or her spouse) with respect to the shares
+set forth in the following table.
+
+     The number of shares beneficially owned by each director or executive
+officer is determined under the rules of the Securities and Exchange Commission,
+and the information is not necessarily indicative of beneficial ownership for
+any other purpose. Under such rules, beneficial ownership includes any shares as
+to which the individual has the sole or shared voting power or investment power
+and also any shares that the individual has the right to acquire as of April 28,
+2002 (60 days after February 28, 2002), through the exercise of any stock option
+or other right. Options exercisable within 60 days after February 28, 2002, are
+shown separately.
+
+                           BENEFICIAL OWNERSHIP TABLE
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+                                         COMMON STOCK
+                                         BENEFICIALLY          OPTIONS           SHARES HELD AS
+NAME AND PRINCIPAL POSITION                OWNED (1)       EXERCISABLE (2)     DEFERRED STOCK (3)          TOTAL
+------------------------------------   ----------------   -----------------   --------------------   ----------------
+    
+  Linda G. Alvarado, Director                 1,116                  --                 399                 1,515
+
+  Edward A. Brennan, Director                 2,508                  --              13,979                16,487
+
+  Vance D. Coffman, Director                      0                  --                   0                     0
+
+  Edward M. Liddy, Director                       0                  --               2,077                 2,077
+
+  Aulana L. Peters, Director                    865                  --              13,245                14,110
+
+  Rozanne L. Ridgway, Director                1,288                  --              15,982                17,270
+
+  Kevin W. Sharer, Director                       0                  --                 880                   880
+
+  Frank Shrontz, Director                     3,031                  --               9,386                12,417
+
+  Louis W. Sullivan, Director                   798                  --               6,178                 6,976
+
+  W. James McNerney, Jr., Director,
+   Chairman of the Board and
+   Chief Executive Officer                  115,379(4)          146,666                   0               262,045(4)
+
+  Ronald O. Baukol, Director and
+   Executive Vice President                  43,246             149,147                   0               192,393
+
+  John W. Benson,
+   Executive Vice President                  33,461              92,216                   0               125,677
+
+  Harold J. Wiens,
+   Executive Vice President                  10,041              73,206                   0                83,247
+
+  John J. Ursu,
+   Senior Vice President                     38,665              41,204                   0                79,869
+
+  All Directors and Executive
+   Officers as a Group
+   (27 persons) (5)                         454,478           1,061,638              62,126             1,578,242
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                       20
+
+
+
+
+
+
+
+
+                    FOOTNOTES TO BENEFICIAL OWNERSHIP TABLE
+     (1) "Shares Held" include: stock held in joint tenancy, stock owned as
+tenants in common, stock owned or held by spouse or other members of the
+nominee's household, and stock in which the nominee either has or shares voting
+and/or investment power, even though the nominee disclaims any beneficial
+interest in such stock. Options exercisable within 60 days after February 28,
+2002, are shown separately. The "Shares Held" include shares of profit sharing
+stock held by the Company and subject to forfeiture, as more fully described in
+footnote 1 to the Summary Compensation Table.
+
+     (2) Option prices for these shares range from $46.00 to $121.45 per share.
+
+     (3) "Shares Held as Deferred Stock" by nonemployee directors represent the
+number of shares of the Company's common stock, as of February 28, 2002, which
+the directors will receive upon termination of membership on the Board of
+Directors for any reason. These shares result from the voluntary election by the
+nonemployee directors to defer the payment of directors' fees. No shares of
+common stock have as yet been issued, and the directors have neither voting nor
+investment powers in these shares of deferred stock.
+
+     (4) Restricted shares that generally vest in increments of 10 percent over
+a ten-year period if the executive remains continuously employed by the Company
+and are subject to forfeiture under certain circumstances.
+
+     (5) All directors and executive officers as a group owned beneficially less
+than one percent of the outstanding common stock of the Company.
+
+
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE Section 16(a) of the
+Securities Exchange Act of 1934 requires our directors and executive officers to
+file with the Securities Exchange Commission reports regarding their ownership
+and changes in ownership of our stock. 3M believes that during 2001, its
+directors and executive officers complied with all Section 16(a) filing
+requirements. In making this statement, 3M has relied upon examination of the
+copies of Forms 3, 4, and 5 and the written representations of its directors and
+executive officers.
+
+
+
+
+
+
+
+
+                                       21
+
+
+
+EXECUTIVE COMPENSATION
+     The following table sets forth certain compensation information for the
+chief executive officer and the four other executive officers of 3M who, based
+on their salary and bonus compensation, were the most highly compensated for
+2001 (the "Named Executive Officers"). All information set forth in this table
+reflects compensation earned by these individuals for services in 2001, as well
+as their compensation in 2000 and 1999.
+
+
+                           SUMMARY COMPENSATION TABLE
+---------------------------------------------------------------------------------
+                                                 ANNUAL COMPENSATION
+                                     --------------------------------------------
+                                                   PROFIT SHARING   OTHER ANNUAL
+                                                       (BONUS)      COMPENSATION
+NAME AND PRINCIPAL POSITION    YEAR   SALARY ($)       ($)(1)          ($)(2)
+----------------------------- ------ ------------ ---------------- --------------
+    
+W. James McNerney, Jr.,       2001    1,300,000      2,400,000         53,798
+ Chairman of the Board and
+ Chief Executive Officer*
+
+Ronald O. Baukol,             2001      610,500        508,707             --
+ Executive Vice President     2000      561,900        650,446             --
+                              1999      521,700        553,365             --
+
+John W. Benson,               2001      548,234        351,718             --
+ Executive Vice President     2000      507,050        447,226             --
+                              1999      437,700        380,476             --
+
+Harold J. Wiens,              2001      517,040        333,323             --
+ Executive Vice President     2000      471,550        424,512             --
+                              1999      397,000        306,446         50,827
+
+John J. Ursu,                 2001      459,600        327,094             --
+ Senior Vice President        2000      426,000        418,231             --
+                              1999      390,900        355,808             --
+---------------------------------------------------------------------------------
+
+
+[WIDE TABLE CONTINUED FROM ABOVE
+
+
+                                                LONG-TERM COMPENSATION
+                              -----------------------------------------------------------
+                                              AWARDS                        PAYOUTS
+                              -------------------------------------- --------------------
+                                                       PERFORMANCE
+                                                        UNIT PLAN
+                                 OPTIONS GRANTED         (LTIP)            ALL OTHER
+NAME AND PRINCIPAL POSITION    NUMBER OF SHARES(3)   PAYOUTS ($)(4)   COMPENSATION ($)(5)
+----------------------------- --------------------- ---------------- --------------------
+   
+W. James McNerney, Jr.,              180,000                   0            680,616
+ Chairman of the Board and
+ Chief Executive Officer*
+
+Ronald O. Baukol,                     45,000             670,440            273,626
+ Executive Vice President             22,600             555,740            101,718
+                                      52,780             542,790             53,015
+
+John W. Benson,                       64,658             434,880            133,817
+ Executive Vice President             47,530             360,480             42,106
+                                      45,811             139,365             30,641
+
+Harold J. Wiens,                      45,262             434,880            127,235
+ Executive Vice President             25,561             300,400             30,488
+                                      25,727              80,685             31,646
+
+John J. Ursu,                         63,121             434,880            106,138
+ Senior Vice President                37,791             360,480             51,585
+                                      28,282             234,720             53,302
+----------------------------- --------------------- ---------------- --------------------
+
+*As of January 1, 2001
+
+                     FOOTNOTES TO SUMMARY COMPENSATION TABLE
+
+     (1) Generally, profit sharing is paid in cash; however, the Named Executive
+Officers may receive a portion of their profit sharing in shares of the
+Company's common stock as determined by the Compensation Committee. The shares
+vest at the end of three years or at age 65, whichever occurs first, or upon
+death or permanent disability.
+
+     (2) "Other Annual Compensation" includes the following, to the extent that
+the aggregate thereof exceeds $50,000: personal benefits received by the named
+individuals, amounts reimbursed to the individuals during the year for payment
+of taxes, and that portion of interest above market rates (as determined by the
+SEC) paid on that compensation voluntarily deferred by the individuals. The
+personal benefits included in these numbers represent the amount of personal
+financial planning services, and air travel on corporate aircraft imputed to the
+individual as income for tax purposes. In the case of Mr. McNerney, Other Annual
+Compensation includes $18,500 for personal financial planning and $22,965 for
+payment of taxes on the Senior Executive Split Dollar Plan benefit.
+
+     (3) The number of stock options shown in this column includes both annual
+grants of incentive and nonqualified stock options and Progressive Stock
+Options, which are described more fully in footnote 1 to the Option Grants in
+Last Fiscal Year Table. The number and price of all outstanding options were
+adjusted at the time of the spin-off of Imation Corp. in order to preserve the
+intrinsic value of the options. The number of stock options shown in this column
+for 2001 reflects this adjustment.
+
+     (4) "Performance Unit Plan (LTIP) Payouts" reflect the value of the total
+grant for each individual under the Company's Performance Unit Plan after the
+base three-year performance period (i.e., the amount shown in 2001 covers the
+base performance period from 1999-2001). Under the 2001 award, the amount earned
+will be paid to the Named Executive Officers in 2004, unless the participant
+elects to defer the payout for three additional years. The numbers shown
+represent estimates based upon information available as of February 28, 2002.
+More information about the Performance Unit Plan is set forth in the Long-Term
+Incentive Plan Awards Table and the Report of the Compensation Committee.
+
+                                       22
+
+
+
+     (5) "All Other Compensation" includes: (a) that amount of Performance Unit
+Plan earnings allocated during the year to the base amounts determined after the
+three-year performance periods of each respective grant, to the extent that such
+earnings are in excess of market interest rates (as determined by the SEC); (b)
+an amount paid on behalf of the individual for the term portion of insurance
+under the Company's Senior Executive Split Dollar Plan, and that amount deemed
+to be compensation to the individuals under the Company's Senior Executive Split
+Dollar Plan in accordance with rules developed by the SEC; and (c) all amounts
+contributed to the account of each named executive under the Company's 401(k)
+plan. The Senior Executive Split Dollar Plan provides insurance to all of the
+Company's executive officers under split dollar life insurance, which is partly
+term insurance and partly whole life insurance with a cash value. Under this
+Plan, the Company is reimbursed for the premium costs of the non-term portion of
+coverage and a possible return when the arrangement terminates either by
+insurance proceeds incident to the death of the individual or by cash value
+after 15 years of participation in the Plan. During 2001, amounts deemed
+compensation under the Plan to the Named Executive Officers were $655,044 for
+Mr. McNerney; $110,815 for Mr. Baukol; $74,585 for Mr. Benson; $84,663 for Mr.
+Wiens; and $52,352 for Mr. Ursu. These amounts include payments made in 2001 for
+coverage in 2000 and were determined by treating the non-term portion of the
+coverage as an interest-free loan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       23
+
+
+
+
+
+
+
+
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+     The following table shows all grants of options to acquire shares of 3M
+common stock granted in 2001 to the Named Executive Officers.
+
+
+
+                                      INDIVIDUAL GRANTS
+---------------------------------------------------------------------------------------------
+                                               % OF TOTAL                                             GRANT DATE
+                                              OPTIONS/SARS                                               VALUE
+                             OPTIONS/            GRANTED          EXERCISE OR                   ----------------------
+                               SARS          TO EMPLOYEES IN      BASE PRICE       EXPIRATION         GRANT DATE
+         NAME            GRANTED (#) (1)       FISCAL YEAR      ($/SH) (1) (2)        DATE       PRESENT VALUE ($) (4)
+---------------------   -----------------   ----------------   ----------------   -----------   ----------------------
+     
+W. J. McNerney, Jr.           180,000              2.496%      $117.25             5/8/2011          $  5,293,800
+
+R.O. Baukol                    45,000              0.624%       117.25             5/8/2011             1,323,450
+
+J.W. Benson                    40,000              0.555%       117.25             5/8/2011             1,176,400
+                                1,656              0.023%       109.80            5/13/2007                27,456
+                                4,506              0.062%       109.80            5/12/2008                74,709
+                               18,496              0.256%       109.80             5/9/2010               306,664
+
+H.J. Wiens                     40,000              0.555%       117.25             5/8/2011             1,176,400
+                                3,339              0.046%       117.25            5/13/2007                59,902
+                                1,923              0.027%       117.25            5/12/2008                34,499
+
+J.J. Ursu                      32,500              0.451%       117.25             5/8/2011               955,825
+                                1,905              0.026%       117.25            5/11/2003                34,176
+                                3,125              0.043%       117.25            5/10/2004                56,063
+                                9,382              0.130%       117.25            5/13/2007               168,313
+                               12,105              0.168%       117.25            5/12/2008               217,164
+                                4,104              0.057%       117.25            5/11/2009                73,626
+---------------------   -----------------   ----------------   ----------------   -----------   ----------------------
+All Optionees
+ Participants               7,212,584            100.000%      $117.05                               $204,196,012
+---------------------   -----------------   ----------------   ----------------   -----------   ----------------------
+
+
+             FOOTNOTES TO OPTION GRANTS IN LAST FISCAL YEAR TABLE
+
+     (1) The Company has not granted any stock appreciation rights ("SARs"),
+except in limited circumstances to employees of certain subsidiaries who are not
+subject to the tax laws of the United States where SARs have less onerous tax
+consequences than stock options. The options shown for each individual include
+both annual grants of Incentive Stock Options and nonqualified stock options and
+grants of Progressive Stock Options ("PSOs"). Nonqualified options are subject
+to a reload feature when exercised with the payment of the option price in the
+form of previously owned shares of the Company's common stock. Such an exercise
+results in further grants of PSOs. The first grant shown for each individual is
+the annual grant. The remaining lines are PSOs. The PSO grants for each
+individual were made on a single date, but are, pursuant to SEC rules, shown in
+multiple lines because of different expiration dates.
+
+     PSO grants were made to participants who exercised nonqualified stock
+options and who paid the purchase price using shares of previously owned Company
+common stock. The PSO grant is for the number of shares equal to the shares
+utilized in payment of the purchase price and tax withholding, if any. The
+option price for the PSO is equal to 100 percent of the market value of the
+Company's common stock on the date of the exercise of the primary option or,
+alternatively, on the date of the PSO grant to the named individuals in the
+table, all of whom are subject to the requirements of Section 162(m) of the
+Internal Revenue Code. The option period is equal to the remaining period of the
+options exercised.
+
+     The participant must have owned Company common stock used for payment for
+at least six months, and only one exercise of nonqualified options per
+participant per calendar year will be eligible for PSO grants by the
+Compensation Committee.
+
+     The presence of PSOs encourages early exercise of nonqualified stock
+options, without foregoing the opportunity for further appreciation, and
+promotes retention of the Company stock acquired.
+
+
+
+
+
+
+
+
+
+
+
+
+                                       24
+
+
+
+
+
+
+
+
+     In any event, a participant receiving an annual grant of nonqualified stock
+options can never acquire more shares of Company common stock through successive
+exercises of the initial and subsequent PSO grants than the number of shares
+covered by the initial annual grant from the Committee.
+
+     (2) All options granted during the period were granted at the market value
+on the date of grant if initial grants, or at the fair market values discussed
+in footnote 1 above in the case of PSOs, as calculated from the average of the
+high and low prices reported on the New York Stock Exchange Composite Index. The
+option price shown for the "All Optionees" line is $117.05 and represents the
+weighted average exercise price of the options granted in 2001.
+
+     (3) The expiration date for the "All Optionees" line is shown as May 8,
+2011, since that is the applicable date for the vast majority of options granted
+during 2001.
+
+     (4) Pursuant to the rules of the SEC, the Company has elected to provide a
+grant date present value for these option grants determined by a modified
+Black-Scholes pricing model. The Company's use of this model should not be
+construed as an endorsement of its accuracy at valuing options. All stock option
+valuation models, including the Black-Scholes model, require a prediction about
+the future movement of the stock price. Among key assumptions utilized in this
+pricing model were: (i) that the time of exercise of stock options would be 67
+months (28 months for PSOs) into the term of the option, which could be for
+terms as long as ten years, in recognition of the historical exercise patterns
+at the Company for these types of options; (ii) expected volatility of 24.1
+percent (23.7 percent for PSOs); (iii) risk-free rate of return of 4.8 percent
+(3.8 percent for PSOs); and (iv) dividend growth rate of 4.6 percent. No
+adjustments for nontransferability or risk of forfeiture have been made. The
+Company expresses no opinion that the present value will, in fact, be realized
+and expressly disclaims any representation to that effect.
+
+OPTION EXERCISES AND FISCAL YEAR-END OPTION VALUES
+     The following table provides information on option exercises during 2001
+and the value of unexercised options at the end of 2001 for the Named Executive
+Officers.
+
+
+
+
+                   AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR, AND FY-END OPTION/SAR VALUE
+------------------------------------------------------------------------------------------------------------------
+                                                                  NUMBER OF               VALUE OF UNEXERCISED
+                                                             UNEXERCISED OPTIONS       IN-THE-MONEY OPTIONS/SARS
+                           SHARES                               AT FY-END (#)               AT FY-END ($)(1)
+                          ACQUIRED           VALUE      ----------------------------- ----------------------------
+        NAME          ON EXERCISE (#)   REALIZED ($)(1)  EXERCISABLE   UNEXERCISABLE   EXERCISABLE   UNEXERCISABLE
+-------------------- ----------------- ---------------- ------------- --------------- ------------- --------------
+      
+W.J. McNerney, Jr.              0          $      0              0        780,000      $        0     $9,268,800
+R.O. Baukol                 5,314           163,140        106,070         45,000       3,588,153         43,200
+J.W. Benson                32,268           837,846         67,558         64,658       1,993,310        245,774
+H.J. Wiens                  8,327           323,586         73,206         40,000       2,069,502         38,400
+J.J. Ursu                  37,167           926,354         77,099         32,500       1,187,174         31,200
+-------------------- ----------------- ---------------- ------------- --------------- ------------- --------------
+
+
+(1) The "Value Realized" or the unrealized "Value of Unexercised In-the-Money
+Options at FY-End" represents the aggregate difference between the market value
+on the date of exercise or at December 31, 2001, in the case of the unrealized
+values, and the applicable exercise prices. These differences accumulate over
+what may be, in many cases, several years. These stock options all have option
+periods of ten years when first granted, and Progressive Stock Options have
+option periods equal to the remaining option period of the initial nonqualified
+options resulting in Progressive Stock Options.
+
+
+                                       25
+
+
+
+
+
+
+
+
+LONG-TERM INCENTIVE PLAN AWARDS TABLE
+     The following table shows information on awards during 2001 under the
+Company's Performance Unit Plan for the Named Executive Officers.
+--------------------------------------------------------------------------------
+
+
+
+                                       LONG-TERM INCENTIVE PLAN AWARDS IN LAST FISCAL YEAR
+                       -----------------------------------------------------------------------------------
+                                                                ESTIMATED FUTURE PAYOUTS
+                          NUMBER OF        PERFORMANCE OR     UNDER NON-STOCK PRICE BASED
+                        SHARES, UNITS       OTHER PERIOD               PLANS (3)
+                           OR OTHER       UNTIL MATURATION   ------------------------------
+NAME                    RIGHTS (#)(1)      OR PAYOUT (2)      THRESHOLD ($)     TARGET ($)     MAXIMUM ($)
+--------------------   ---------------   -----------------   ---------------   ------------   ------------
+     
+W.J. McNerney, Jr.         10,000             3 years           $1,000,000     $1,000,000     $2,000,000
+R.O. Baukol                 3,700             3 years                    0        370,000        740,000
+J.W. Benson                 2,400             3 years                    0        240,000        480,000
+H.J. Wiens                  2,400             3 years                    0        240,000        480,000
+J.J. Ursu                   2,400             3 years                    0        240,000        480,000
+--------------------   ---------------   -----------------   ---------------   ------------   ------------
+
+
+
+               FOOTNOTES TO LONG-TERM INCENTIVE PLAN AWARDS TABLE
+
+     (1) The Company's Performance Unit Plan provides long-term compensation to
+125 key management personnel based upon the Company's attainment of long-term
+performance and growth criteria.
+
+     The Compensation Committee administers the Plan. The Committee has sole
+discretion in the selection of participants, performance criteria, size of
+awards, performance period, and the timing and form of payment, as well as all
+other conditions regarding awards.
+
+     Awards made in 2001 under the Performance Unit Plan are based on
+performance criteria that focus management attention on two key factors that
+create shareholder value: Real Growth and Economic Profit. The payout can vary
+from $0 to $200 per unit. The payout can be reached by either performance
+criteria alone, or by both in combination. The payout may be deferred by the
+participant for three additional years and earn interest at a specified rate. No
+amount will be payable under the Performance Unit Plan if the Company's Real
+Growth is less than the Big 7 IPI and if Economic Profit is less than 75 percent
+of the Economic Profit of the previous three years. More detail about current
+performance goals is available in the Report of Compensation Committee.
+
+     The right to receive payment is contingent upon continued employment to the
+payment date, and is subject to forfeiture prior to the payment date in the
+event of termination of employment for any reason other than retirement under a
+pension plan of the Company or physical or mental disability. Participants
+receiving awards during 2001, including the Named Executive Officers, will
+receive payment in 2004, provided that such individuals continue employment with
+the Company until such payment date (except in the event of death, retirement,
+or disability). Payment under the Plan may be made in cash, shares of the
+Company's common stock, or any combination of cash and stock, at the discretion
+of the Compensation Committee. In the past, payment has been made only in cash.
+
+     (2) The value of awards granted for 2001 will be determined by the
+Company's attainment of Real Growth and Economic Profit performance criteria
+during a three-year performance period of 2001, 2002, and 2003. More detail
+about current performance goals is available in the Report of the Compensation
+Committee. At the beginning of every performance period, participants may elect
+to defer the payout for three years beyond the base performance period (for the
+2001 award, the payout will be made in 2004, unless the participant elects to
+defer the payout for three additional years). Participants will earn interest
+during the deferral period. The deferred amount will be subject to forfeiture if
+the participant discontinues employment for any reason other than death,
+disability, or retirement.
+
+     (3) The estimated future payouts do not include any interest factor that
+would be earned annually during the optional three-year deferral period
+following the performance period. Interest during the optional three-year
+deferral period would accrue annually at a rate equal to the annualized yield to
+maturity of a five-year Treasury note as of the last business day of the
+preceding year (for 2001, that rate was 4.977 percent) plus an amount based on
+the Company's Economic Profit for the preceding
+
+
+                                       26
+
+
+
+
+
+
+
+
+year as a percentage of the average operating capital (for 2001, that rate was
+9.6 percent). The interest would be payable, together with the base award, in
+January 2007.
+
+
+EMPLOYMENT CONTRACT, TERMINATION OF EMPLOYMENT, AND
+CHANGE-IN-CONTROL ARRANGEMENTS
+
+     3M has entered into an employment agreement with W. James McNerney, Jr.
+providing for his employment as Chief Executive Officer of the Company and for
+his election as Chairman of the Board of 3M. The initial term of the agreement
+ends on January 1, 2004, but, beginning on January 1, 2002, the term
+automatically extends so that the remaining term is always two years. The
+agreement provides for an initial base salary of $1,300,000 per year and for
+annual profit sharing initially designed to pay $2,200,000 per year, depending
+on the Company's performance. For 2001, the minimum annual profit sharing
+payable to Mr. McNerney will be $2,400,000, of which amount $1,440,000 is
+payable in cash and $960,000 shall be paid in nonforfeitable unrestricted or
+restricted common stock. The agreement also recognizes that Mr. McNerney will be
+entitled to participate in the same retirement and welfare benefit programs that
+the Company provides to other senior executives.
+
+     The agreement also required 3M to grant Mr. McNerney the following stock
+options, restricted stock, and performance units under the Performance Unit
+Plan:
+
+     Stock Options -- Effective December 4, 2000, Mr. McNerney was granted
+options to purchase 600,000 shares of 3M common stock at $103.05 per share. A
+portion of these options was designed to compensate Mr. McNerney for the
+restricted stock and stock options he forfeited upon leaving his prior employer.
+400,000 of these options become exercisable in increments of 20% on the 1st of
+January in the years 2002 through 2006, and the remaining 200,000 of these
+options become exercisable in increments of one-third on the 1st of January in
+the years 2002 through 2004, in each case assuming he remains employed by the
+Company. All 600,000 options will become exercisable in full immediately upon
+termination of Mr. McNerney's employment by reason of death or disability,
+termination without cause, a termination for good reason, or a change in control
+of the Company.
+
+     In May 2001, Mr. McNerney was granted options to purchase 180,000 shares
+of 3M common stock at $117.25 per share.
+
+     Restricted Stock -- In order to compensate Mr. McNerney for the restricted
+stock and stock options he forfeited upon leaving his prior employer, the
+Company also granted Mr. McNerney 110,000 shares of restricted stock. This
+restricted stock vests in increments of 10% on the 1st of January in the years
+2002 through 2011, assuming he remains employed by the Company, although such
+vesting accelerates in the event of the termination of Mr. McNerney's employment
+by reason of death or disability, termination without cause, a termination for
+good reason, or a change in control of the Company.
+
+     Performance Units -- The Company granted Mr. McNerney ten thousand
+performance units for the performance period commencing January 1, 2001, and
+ending December 31, 2003, subject to the terms of the Company's Performance Unit
+Plan. The value of these units and the amount paid to Mr. McNerney will depend
+on the performance of the Company, but in no event will the value be less than
+$100 per unit nor more than $200 per unit.
+
+     The agreement also requires 3M to provide Mr. McNerney supplemental
+retirement benefits. If he remains employed by 3M for at least ten years, the
+supplemental benefits will be equal in value to an annuity payable for his
+lifetime commencing at age 62 and based on 50% of his highest average annual
+compensation over a three-year period. If Mr. McNerney is employed by 3M for
+less than ten years, the amount of these supplemental retirement benefits will
+be prorated accordingly. The amount of such benefits will be reduced by the
+amount of his benefits under 3M's pension plans or the pension plans of his
+prior employer. These supplemental retirement benefits vest after five years of
+employment with the Company, although they vest immediately in the event of the
+termination of his employment by reason of death or disability, termination
+without cause, a termination for good reason, or a change in control of the
+Company.
+
+
+                                       27
+
+
+
+
+     In the event that Mr. McNerney's employment is terminated by the Company
+other than for cause, or if Mr. McNerney terminates his employment for good
+reason, then he will receive a lump sum cash payment equal to three times his
+annual base salary and profit sharing. As a condition to receiving such payment,
+Mr. McNerney would be required to sign a release of all claims against the
+Company.
+
+RETIREMENT BENEFITS
+
+     The Company maintains a tax-qualified defined benefit pension plan for its
+eligible employees in the United States. Effective January 1, 2001, the Company
+amended this plan (the Employee Retirement Income Plan, or the "ERIP") to
+include a pension equity feature for employees hired or rehired on or after
+January 1, 2001. All of the named executive officers participate in the
+non-pension equity portion of the ERIP. Retirement benefits under the ERIP are
+based on an employee's years of service and average annual earnings during the
+employee's highest four consecutive years of service. Since the Internal Revenue
+Code limits the amount of benefits that can be paid from the ERIP as well as the
+amount of compensation upon which such benefits may be earned, the Company also
+maintains several nonqualified pension plans for eligible employees. The
+following table shows the estimated annual benefits payable on retirement under
+both the ERIP and these nonqualified plans to the Company's eligible employees
+in the United States.
+
+
+
+                                                              ANNUAL RETIREMENT BENEFITS
+        AVERAGE                                                 WITH YEARS OF SERVICE
+    ANNUAL EARNINGS                                                 INDICATED(2)
+  DURING THE HIGHEST     -------------------------------------------------------------------------------------------------------
+   FOUR CONSECUTIVE           10            15            20             25             30             35             40
+ YEARS OF SERVICE(1)        YEARS         YEARS          YEARS          YEARS          YEARS          YEARS          YEARS
+----------------------   -----------   -----------   ------------   ------------   ------------   ------------   ------------
+       
+      $  800,000          $118,698      $178,046     $ 237,395      $ 296,744      $ 356,093      $ 415,442      $ 461,442
+       1,200,000           178,698       268,046       357,395        446,744        536,093        625,442        694,442
+       1,600,000           238,698       358,046       477,395        596,744        716,093        835,442        927,442
+       2,000,000           298,698       448,046       597,395        746,744        896,093      1,045,442      1,160,442
+       2,400,000           358,698       538,046       717,395        896,744      1,076,093      1,255,442      1,393,442
+       2,800,000           418,698       628,046       837,395      1,046,744      1,256,093      1,465,442      1,626,442
+       3,200,000           478,698       718,046       957,395      1,196,744      1,436,093      1,675,442      1,859,442
+       3,600,000           538,698       808,046     1,077,395      1,346,744      1,616,093      1,885,442      2,092,442
+       4,000,000           598,698       898,046     1,197,395      1,496,744      1,796,093      2,095,442      2,325,442
+       4,400,000           658,698       988,046     1,317,395      1,646,744      1,976,093      2,305,442      2,558,442
+----------------------   -----------   -----------   ------------   ------------   ------------   ------------   ------------
+
+
+                         FOOTNOTES TO PENSION PLAN TABLE
+
+     (1) Earnings include base salary and profit sharing actually earned by the
+participant and does not include any other forms of remuneration. The benefits
+are computed on the basis of straight-life annuity amounts and are not subject
+to any deduction for social security or other offset amounts.
+
+     (2) Under the Portfolio I plan covering the Company's executive officers, a
+participant may retire with an unreduced pension at age 60 (61 or 62 for
+employees born after 1942) and if the participant's age and years of service
+total at least 90 (91 or 92 for employees born after 1942) he or she would
+receive a social security bridge to age 62. The Named Executive Officers are
+presently entitled to the respective years of service credit set opposite their
+names:
+--------------------------------------------------------------------------------
+
+                       W.J. McNerney, Jr.* ...........  1
+                       R.O. Baukol ................... 35
+                       J.W. Benson ................... 34
+                       H.J. Wiens .................... 34
+                       J.J. Ursu ..................... 30
+
+--------------------------------------------------------------------------------
+*As described above in the summary of his employment agreement with the Company
+(in the section entitled "Employment Contract, Termination of Employment and
+Change-in-Control Arrangements"), Mr. McNerney will be entitled to receive
+supplemental retirement benefits from the Company in addition to the annual
+retirement benefits shown in the Pension Plan Table.
+
+
+                                       28
+
+
+
+
+
+
+
+
+REPORT OF THE COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS The Compensation
+     Committee of the Board of Directors (the "Committee")
+administers 3M's executive compensation program. The Committee, which is
+composed of nonemployee directors, approves and reports to the Board on all
+elements of compensation for elected corporate officers.
+
+EXECUTIVE COMPENSATION PHILOSOPHY AND PRACTICES
+     The Board believes that providing appropriate motivation of the Company's
+executives and effective leadership are essential for establishing 3M's
+preeminence in the markets we serve and creating an attractive investment for
+stockholders. The Committee is responsible to the Board for ensuring that
+Company executives are highly qualified and are compensated in a manner that
+aligns the interests of executives and stockholders. Consistent with this
+philosophy, the following core principles provide a framework for the Company's
+executive compensation programs:
+
+   o Total compensation must be competitive to attract the best talent to 3M;
+     motivate employees to perform at their highest levels; reward outstanding
+     achievement; and retain those individuals with the leadership abilities and
+     skills necessary for building long-term stockholder value.
+
+   o A significant portion (targeted at 65% to 89%) of an executive's total
+     compensation is variable and at risk and tied to both the annual and
+     long-term financial performance of the Company, such as economic profit and
+     stock price appreciation.
+
+   o Stock ownership is emphasized so that executives manage from an owner's
+     perspective. The Committee believes that broad and deep employee stock
+     ownership effectively aligns the interests of employees with those of
+     stockholders and strongly motivates executives to build stockholder value.
+     The Committee has established specific stock ownership guidelines for key
+     management employees and has created programs that encourage all employees
+     to have an ownership interest in the Company.
+
+     The Committee annually surveys the executive compensation practices of
+large industrial companies that are likely competitors for executive talent. The
+Committee's objective of maintaining the total compensation at a competitive
+level has resulted in short-term compensation (base salary and profit sharing)
+being at or very close to the median and long-term compensation (Performance
+Unit Plan and stock options) in the 50th to 75th percentile, with more
+variability and risk based on Company performance.
+
+     Executive compensation is linked to Company performance compared to
+specific financial and nonfinancial objectives. These objectives range from
+achieving earnings and sales growth targets to upholding the Company's Statement
+of Corporate Values (which include customer satisfaction through superior
+quality and value, attractive investor return, ethical business conduct, respect
+for the environment, and employee pride in the Company).
+
+COMPONENTS OF EXECUTIVE COMPENSATION
+     The compensation program for executive officers consists of the following
+components: base salary, profit sharing, performance unit plan, and stock
+options. The Committee determines the amount of compensation under each
+component of executive compensation granted to the executive officers to achieve
+the appropriate ratio between performance-based compensation and other forms of
+compensation, and to reflect the level of responsibility of the executive
+officer.
+
+     BASE SALARY
+     The Committee establishes base salaries annually in relation to base
+salaries paid by companies included in the compensation surveys. Base pay for an
+executive officer is established each year based on (1) a compensation range
+corresponding to the executive's responsibilities and (2) the executive's
+overall individual job performance.
+
+     PROFIT SHARING
+     Profit sharing is variable compensation based on the quarterly economic
+profit of the Company. Economic profit is defined as quarterly net operating
+income minus a charge for operating capital used by the business. The economic
+profit measurement is directly related to the creation of stockholder
+
+
+                                       29
+
+
+
+
+
+
+
+
+value since it emphasizes the effective use of capital and solid profitable
+growth. Compensation paid under the profit sharing plan rises and falls based on
+Company performance.
+
+     The amount payable under this plan is based on the number of shares of
+profit sharing assigned to a participant, multiplied by an amount based on
+quarterly economic profit. The total amount paid under this plan never exceeds
+one-half percent of the Company's consolidated net income to the Company's five
+most highly compensated officers and never exceeds one-sixth percent of
+consolidated net income to any one executive. Profit sharing payments are
+subject to limitations when individual amounts exceed specified relationships to
+base salary.
+
+     Generally, profit sharing is paid in cash. However, the Named Executive
+Officers may receive a portion of their profit sharing in shares of the
+Company's common stock as determined by the Compensation Committee. The shares
+vest at the end of three years or at age 65, whichever occurs first, or upon
+death or permanent disability.
+
+     PERFORMANCE UNIT PLAN
+     The Performance Unit Plan is variable compensation based on the Company's
+long-term performance. The amount payable with respect to each performance unit
+granted is determined by and is contingent upon attainment of the performance
+criteria selected each year by the Compensation Committee over the applicable
+three-year performance period (each year weighted equally).
+
+     The performance criteria selected by the Compensation Committee for
+performance units granted during 2001 were designed to focus management
+attention on two key factors that create shareholder value: Real Growth and
+Economic Profit.
+
+     PERFORMANCE CRITERIA:
+     (1) "Real Growth" is the percentage amount by which the Company's worldwide
+unit sales growth as reported in the Company's Annual Report exceeds the
+weighted average of the Industrial Production Index ("IPI") of the top seven
+industrial nations in which the Company does business (the "Big 7 IPI"); and
+
+     (2) "Economic Profit" is the Company's net operating income (operating
+income adjusted for income taxes) less the cost of capital utilized (average
+operating capital multiplied by the cost of capital).
+
+     PERFORMANCE UNIT PLAN PAYMENTS:
+     The amount payable for each performance unit granted in 2001 is linked to
+the performance criteria of Real Growth and Economic Profit. The payout varies
+from $0 to $200 per unit. The payout can be reached by either performance
+criterion alone, or by the combined criteria. The payout for the 2001 Award is
+payable in May 2004, in the form (at the discretion of the Committee) of cash,
+stock, or a combination of cash and stock. A Participant may defer the payout
+for three additional years and earn interest at a specified rate. No amount is
+payable for the 2001 Award if the Company's Real Growth is less than the Big 7
+IPI and if Economic Profit is less than 75 percent of the Economic Profit of the
+previous three years.
+
+     STOCK OPTIONS
+     The stock option plan is designed to increase ownership of the Company's
+stock. Options are granted with an exercise price equal to the market price of
+the Company's common stock on the date of grant and vest within one year and
+expire after ten years. Stock options encourage executives to become owners of
+the Company, which further aligns their interests with those of the
+stockholders. These options only have value to the recipients if the price of
+the Company's stock appreciates after the options are granted.
+
+STOCK OWNERSHIP GUIDELINES
+     The Company's stock ownership guidelines are designed to increase an
+executive's equity stake in 3M and more closely align his or her interests with
+those of our stockholders. The guidelines provide that the CEO should attain an
+investment position in 3M's stock equal to five times his or her annual base
+salary, Executive and Senior Vice Presidents should attain an investment
+position equal to three times their annual base salary, and Vice Presidents who
+are members of 3M's Management Committee
+
+
+                                       30
+
+
+
+
+
+
+
+
+should attain an investment position equal to two times their annual base
+salary. While the Stock Ownership Guidelines provide that executives attain
+these investment positions in 3M stock within five years of adoption, most of
+our executives have already attained or exceeded these investment positions.
+
+CHIEF EXECUTIVE OFFICER COMPENSATION
+     Effective January 1, 2001, the Company hired W. James McNerney, Jr., as
+Chairman of the Board and Chief Executive Officer and entered into an employment
+agreement. In determining Mr. McNerney's compensation, the Board focused on
+competitive levels of compensation for CEOs managing companies of similar size
+and complexity and the importance of hiring a chief executive officer with the
+strategic, financial, and leadership skills to ensure the continued growth and
+success of the Company.
+
+     In his first year as Chairman of the Board and Chief Executive Officer, Mr.
+McNerney demonstrated strong leadership and vision for the Company. He
+implemented five initiatives (Six Sigma, Global Sourcing Effectiveness, 3M
+Acceleration, Indirect Costs Reduction, e-Productivity) that strengthen 3M and
+enhance its competitiveness.
+
+     The compensation of Mr. McNerney is governed by his employment agreement
+and generally consists of the same short-term and long-term components (base
+salary, profit sharing, Performance Unit Plan, and stock options) as those of
+other Named Executive Officers. A higher portion of Mr. McNerney's total
+compensation is variable and at risk by being tied to quantifiable measures of
+the Company's performance. These measures are Real Growth and Economic Profit,
+as defined above, and appreciation in the value of 3M stock.
+
+     In order to compensate Mr. McNerney for the restricted stock and stock
+options he forfeited upon leaving his prior employer, the Company also granted
+Mr. McNerney 110,000 shares of restricted stock. This restricted stock vests in
+increments of 10% on the 1st of January in the years 2002 through 2011, assuming
+he remains employed by the Company, although such vesting accelerates in the
+event of the termination of Mr. McNerney's employment by reason of death or
+disability, termination without cause, a termination for good reason, or a
+change in control of the Company.
+
+     The terms of Mr. McNerney's employment agreement appear under "Employment
+Contract, Termination of Employment and Change-In-Control Arrangements" of this
+proxy statement.
+
+LIMIT ON TAX DEDUCTIBLE COMPENSATION
+     Section 162(m) of the Internal Revenue Code prohibits the Company from
+deducting compensation paid in any year to certain executives in excess of $1
+million but does not subject performance-based compensation to this limit. The
+Committee continues to emphasize performance-based compensation for executives
+and thus minimize the effect of Section 162(m). However, the Committee believes
+that its primary responsibility is to provide a compensation program that
+attracts, retains, and rewards the executive talent necessary for the Company's
+success. Consequently, in any year the Committee may authorize non-performance
+based compensation in excess of $1 million. The Committee recognizes that the
+loss of the tax deduction may be unavoidable under these circumstances.
+
+CONCLUSION
+     The Committee is satisfied that the short-term and long-term compensation
+paid to the executive officers of the Company is aligned with the Company's
+strategic objectives and ensures that payouts are determined by Company and
+employee performance.
+
+
+Submitted by the Compensation Committee
+
+Edward A. Brennan, Chair
+
+Rozanne L. Ridgway
+Frank Shrontz
+Louis W. Sullivan
+
+
+                                       31
+
+
+
+
+
+
+
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION The members of the
+     Compensation Committee are named in the preceding
+section. No members of the Compensation Committee were officers or employees of
+3M or any of its subsidiaries during the year, were formerly 3M officers, or had
+any relationship otherwise requiring disclosure.
+
+3M STOCK PERFORMANCE GRAPH
+     The following compares the Company's cumulative and annualized total
+shareholder return, overall stock market performance with reinvested dividends,*
+during the five fiscal years preceding December 31, 2001, against the Standard &
+Poor's 500 Stock Index and the Dow Jones Industrial Average, both of which are
+well-known and published industry indices. The Company is included in both the
+S&P 500 Stock Index and the Dow Jones Industrial group of 30 companies. The
+Company, as a highly diversified manufacturer and seller of a broad line of
+products, is not easily categorized with other, more specific, industry indices.
+
+     The annual changes for the five-year period shown in the graph are based on
+the assumption that $100 had been invested in the Company's stock and each index
+on December 31, 1996 (as required by SEC rules), and that all quarterly
+dividends were reinvested at the average of the closing stock prices at the
+beginning and end of the quarter. The total cumulative dollar returns shown on
+the graph represents the value that such investments would have had on December
+31, 2001.
+
+     *The Company's interest in Imation Corp. was distributed to stockholders
+as a special stock dividend payable in shares of Imation Corp. stock on July
+15, 1996. The following graph accounts for this distribution as though it was
+paid in cash and reinvested in common shares of the Company.
+
+
+     COMPARISON OF FIVE-YEAR CUMULATIVE AND ANNUALIZED TOTAL RETURN AMONG
+              3M, S&P 500 INDEX, AND DOW JONES INDUSTRIAL AVERAGE
+
+
+                              3M STOCK PERFORMANCE
+                         (WITH DIVIDEND REINVESTMENT)
+
+
+                                    [GRAPH]
+
+
+
+  Cumulative Return (per graph)
+----------------------------------------------
+                           1996         1997         1998         1999         2000         2001
+                           ----         ----         ----         ----         ----         ----
+      
+  3M                      100.0        101.2         90.2        127.4        160.7        161.2
+  DJIA                    100.0        124.9        147.6        187.7        178.8        169.2
+  S&P 500                 100.0        133.3        171.3        207.4        188.5        166.2
+
+  Annualized Return
+--------------------
+  3M                       34.5%         1.2%       -10.9%        41.2%        26.2%         0.3%
+  DJIA                     28.9%        24.9%        18.1%        27.2%        -4.7%        -5.4%
+  S&P 500                  22.9%        33.3%        28.5%        21.0%        -9.1%       -11.8%
+
+
+
+
+                                       32
+
+
+
+
+
+
+
+
+REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+     The role of the Audit Committee is to assist the Board of Directors in its
+oversight of the Company's financial reporting process. The Board of Directors,
+in its business judgment, has determined that all members of the Committee are
+"independent," as required by applicable listing standards of the New York Stock
+Exchange. The Committee operates pursuant to a Charter that was last amended and
+restated by the Board on February 12, 2001. As set forth in the Charter,
+management of the Company is responsible for the preparation, presentation, and
+integrity of the Company's financial statements, the Company's accounting and
+financial reporting principles and internal controls and procedures designed to
+assure compliance with accounting standards and applicable laws and regulations.
+Our independent auditors, PricewaterhouseCoopers LLP, are responsible for
+auditing the Company's consolidated financial statements and expressing an
+opinion as to whether they are presented fairly, in all material respects, in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+     In the performance of its oversight function, the Committee has:
+
+   o Considered and discussed the audited financial statements with management
+     and our independent auditors;
+
+   o Discussed with our independent auditors the matters required to be
+     discussed by Statements on Auditing Standards No. 61, Communication with
+     Audit Committees, and No. 71, Interim Financial Information, as currently
+     in effect;
+
+   o Received the written disclosures from our independent auditors required by
+     Independence Standards Board Standard No.1, Independence Discussions with
+     Audit Committees, as currently in effect, and discussed the independence of
+     PricewaterhouseCoopers LLP with them; and
+
+   o Reviewed the services provided by our independent auditors other than their
+     audit services and considered whether the provision of such other services
+     by our independent auditors is compatible with maintaining their
+     independence.
+
+     Based upon the reports and discussions described in this report, and
+subject to the limitations on the role and responsibilities of the Committee
+referred to in the Charter, the Committee recommended to the Board that the
+audited financial statements be included in the Company's Annual Report on Form
+10-K for the year ended December 31, 2001, to be filed with the Securities and
+Exchange Commission.
+
+
+Submitted by the Audit Committee
+
+
+Edward M. Liddy, Chair
+
+Linda G. Alvarado
+Aulana L. Peters
+Kevin W. Sharer
+
+
+                                       33
+
+
+
+
+
+
+
+
+AUDIT FEES
+     The aggregate fees and expenses of PricewaterhouseCoopers LLP for
+professional services provided for the audit of the consolidated financial
+statements for the year ended December 31, 2001, included in the Company's
+Annual Report on Form 10-K, and for the reviews of the interim consolidated
+financial information included in the Company's Quarterly Reports on Form 10-Q
+for that year were $4.5 million, of which an aggregate amount of $3.2 million
+had been billed through December 31, 2001.
+
+ALL OTHER FEES
+     The aggregate fees and expenses billed by PricewaterhouseCoopers LLP for
+all services provided to the Company, other than the services described above
+under "Audit Fees," for the year ended December 31, 2001, were $3.3 million.
+These fees consist of $1.8 million for audit services related to the Company's
+benefit plans, statutory audits of international subsidiaries, and review of the
+Company's registration statements filed with the SEC and $1.5 million primarily
+for tax planning and compliance.
+
+     PricewaterhouseCoopers LLP did not provide any services to the Company
+relating to financial information systems design and implementation during the
+year ended December 31, 2001.
+
+By Order of the Board of Directors
+
+
+
+/s/ GREGG M. LARSON
+
+GREGG M. LARSON
+ASSISTANT GENERAL COUNSEL AND SECRETARY
+
+
+
+
+
+
+                                       34
+
+
+
+
+
+
+
+
+                                   APPENDIX A
+                  3M 2002 MANAGEMENT STOCK OWNERSHIP PROGRAM
+
+
+                                SECTION 1 PURPOSE
+
+
+     The purpose of this plan is to help the Company attract and retain
+outstanding employees, and to promote the growth and success of the Company's
+business by aligning the financial interests of these employees with the other
+stockholders of the Company. It has been the policy of the Company to encourage
+employee participation as stockholders and the Company believes that employee
+stock ownership has been an important factor contributing to the Company's
+growth and progress.
+
+
+                              SECTION 2 DEFINITIONS
+
+
+   (a)  "AWARD" shall mean an Incentive Stock Option, Nonqualified Stock Option,
+        Progressive Stock Option, Stock Appreciation Right, Restricted Stock or
+        other Stock Award granted to a Participant pursuant to this 2002
+        Program, subject to the terms, conditions, and restrictions of this 2002
+        Program and to such other terms, conditions, and restrictions as may be
+        established by the Committee.
+
+   (b)  "BOARD OF DIRECTORS" shall mean the Board of Directors of Minnesota
+        Mining and Manufacturing Company.
+
+   (c)  "CODE" shall mean the Internal Revenue Code of 1986, as it may be
+        amended from time to time.
+
+   (d)  "COMMITTEE" shall mean the Compensation Committee established by the
+        Board of Directors acting without the participation of any member who
+        may have received a grant or award under the 2002 Program or any other
+        similar plan or program of the Company (except those limited to
+        participation by directors) during the previous one-year period, or such
+        other committee of disinterested administrators established by the Board
+        of Directors to comply with Rule 16b-3 promulgated by the Securities and
+        Exchange Commission, as amended from time to time.
+
+   (e)  "COMMON STOCK" shall mean the common stock, with a par value of $0.01
+        per share, of Minnesota Mining and Manufacturing Company.
+
+   (f)  "COMPANY" shall mean Minnesota Mining and Manufacturing Company and such
+        subsidiaries or affiliates as may be designated by the Board of
+        Directors from time to time.
+
+   (g)  "CONDITIONS" shall mean the condition that the Restricted Period
+        stipulated by the Committee at the time of grants of Restricted Stock
+        shall have expired or terminated and that any other conditions
+        prescribed by the Committee regarding a Participant's continued
+        employment by the Company or the Company's performance during the
+        Restricted Period shall have been satisfied, or any other conditions
+        stipulated by the Committee with respect to Stock Awards.
+
+   (h)  "DISQUALIFYING TERMINATION" shall mean a termination of a Participant's
+        employment with the Company (i) due to a violation of any Company
+        policy, including, without limitation, any policy contained in the
+        Company's Business Conduct Manual, (ii) due to embezzlement from or
+        theft of property belonging to the Company, or (iii) while the
+        Participant is assigned an "Unsatisfactory" level of contribution or
+        similar performance rating.
+
+   (i)  "DIVIDEND EQUIVALENTS" shall mean that sum of cash or Common Stock of
+        equivalent value equal to the amount of cash or stock dividends paid
+        upon Common Stock subject to any Awards under the 2002 Program, prior to
+        such time as the Participant otherwise becomes entitled thereto as a
+        holder of record.
+
+   (j)  "FAIR MARKET VALUE" shall mean the average of the high and low prices
+        for a share of Common Stock as reported on the New York Stock Exchange
+        Composite Transactions, rounded upwards to the nearest $0.05.
+
+
+                                       A-1
+
+
+
+
+
+
+
+
+   (k)  "GRANT DATE" shall mean the effective date of an Award granted to a
+        Participant under the 2002 Program.
+
+   (l)  "INCENTIVE STOCK OPTION" shall mean an Option granted to a Participant
+        under the 2002 Program which satisfies the requirements of section 422
+        of the Code and is so designated in the written or electronic documents
+        evidencing such Option.
+
+   (m)  "NONQUALIFIED STOCK OPTION" shall mean an Option granted to a
+        Participant under the 2002 Program which is not an Incentive Stock
+        Option.
+
+   (n)  "OPTION" shall mean a Participant's right to purchase the number of
+        shares of Common Stock designated in the Agreement, subject to the terms
+        and conditions of the 2002 Program, and the term shall include both
+        Incentive Stock Options and Nonqualified Options.
+
+   (o)  "PARTICIPANT" shall mean any employee of the Company who is designated
+        as a Participant by the Committee.
+
+   (p)  "2002 PROGRAM" shall mean the Company's 2002 Management Stock Ownership
+        Program.
+
+   (q)  "PROGRESSIVE STOCK OPTION" shall mean an Option granted to a Participant
+        under the 2002 Program upon the exercise of a Nonqualified Stock Option
+        granted under this 2002 Program or its predecessors where such
+        Participant makes payment for all or part of the purchase price and
+        withholding taxes in shares of Common Stock.
+
+   (r)  "RESTRICTED PERIOD" shall mean that period of time determined by the
+        Committee during which a Participant shall not be permitted to sell or
+        transfer shares of Restricted Stock granted under the 2002 Program.
+
+   (s)  "RESTRICTED STOCK" shall mean that Common Stock granted to a Participant
+        subject to the Conditions established by the Committee.
+
+   (t)  "RETIRES" OR "RETIREMENT" shall mean the termination of a Participant's
+        employment with the Company after meeting the requirements for
+        retirement under any retirement plan of the Company (including, in the
+        United States, the Employee Retirement Income Plan of Minnesota Mining
+        and Manufacturing Company).
+
+   (u)  "STOCK APPRECIATION RIGHT" shall mean a Participant's right to receive
+        an amount of cash or shares of Common Stock equal to the excess of the
+        Fair Market Value of a specified number of shares of Common Stock on the
+        date the right is exercised over the Fair Market Value of such number of
+        shares of Common Stock on the Grant Date.
+
+   (v)  "STOCK AWARD" shall mean any award of Common Stock under the Program and
+        may include Restricted Stock awards or other awards of Common Stock as
+        determined appropriate by the Committee.
+
+
+                      SECTION 3 SHARES AVAILABLE FOR AWARDS
+
+
+     The number of shares of Common Stock that may be issued or delivered as a
+result of Options, Restricted Stock or other Stock Awards granted during the
+term of the 2002 Program, or made subject to Stock Appreciation Rights granted
+during the term of the 2002 Program, is 22,700,000. Of this total, no more than
+2,270,000 shares may be granted as Restricted Stock and Other Stock Awards. The
+necessary shares shall be made available at the discretion of the Board of
+Directors from authorized but unissued shares, treasury shares, or shares
+reacquired by the Company under corporate repurchase programs. For the purpose
+of determining the number of shares issued or delivered under the 2002 Program,
+no shares shall be deemed issued or delivered in connection with an Option
+granted hereunder unless and until such Option is exercised and shares delivered
+to the Participant. The payment of stock dividends and dividend equivalents
+settled in Common Stock in conjunction with outstanding Awards shall not be
+counted against the shares available for issuance. Shares of Common Stock
+tendered to or withheld by the Company in connection with the exercise of
+options, or the payment of tax withholding on any award, granted under this 2002
+Program or its predecessors shall be returned to the shares available for future
+Awards under the 2002 Program.
+
+
+                                       A-2
+
+
+
+
+
+
+
+
+                            SECTION 4 ADMINISTRATION
+
+
+     The 2002 Program shall be administered by the Committee, which shall have
+full power and authority to select the Participants, interpret the Program,
+continue, accelerate, or suspend the exercisability or vesting of an Award, and
+adopt such rules and procedures for operating the Program as it may deem
+necessary or appropriate. Its power and authority shall include, but not be
+limited to, making any amendments to or modifications of the 2002 Program which
+may be required or necessary to make such Program comply with the provisions of
+any laws or regulations of any country or unit thereof in which the Company
+operates.
+
+
+                        SECTION 5 DELEGATION OF AUTHORITY
+
+
+     To the extent permitted by Delaware law, the Committee may delegate to
+officers of the Company any or all of its duties, power, and authority under the
+2002 Program subject to such conditions or limitations as the Committee may
+establish; provided, however, that no officer shall have or obtain the authority
+to grant Awards to (i) himself or herself, or (ii) any person subject to section
+16 of the Securities Exchange Act of 1934.
+
+
+                            SECTION 6 TERMS OF AWARDS
+
+
+     The Committee shall determine the type or types of Awards to be granted to
+each Participant, which shall be evidenced by such written or electronic
+documents as the Committee shall authorize. No Participant shall be granted
+Awards under the 2002 Program with respect to more than 2,000,000 shares of
+Common Stock. The following types of Awards may be granted under this 2002
+Program:
+
+     (a) Incentive Stock Options - Incentive Stock Options granted hereunder
+shall have a purchase price equal to one hundred percent (100%) of the Fair
+Market Value of a share of Common Stock on the Grant Date. Incentive Stock
+Options granted hereunder shall become exercisable at such time as shall be
+established by the Committee and reflected in the documents evidencing such
+Options, and unless sooner terminated shall expire on the tenth anniversary of
+the Grant Date.
+
+     (b) Nonqualified Stock Options - Nonqualified Stock Options granted
+hereunder shall have a purchase price equal to no less than one hundred percent
+(100%) of the Fair Market Value of a share of Common Stock on the Grant Date.
+Nonqualified Stock Options granted hereunder shall become exercisable and shall
+expire at such time or times as shall be established by the Committee and
+reflected in the documents evidencing such Options; provided, however, that no
+Nonqualified Stock Option shall expire later than ten years after the Grant Date
+(except that the Committee may extend the exercise period for Nonqualified Stock
+Options granted to Participants in any country or countries for an additional
+period of up to one year if and to the extent necessary to prevent adverse tax
+consequences to such participants under the laws of such country).
+
+     (c) Progressive Stock Options - Whenever a Participant exercises a
+Nonqualified Stock Option granted under this 2002 Program or its predecessors
+and makes payment of all or part of the purchase price and withholding taxes, if
+any, in Common Stock, the Committee may in its discretion grant such Participant
+a Progressive Stock Option. The number of shares subject to such Progressive
+Stock Option shall be equal to the number of shares of Common Stock utilized by
+the Participant to effect payment of the purchase price and withholding taxes,
+if any, for such Nonqualified Stock Option. Each Progressive Stock Option
+granted hereunder shall have a purchase price equal to one hundred percent
+(100%) of the Fair Market Value of a share of Common Stock on the date of
+exercise of the Nonqualified Stock Option, which shall be the Grant Date of such
+Progressive Stock Option. Each Progressive Stock Option granted hereunder shall
+be exercisable six months after the Grant Date, and shall expire at the same
+time the Nonqualified Option exercised by the Participant would have expired.
+
+     (d) Stock Appreciation Rights - The term of a Stock Appreciation Right
+shall be fixed by the Committee and set forth in the documents evidencing such
+right, but no Stock Appreciation Right shall be exercisable more than ten years
+after the Grant Date. Each Stock Appreciation Right shall become exercisable at
+the time or times determined by the Committee and set forth in the documents
+evidencing such right.
+
+
+                                       A-3
+
+
+
+
+
+
+
+
+     (e) Restricted Stock - At the time a grant of Restricted Stock is made, the
+Committee, in its sole discretion, shall establish a Restricted Period and such
+additional Conditions as may be deemed appropriate for the incremental lapse or
+complete lapse of restrictions with respect to all or any portion of the shares
+of Common Stock represented by the Restricted Stock. The Committee may also, in
+its sole discretion, shorten or terminate the Restricted Period or waive any
+Conditions with respect to all or any portion of the shares of Common Stock
+represented by the Restricted Stock. A stock certificate for the number of
+shares of Common Stock represented by the Restricted Stock shall be registered
+in the Participant's name but shall be held in custody by the Company for the
+Participant's account. The Participant shall generally have the rights and
+privileges of a stockholder as to such Restricted Stock, including the right to
+vote such Restricted Stock, except that the following restrictions shall apply:
+(i) the Participant shall not be entitled to delivery of the certificate until
+the expiration or termination of the Restricted Period and the satisfaction of
+any other Conditions prescribed by the Committee, if any; (ii) none of the
+Restricted Stock may be sold, transferred, assigned, pledged, or otherwise
+encumbered or disposed of during the Restricted Period and until the
+satisfaction of other Conditions prescribed by the Committee, if any; and (iii)
+all of the Restricted Stock shall be forfeited and all rights of the Participant
+shall terminate without further obligation on the part of the Company unless the
+Participant shall have remained a regular full-time employee of the Company or
+any of its subsidiaries or affiliates until the expiration or termination of the
+Restricted Period and the satisfaction of the other Conditions prescribed by the
+Committee, if any. During the Restricted Period, at the sole discretion of the
+Committee, Dividend Equivalents may be either currently paid or withheld by the
+Company for the Participant's account, and interest may be paid on the amount of
+cash dividends withheld at a rate and under such terms as determined by the
+Committee. Cash or stock dividends so withheld by the Committee shall not be
+subject to forfeiture. Upon the forfeiture of any Restricted Stock, such shares
+of Common Stock represented by the Restricted Stock shall be transferred to the
+Company without further action by the Participant.
+
+     (f) Other Stock Awards - The Committee may, in its sole discretion, grant
+Stock Awards other than Restricted Stock grants, and such Stock Awards may be
+granted singly, in combination or in tandem with, in replacement of, or as
+alternatives to grants or rights under this Program or any other employee
+benefit or compensation plan of the Company, including the plan of any acquired
+entity. If the Committee shall stipulate Conditions with respect to such Stock
+Awards, the Conditions will be set forth in documents evidencing the grant. If
+Conditions with respect to such Stock Awards shall require the surrender or
+forfeiture of other grants or rights under this Program or any other employee
+benefit or compensation plan of the Company, then the Participant shall not have
+any rights under such Stock Awards until the grants or rights exchanged have
+been fully and effectively surrendered or forfeited.
+
+
+                         SECTION 7 SETTLEMENT OF AWARDS
+
+
+     (a) Payment of Awards may be in the form of cash, Common Stock, or
+combinations thereof as the Committee shall determine, and with such other
+restrictions as it may impose. The Committee may also require or permit
+Participants to elect to defer the issuance of shares or the settlement of
+Awards in cash under such rules and procedures as it may establish under the
+2002 Program. It may also provide that deferred settlements include the payment
+or crediting of interest on the deferral amounts denominated in cash or the
+payment or crediting of Dividend Equivalents on deferred settlements denominated
+in shares.
+
+     (b) No shares of Common Stock shall be issued to any Participant upon the
+exercise of an Option until full payment of the purchase price has been made to
+the Company and the Participant has remitted to the Company the required federal
+and state withholding taxes, if any. A Participant shall obtain no rights as a
+stockholder until certificates for such stock are issued to the Participant.
+Payment of the purchase price or applicable withholding taxes, if any, may be
+made in whole, or in part, in shares of Common Stock, pursuant to such terms and
+conditions as may be established from time to time by the Committee. If payment
+is made in shares of Common Stock, such stock shall be valued at one hundred
+percent (100%) of their Fair Market Value on the day the Participant exercised
+his or her Option or, as regards a withholding tax, such other date when the tax
+withholding obligation becomes due. A Participant need not surrender shares of
+Common Stock as payment; and the Company may,
+
+
+                                       A-4
+
+
+
+
+
+
+
+
+upon the giving of satisfactory evidence of ownership of said Common Stock by
+Participant, deliver the appropriate number of additional shares of Common Stock
+reduced by the number of shares required to pay the purchase price and any
+applicable withholding taxes. Such form of evidence shall be determined by the
+Committee.
+
+
+                   SECTION 8 DELIVERY OF STOCK CERTIFICATES
+
+
+     (a) Within sixty (60) days after completion of the exercise of an Option or
+Stock Appreciation Right, or the complete satisfaction of Conditions applicable
+to a Stock Award, the Company will have delivered to the Participant
+certificates representing all shares of Common Stock purchased or received
+thereunder. The Company shall not, however, be required to issue or deliver any
+certificates for its Common Stock prior to the admission of such stock to
+listing on any stock exchange on which stock may at that time be listed or
+required to be listed, or prior to registration under the Securities Act of
+1933. The Participant shall have no interest in Common Stock until certificates
+for such stock are issued or transferred to the Participant and the Participant
+becomes the holder of record.
+
+     (b) Upon the expiration or termination of the Restricted Period and the
+satisfaction of other Conditions prescribed by the Committee, if any, the
+restrictions applicable to a grant of Restricted Stock shall lapse and a stock
+certificate for the number of shares of Common Stock represented by the
+Restricted Stock shall be delivered to the Participant or the Participant's
+beneficiary, representative, or estate, as the case may be, free of all
+restrictions, except any that may be imposed by law. Unless otherwise instructed
+by a Participant by an irrevocable written instruction received by the Company,
+at least six months prior to the date that applicable restrictions lapse, the
+Company shall automatically withhold as payment the number of shares of Common
+Stock, determined by the Fair Market Value at the date of the lapse, required to
+pay withholding taxes, if any.
+
+     (c) In no event will the Company be required to deliver any fractional
+share of Common Stock in connection with any Award. In the event that a
+Participant shall be entitled to receive a fraction of a share of Common Stock
+in connection with an Award granted under this 2002 Program, the Company shall
+pay in cash, in lieu thereof, the Fair Market Value of such fractional share.
+
+
+                            SECTION 9 TAX WITHHOLDING
+
+
+     Prior to the payment or settlement of any Award, the Participant must pay,
+or make arrangements satisfactory to the Company for the payment of, any and all
+tax withholding that in the opinion of the Company is required by law. The
+Company shall have the right to deduct applicable taxes from any Award payment,
+to withhold from the shares of Common Stock being issued or delivered in
+connection with an Award an appropriate number of shares for the payment of
+taxes required by law, or to take such other action as may be necessary in the
+opinion of the Company to satisfy all obligations for the withholding of such
+taxes.
+
+
+                           SECTION 10 TRANSFERABILITY
+
+
+     Except as permitted in this Section 10, no Award granted under this 2002
+Program may be assigned, transferred (other than a transfer by will or the laws
+of descent and distribution as provided in Section 11), pledged, or hypothecated
+(whether by operation of law or otherwise). Awards granted under this 2002
+Program shall not be subject to execution, attachment, or similar process. The
+Committee may, in its sole discretion, permit individual Participants to
+transfer the ownership of all or any of their Nonqualified Options granted under
+this 2002 Program to (i) the spouse, children or grandchildren of such
+Participant ("Immediate Family Members"), (ii) a trust or trusts for the
+exclusive benefit of such Immediate Family Members, or (iii) a partnership in
+which such Immediate Family Members are the only partners, provided that (x)
+there may be no consideration for any such transfer, and (y) subsequent
+transfers of transferred Nonqualified Options shall be prohibited except those
+in accordance with Section 11 (by will or the laws of descent and distribution).
+The Committee may, in its sole discretion, create further conditions and
+requirements for the transfer of Nonqualified Options. Following transfer, any
+such Nonqualified Options shall continue to be subject to the same terms and
+conditions as were applicable immediately prior to transfer, provided that for
+purposes of Sections 7, 8,
+
+
+                                       A-5
+
+
+
+
+
+
+
+
+and 14 hereof the term "Participant" shall be deemed to refer to the transferee.
+The events causing termination of Awards in accordance with Section 11 hereof
+shall continue to be applied with respect to the original Participant, following
+which the Nonqualified Options shall be exercisable by the transferee only to
+the extent, and for the periods specified in Section 11.
+
+
+
+                        SECTION 11 TERMINATION OF AWARDS
+
+
+     (a) If a Participant's employment with the Company is terminated for any
+reason other than (i) a Disqualifying Termination, (ii) Retirement, (iii) a
+physical or mental disability as recognized under a benefit plan maintained by
+the Company, or (iv) death, and prior to the date of termination the Participant
+has not fully exercised an Option or Stock Appreciation Right granted under this
+2002 Program, such Participant may exercise the Option or Stock Appreciation
+Right within ninety (90) days following the date of termination (but not beyond
+the expiration date of such Option or Right) for the number of shares which the
+Participant could have purchased or received a payment on the date of
+termination. At the conclusion of such ninety-day period (with respect to the
+Participant's Options and Stock Appreciation Rights, and at the time of
+termination with respect to any other Awards), participation hereunder shall
+cease and all of the Participant's Awards granted under this 2002 Program shall
+be automatically forfeited unless the documents evidencing such Options or Stock
+Appreciation Rights provide otherwise.
+
+     (b) If a Participant Retires or changes employment status as a result of a
+physical or mental disability as recognized under a benefit plan maintained by
+the Company, without having fully exercised an Option or Stock Appreciation
+Right, the Participant shall be entitled, within the remaining term of the
+Option or Stock Appreciation Right (but not beyond the expiration date of such
+Option or Right), to exercise such Option or Stock Appreciation Right (including
+any portion thereof not already exercisable at the time of such Retirement or
+change in employment status). If a Participant who has thus Retired dies,
+without having fully exercised an Option or Stock Appreciation Right, the Option
+or Stock Appreciation Right (including any portion thereof not already
+exercisable at the time of the Participant's death) may be exercised within two
+years after the date of his or her death (but not beyond the expiration date of
+such Option or Right) by the Participant's estate or by a person who acquired
+the right to exercise such Option or Stock Appreciation Right by bequest or
+inheritance or by reason of the death of the Participant.
+
+     (c) If a Participant, prior to Retirement, dies without having fully
+exercised an Option or Stock Appreciation Right, the Option or Stock
+Appreciation Right (including any portion thereof not already exercisable at the
+time of the Participant's death) may be exercised within two years following his
+or her death (but not beyond the expiration date of such Option or Right) by the
+Participant's estate or by a person who acquired the right to exercise such
+Option or Stock Appreciation Right by bequest or inheritance or by reason of the
+death of the Participant.
+
+     (d) Notwithstanding paragraph (a) of this section, if a Participant's
+employment with the Company is terminated before he or she has fully exercised
+an Option or Stock Appreciation Right under circumstances which the Committee
+believes to warrant special consideration and the Committee has determined that
+the Participant's rights should not be forfeited at the time or times specified
+in paragraph (a), the Option or Stock Appreciation Right (including any portion
+thereof not already exercisable at the time of termination) may be exercised
+within two years following his or her termination of employment (but not beyond
+the expiration date of such Option or Right).
+
+     (e) If a Participant dies, either prior to or following Retirement, or
+becomes totally disabled because of a physical or mental disability, and has not
+yet received the stock certificate for the shares of Common Stock represented by
+a grant of Restricted Stock or other Stock Award, then all restrictions imposed
+during the Restricted Period and any other Conditions prescribed by the
+Committee, if any, shall automatically lapse and a stock certificate shall be
+delivered to the Participant or the Participant's beneficiary, representative,
+or estate, as the case may be.
+
+     (f) If a Participant's employment with the Company is terminated due to a
+Disqualifying Termination, participation hereunder shall cease and all of the
+Participant's Awards granted under this 2002 Program shall be automatically
+forfeited.
+
+
+                                       A-6
+
+
+
+
+
+
+
+
+                             SECTION 12 ADJUSTMENTS
+
+
+     In the event of any change in the outstanding Common Stock of the Company
+by reason of a stock split, stock dividend, combination or reclassification of
+shares, recapitalization, merger or similar event, the Committee shall adjust
+proportionately: (a) the number of shares of Common Stock (i) available for
+issuance or delivery under the 2002 Program in accordance with Section 3, (ii)
+for which Awards may be granted to a single Participant in accordance with
+Section 6, and (iii) subject to outstanding Awards granted under the 2002
+Program; (b) the purchase prices of outstanding Awards; and (c) the appropriate
+Fair Market Value and other price determinations for such Awards. In the event
+of any other change affecting the Common Stock or any distribution (other than
+normal cash dividends) to holders of Common Stock, such adjustments in the
+number or kind of shares and the purchase prices, Fair Market Value and other
+price determinations of the affected Awards as the Committee shall, in its sole
+discretion, determine are equitable, shall be made and shall be effective and
+binding for all purposes of such outstanding Awards. In the event of a corporate
+merger, consolidation, acquisition of assets or stock, separation,
+reorganization or liquidation, the Committee shall be authorized to cause the
+Company to issue or assume stock options, whether or not in a transaction to
+which section 424(a) of the Code applies, by means of substitution of new stock
+options for previously issued stock options or an assumption of previously
+issued stock options. In such event, the aggregate number of shares of Common
+Stock available for issuance or delivery under the 2002 Program in accordance
+with Section 3 will be increased to reflect such substitution or assumption, and
+such shares substituted or assumed shall not be counted against the individual
+Participant maximum set forth in Section 6.
+
+
+                         SECTION 13 TERM, AMENDMENT, AND
+                         TERMINATION OF THE 2002 PROGRAM
+
+
+     The 2002 Program shall become effective on the date it is approved by the
+requisite vote of the stockholders of Minnesota Mining and Manufacturing
+Company, and shall expire (unless it is terminated before then) on the third
+anniversary of such effective date. Such expiration shall not adversely affect
+Awards granted under the 2002 Program prior to such expiration date. The Board
+of Directors may at any time amend or terminate the 2002 Program, except that no
+amendment or termination shall adversely affect Awards granted under the 2002
+Program prior to the effective date of such amendment or termination; provided,
+however, that no amendment shall be made without the prior approval of the
+holders of a majority of the issued and outstanding shares of Common Stock
+represented and entitled to vote on such amendment which would (i) increase the
+aggregate number of shares of Common Stock available for issuance or delivery
+under the 2002 Program in accordance with Section 3 (except for adjustments made
+in accordance with Section 12), or (ii) permit the granting of Awards with
+purchase prices lower than those specified in Section 6.
+
+
+                          SECTION 14 CHANGE IN CONTROL
+
+
+     (a) For purposes of this Section 14, the following words and phrases shall
+have the meanings indicated below, unless the context clearly indicates
+otherwise:
+
+     (i)  "Person" shall have the meaning associated with that term as it is
+          used in Sections 13(d) and 14(d) of the Act.
+
+    (ii)  "Affiliates and Associates" shall have the meanings assigned to such
+          terms in Rule 12b-2 promulgated under Section 12 of the Act.
+
+   (iii)  "Act" means the Securities Exchange Act of 1934.
+
+    (iv)  "Continuing Directors" shall have the meaning assigned to such term in
+          Article Thirteenth of the Certificate of Incorporation of Minnesota
+          Mining and Manufacturing Company.
+
+
+                                       A-7
+
+
+
+
+
+
+
+
+     (b) Notwithstanding any other provision of this 2002 Program to the
+contrary, all outstanding Options and Stock Appreciation Rights shall (i) become
+immediately exercisable in full for the remainder of their respective terms upon
+the occurrence of a Change in Control of the Company, and (ii) remain
+exercisable in full for a minimum period of six months following the Change in
+Control; provided, however, that in no event shall any Option or Stock
+Appreciation Right be exercisable beyond the original expiration date.
+
+     (c) Similarly, all restrictions regarding the Restricted Period or the
+satisfaction of other Conditions prescribed by the Committee, if any, with
+respect to grants of Restricted Stock or other Stock Awards, shall automatically
+lapse, expire, and terminate and the Participant shall be immediately entitled
+to receive a stock certificate for the number of shares of Common Stock
+represented by the Restricted Stock or Stock Awards upon the occurrence of a
+Change in Control.
+
+     (d) For purposes of this Section 14, a Change in Control of the Company
+shall be deemed to have occurred if:
+
+     (i)  any Person (together with its Affiliates and Associates), other than a
+          trustee or other fiduciary holding securities under an employee
+          benefit plan of the Company, is or becomes the "beneficial owner" (as
+          that term is defined in Rule 13d-3 promulgated under the Act),
+          directly or indirectly, of securities of the Company representing
+          twenty percent (20%) or more of the combined voting power of the
+          Company's then outstanding securities, unless a majority of the
+          Continuing Directors of the Board of Directors prior to that time have
+          determined in their sole discretion that, for purposes of this 2002
+          Program, a Change in Control of the Company has not occurred; or
+
+    (ii)  the Continuing Directors of the Board of Directors shall at any time
+          fail to constitute a majority of the members of such Board of
+          Directors.
+
+     (e) In the event that the provisions of this Section 14 result in
+"payments" that are finally determined to be subject to the excise tax imposed
+by section 4999 of the Code, the Company shall pay to each Participant an
+additional amount sufficient to fully satisfy such excise tax and any additional
+federal, state, and local income taxes payable on the additional amount.
+
+     (f) The Company shall pay to each Participant the amount of all reasonable
+legal and accounting fees and expenses incurred by such Participant in seeking
+to obtain or enforce his or her rights under this Section 14, or in connection
+with any income tax audit or proceeding to the extent attributable to the
+application of section 4999 of the Code to the payments made pursuant to this
+Section 14, unless a lawsuit commenced by the Participant for such purposes is
+dismissed by the court as being spurious or frivolous. The Company shall also
+pay to each Participant the amount of all reasonable tax and financial planning
+fees and expenses incurred by such Participant in connection with such
+Participant's receipt of payments pursuant to this Section 14.
+
+
+                            SECTION 15 MISCELLANEOUS
+
+
+     (a) Unless otherwise specifically determined by the Committee, settlements
+of Awards received by Participants under the 2002 Program shall not be deemed a
+part of any Participant's compensation for purposes of determining such
+Participant's payments or benefits under any Company benefit plan, severance
+program, or severance pay law of any country. Nothing in this 2002 Program shall
+prevent the Company from adopting other or additional compensation programs,
+plans, or arrangements as it deems appropriate or necessary.
+
+     (b) The 2002 Program shall be unfunded. The Company does not intend to
+create any trust or separate fund in connection with the 2002 Program. The
+Company shall not have any obligation to set aside funds or segregate assets to
+ensure the payment of any Award. The 2002 Program shall not establish any
+fiduciary relationship between the Company and any Participant or other person.
+To the extent any person holds any rights by virtue of an Award under the 2002
+Program, such right (unless otherwise determined by the Committee) shall be no
+greater than the right of an unsecured general creditor of the Company.
+
+
+                                       A-8
+
+
+
+
+
+
+
+
+     (c) No person shall have any claim or right to be granted an Award under
+the 2002 Program, and the Participants shall have no rights against the Company
+except as may otherwise be specifically provided herein. Nothing in this 2002
+Program shall be deemed to give any Participant the right to be retained in the
+employ of the Company, or to interfere with the right of the Company to
+discipline or discharge such Participant at any time for any reason whatsoever.
+
+
+     (d) The provisions of this 2002 Program and the documents evidencing Awards
+granted under this 2002 Program shall be construed and interpreted according to
+the laws of the State of Minnesota.
+
+     (e) In case any provision of this 2002 Program shall be ruled or declared
+invalid for any reason, said illegality or invalidity shall not affect the
+remaining provisions, and the remainder of the 2002 Program shall be construed
+and enforced as if such illegal or invalid provision had never been included
+herein.
+
+
+                                       A-9
+
+
+
+
+
+                   MINNESOTA MINING AND MANUFACTURING COMPANY
+
+                         ANNUAL MEETING OF STOCKHOLDERS
+
+                             TUESDAY, MAY 14, 2002
+
+                                    3M CENTER
+                           ST. PAUL, MINNESOTA 55144
+
+
+
+
+
+
+[PERF]--------------------------------------------------------------------[PERF]
+
+
+3M [LOGO]  MINNESOTA MINING AND MANUFACTURING COMPANY
+           3M CENTER
+           ST. PAUL, MINNESOTA 55144                                      PROXY
+--------------------------------------------------------------------------------
+THE BOARD OF DIRECTORS SOLICITS THIS PROXY FOR USE AT THE ANNUAL MEETING ON
+TUESDAY, MAY 14, 2002.
+
+
+The stockholder(s) whose signature(s) appear(s) on the reverse side of this
+proxy card hereby appoint(s) W.J. McNerney, Jr., E.A. Brennan, R.L. Ridgway or
+any of them, each with full power of substitution, as proxies, to vote all
+shares of common stock in Minnesota Mining and Manufacturing Company which the
+stockholder(s) would be entitled to vote on all matters which may properly come
+before the 2002 Annual Meeting of Stockholders and any adjournments thereof. THE
+PROXIES SHALL VOTE SUBJECT TO THE DIRECTION INDICATED ON THE REVERSE SIDE OF
+THIS CARD. THE PROXIES ARE AUTHORIZED TO VOTE IN THEIR DISCRETION UPON OTHER
+BUSINESS AS MAY PROPERLY COME BEFORE THE MEETING AND ANY ADJOURNMENTS OR
+POSTPONEMENTS THEREOF. THE PROXIES WILL VOTE AS THE BOARD OF DIRECTORS
+RECOMMENDS WHERE A CHOICE IS NOT SPECIFIED.
+
+FOR PARTICIPANTS IN 3M'S VOLUNTARY INVESTMENT PLAN AND EMPLOYEE STOCK OWNERSHIP
+PLAN (VIP) AND THE 3M SAVINGS PLAN:
+
+In accordance with the terms of the VIP and Savings Plan, shares allocated to my
+respective accounts in these plans on the record date will be voted by the
+trustee, State Street Bank and Trust Company, in accordance with the
+instructions indicated on the reverse side of this card, and in accordance with
+the judgment of the trustee upon other business as may properly come before the
+meeting and any adjournments or postponements thereof. If no instructions are
+provided or if this card is not received on or before May 10, 2002, shares held
+in my account for the Savings Plan will be voted by the trustee as directed by
+the Public Issues Committee of the 3M Board of Directors. If no instructions are
+provided or if this card is not received on or before May 10, 2002, shares held
+in my account for the VIP will be voted by the trustee in the same proportion
+that the other participants in the VIP direct the trustee to vote shares in
+their VIP accounts.
+
+           (CONTINUED, AND TO BE SIGNED AND DATED ON THE OTHER SIDE)
+
+
+VOTING INSTRUCTIONS:
+THERE ARE THREE WAYS TO VOTE YOUR PROXY
+
+                                                        | ---------------------|
+                                                        | COMPANY #            |
+                                                        | CONTROL #            |
+                                                        | ---------------------|
+
+VOTE BY INTERNET -- http://www.eproxy.com/mmm
+o Use the Internet to vote your proxy 24 hours a day, 7 days a week. Have your
+  proxy card in hand when you access the web site.
+o You will be prompted to enter your 3-digit company number and a 7-digit
+  control number (these numbers are located on the proxy card) to create an
+  electronic ballot.
+
+VOTE BY TELEPHONE -- 1-800-240-6326
+o Use any touch-tone telephone to vote your proxy 24 hours a day, 7 days a week.
+o Have your proxy card in hand when you call. You will be prompted to enter
+  your 3-digit company number and a 7-digit control number (these numbers are
+  located on the proxy card).
+o Follow the recorded instructions.
+
+VOTE BY MAIL
+Mark, sign, and date your proxy card and return it in the postage paid envelope
+provided so that it is received by May 10, 2002.
+
+YOUR INTERNET OR TELEPHONE VOTE AUTHORIZES THE NAMED PROXIES TO VOTE YOUR SHARES
+IN THE SAME MANNER AS IF YOU MARKED, SIGNED, AND RETURNED YOUR PROXY CARD. THE
+DEADLINE FOR INTERNET OR TELEPHONE VOTING IS 5:00 P.M. (CENTRAL DAYLIGHT TIME)
+ON MAY 10, 2002.
+
+PARTICIPANTS IN 3M'S VOLUNTARY INVESTMENT PLAN AND EMPLOYEE STOCK OWNERSHIP PLAN
+AND THE 3M SAVINGS PLAN MAY INSTRUCT THE TRUSTEE HOW TO VOTE THEIR SHARES VIA
+THE INTERNET, BY TELEPHONE, OR BY SIGNING AND RETURNING THE PROXY CARD.
+
+ IF YOU VOTE BY THE INTERNET OR BY TELEPHONE, DO NOT MAIL BACK THE PROXY CARD.
+
+Thank you for voting.
+
+                                                                          SHARES
+
+              THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" ITEMS
+                     1, 2, 3, 4, AND 5 AND "AGAINST" ITEM 6.
+
+ 1. Election of directors -             [ ] Vote FOR     [ ] Vote WITHHELD
+    Nominees to 2005 Class:                 all nominees     from all nominees
+                                            (except as marked)
+
+     01 Vance D. Coffman  02 Rozanne L. Ridgway  03 Louis W. Sullivan
+
+(INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDICATED NOMINEE,
+WRITE THE NUMBER(S) OF THE NOMINEE(S) IN THE BOX PROVIDED TO THE RIGHT.)
+
+                                                  -----------------------------
+                                                 |                             |
+                                                  -----------------------------
+
+                                PLEASE FOLD HERE
+[PERF]--------------------------------------------------------------------[PERF]
+
+
+       
+2.    Ratification of Independent Auditors                          [ ]    For     [ ]     Against     [ ]    Abstain
+
+3.    Approval of 2002 Management Stock Ownership Program           [ ]    For     [ ]     Against     [ ]    Abstain
+
+4.    Approval of performance goals under Performance Unit Plan     [ ]    For     [ ]     Against     [ ]    Abstain
+
+5.    Approval of amendment to Executive Profit Sharing Plan        [ ]    For     [ ]     Against     [ ]    Abstain
+
+6.    Stockholder proposal relating to poison pill                  [ ]    For     [ ]     Against     [ ]    Abstain
+
+7.    In their discretion, to vote upon other matters properly coming before the
+      meeting.
+
+
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED AS DIRECTED. IF NO DIRECTION IS
+GIVEN, IT WILL BE VOTED "FOR" ITEMS 1, 2, 3, 4, AND 5 AND "AGAINST" ITEM 6.
+
+Address Change? Mark Box [ ]
+Indicate changes below:
+
+                                                 Date __________________________
+
+                                                  -----------------------------
+                                                 |                             |
+                                                  -----------------------------
+                                                 Signature(s) in Box
+
+                                                 Please sign exactly as your
+                                                 name(s) appears above. If held
+                                                 in joint tenancy, all persons
+                                                 must sign. Trustees,
+                                                 administrators, etc. should
+                                                 include title and authority.
+                                                 Corporations should provide
+                                                 full name of corporation and
+                                                 title of authorized officer
+                                                 signing the proxy.
+
+
+
